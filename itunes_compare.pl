@@ -5,6 +5,8 @@ use FileHandle;
 use File::Slurp;
 use v5.10;
 use Data::Dumper;
+use File::Copy;
+use File::Path qw(make_path);
 
 my @clib = read_file("cindy-itunes.txt");
 my @dlib = read_file("dan-itunes.txt");
@@ -97,5 +99,14 @@ write_file("fullpath.txt", join( "\n", @worklist, ""));
 foreach (@worklist) {
     if (! -e $_) {
         say "NOT THERE: $_";
+    } else {
+	my $orig = $_;
+	say "orig: $orig";
+	$orig =~ /^\/Users\/dan\/Music\/iTunes\/Music\/\.\/(.+)\/(.+\.\w+)$/;
+	my $path = "import/" . $1;
+	my $file = $2;
+	make_path( $path ); 
+	say "copy $1 -- $2";
+        copy( $_, $path . "/" . $file) or die "Failed: $!";
     }
 }
