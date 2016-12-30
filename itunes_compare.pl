@@ -53,6 +53,22 @@ foreach my $ext (@badext) {
 # remove things that don't have an extension
 @worklist = map { /\.\w+$/ ? $_ : '' } @worklist;
 
+# remove dupes of Sharon Isbin
+@worklist = map { /Sharon Isbin/ ? '' : $_ } @worklist;
+
+@worklist = map { /Grace Under Pressure\/.+\.m4p$/ ? '' : $_ } @worklist;
+@worklist = map { /We Can't Dance/ ? '' : $_ } @worklist;
+@worklist = map { /Eric Uglum/ ? '' : $_ } @worklist;
+@worklist = map { /Feels Like Home/ ? '' : $_ } @worklist;
+@worklist = map { /Queen\/Queen_ Greatest Hits/ ? '' : $_ } @worklist;
+@worklist = map { /Live at The Mauch/ ? '' : $_ } @worklist;
+@worklist = map { /Southern Accents/ ? '' : $_ } @worklist;
+@worklist = map { /Who Are You/ ? '' : $_ } @worklist;
+@worklist = map { /Songs of Innocence/ ? '' : $_ } @worklist;
+@worklist = map { /Afterglow/ ? '' : $_ } @worklist;
+@worklist = map { /The Essential 3.0/ ? '' : $_ } @worklist;
+@worklist = map { /Waking Up The Neighbours/ ? '' : $_ } @worklist;
+
 @worklist = map { /\/\._/ ? '' : $_ } @worklist; # remove mac resouce files
 
 @worklist = grep { /.+/ } @worklist; # only take lines with something
@@ -74,5 +90,12 @@ say "extensions are " . join( " ", sort keys(%h));
 write_file( "output.txt", sort @worklist);
 # now copy these into a folder to import into Cindy's iTunes
 chomp @worklist;
-@worklist = map { "scp \"dan\@ubuntu:/mnt/user_data/dan_data/Music/iTunes/Music/$_\" \"import/$_\"\n"} @worklist;
-write_file("copy.sh", @worklist);
+@worklist = map { "/Users/dan/Music/iTunes/Music/$_" } @worklist;
+write_file("fullpath.txt", join( "\n", @worklist, ""));
+
+# see if these files exist
+foreach (@worklist) {
+    if (! -e $_) {
+        say "NOT THERE: $_";
+    }
+}

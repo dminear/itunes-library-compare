@@ -32,8 +32,6 @@
 ./Broken Bells/After the Disco/02 After the Disco.m4a
 ./Bruno Mars/If I Knew - Single/01 If I Knew.m4a
 ./Bruno Mars/If I Knew - Single/01 If I Knew.m4p
-./Bryan Adams/Waking Up The Neighbours/01 Is Your Mama Gonna Miss Ya_ 2.mp3
-./Bryan Adams/Waking Up The Neighbours/12 (Everything I Do) I Do It For You 2.mp3
 ./Carole King/Everyday Will Be Like a Holiday - Single/01 Everyday Will Be Like a Holiday 1.m4a
 ./Carole King/Everyday Will Be Like a Holiday - Single/01 Everyday Will Be Like a Holiday.m4a
 ./Cayucas/Bigfoot/01 Cayucos 1.m4a
@@ -82,26 +80,11 @@
 ./Eric Clapton/Old Sock/02 Angel 1.m4a
 ./Eric Clapton/Rush/10 Tears In Heaven 2.mp3
 ./Eric Clapton/The Breeze_ An Appreciation of JJ Cale/01 Call Me the Breeze.m4a
-./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 2.m4p
-./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 3.m4p
-./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 4.m4p
 ./Feist/Bittersweet Melodies - Single/01 Bittersweet Melodies 1.m4a
 ./Feist/Bittersweet Melodies - Single/01 Bittersweet Melodies.m4a
 ./Fleet Foxes/Helplessness Blues/04 Battery Kinzie.m4a
 ./Frazey Ford/Indian Ocean/01 September Fields.m4a
 ./Gary Go/Wonderful (Radio Edit) - Single/01 Wonderful (Radio Edit).m4a
-./Genesis/We Can't Dance/01 No Son Of Mine 2.mp3
-./Genesis/We Can't Dance/02 Jesus He Knows Me 2.mp3
-./Genesis/We Can't Dance/03 Driving The Last Spike 2.mp3
-./Genesis/We Can't Dance/04 I Can't Dance 2.mp3
-./Genesis/We Can't Dance/05 Never A Time 2.mp3
-./Genesis/We Can't Dance/06 Dreaming While You Sleep 2.mp3
-./Genesis/We Can't Dance/07 Tell Me Why 2.mp3
-./Genesis/We Can't Dance/08 Living Forever 2.mp3
-./Genesis/We Can't Dance/09 Hold On My Heart 2.mp3
-./Genesis/We Can't Dance/10 Way Of The World 2.mp3
-./Genesis/We Can't Dance/11 Since I Lost You 2.mp3
-./Genesis/We Can't Dance/12 Fading Lights 2.mp3
 ./Geoffrey Gurrumul Yunupingu/Wiyathul - Single/01 Wiyathul.m4a
 ./Gomez/A New Tide/11 Sunset Gates.m4p
 ./Gossip/Music for Men (Deluxe Version)/02 Heavy Cross.m4a
@@ -113,14 +96,6 @@
 ./HAIM/Days Are Gone/05 Honey & I.m4a
 ./Ha-Ash/Habitacion Doble/06 Already Home (With Brandi Carlile) 2.m4p
 ./Hamilton Leithauser/Black Hours (Deluxe Edition)/08 I Don't Need Anyone.m4a
-./Heart/The Essential 3.0/3-01 Sylvan Song.m4a
-./Heart/The Essential 3.0/3-02 Dream Of The Archer.m4a
-./Heart/The Essential 3.0/3-03 Bebe Le Strange.m4a
-./Heart/The Essential 3.0/3-04 Mistral Wind (Live).m4a
-./Heart/The Essential 3.0/3-05 Hit Single.m4a
-./Heart/The Essential 3.0/3-06 Strange Euphoria.m4a
-./Heart/The Essential 3.0/3-07 City's Burning.m4a
-./Heart/The Essential 3.0/3-08 Strong, Strong Wind.m4a
 ./Hiss Golden Messenger/Lateness of Dancers/02 Saturday's Song.m4a
 ./Holcombe Waller/Into the Dark Unknown/05 Hardliners 1.m4a
 ./Holcombe Waller/Into the Dark Unknown/05 Hardliners.m4a
@@ -196,15 +171,6 @@
 ./Nataly Dawn/Please Don't Scream - Single/03 Please Don't Scream 2.m4a
 ./Neko Case/People Got a Lotta Nerve - Single/01 People Got a Lotta Nerve.m4a
 ./Nickle Creek-Chris Thile/Stealing Second/07 Leaves Fall 2.mp3
-./Norah Jones/Feels Like Home/01 Sunrise 2.mp3
-./Norah Jones/Feels Like Home/02 What Am I To You_ 2.mp3
-./Norah Jones/Feels Like Home/03 Those Sweet Words 2.mp3
-./Norah Jones/Feels Like Home/05 In The Morning 2.mp3
-./Norah Jones/Feels Like Home/08 Toes 2.mp3
-./Norah Jones/Feels Like Home/09 Humble Me 2.mp3
-./Norah Jones/Feels Like Home/11 The Long Way Home 2.mp3
-./Norah Jones/Feels Like Home/12 The Prettiest Thing 2.mp3
-./Norah Jones/Feels Like Home/13 Don't Miss You At All 2.mp3
 ./Norah Jones/It Came Upon a Midnight Clear - Single/01 It Came Upon a Midnight Clear 1.m4a
 ./Norah Jones/It Came Upon a Midnight Clear - Single/01 It Came Upon a Midnight Clear.m4a
 ./Orchestra Baobab/Made In Dakar/01 Pape Ndiaye 2.m4p
@@ -220,10 +186,6 @@
 ./Phosphorescent/Muchacho/03 Ride On _ Right On.m4a
 ./Playing for Change/Playing For Change 3_ Songs Around the World/04 Down By the Riverside (feat. Keb' Mo', Preservation Hall Jazz Band & Grandpa Elliott).m4a
 ./Punch Brothers/The Phosphorescent Blues/04 I Blew It Off.m4a
-./Queen/Queen_ Greatest Hits/01 We Will Rock You 1.m4p
-./Queen/Queen_ Greatest Hits/01 We Will Rock You 2.m4p
-./Queen/Queen_ Greatest Hits/02 We Are the Champions 1.m4p
-./Queen/Queen_ Greatest Hits/02 We Are the Champions 2.m4p
 ./R.E.M_/ÜBerlin - Single/01 ÜBerlin.m4a
 ./Raphael Saadiq/100 Yard Dash - Single/01 100 Yard Dash 2.m4p
 ./Ray Charles/Genius Loves Company (10th Anniversary Edition)/01 Here We Go Again.m4a
@@ -232,62 +194,16 @@
 ./Rufus Wainwright/Sometimes You Need - Single/01 Sometimes You Need.m4a
 ./Rush/Caravan - Single/01 Caravan (Single Version).m4a
 ./Rush/Caravan - Single/02 BU2B (Single Version).m4a
-./Rush/Grace Under Pressure/01 Distant Early Warning 2.m4p
-./Rush/Grace Under Pressure/02 Afterimage 1.m4p
-./Rush/Grace Under Pressure/02 Afterimage 2.m4p
-./Rush/Grace Under Pressure/03 Red Sector A 1.m4p
-./Rush/Grace Under Pressure/03 Red Sector A 2.m4p
-./Rush/Grace Under Pressure/04 The Enemy Within, Pt. 1 of _Fear_ 1.m4p
-./Rush/Grace Under Pressure/04 The Enemy Within, Pt. 1 of _Fear_ 2.m4p
-./Rush/Grace Under Pressure/05 The Body Electric 2.m4p
-./Rush/Grace Under Pressure/06 Kid Gloves 1.m4p
-./Rush/Grace Under Pressure/06 Kid Gloves 2.m4p
-./Rush/Grace Under Pressure/07 Red Lenses 1.m4p
-./Rush/Grace Under Pressure/07 Red Lenses 2.m4p
-./Rush/Grace Under Pressure/08 Between the Wheels 2.m4p
 ./Sarah Jarosz/Build Me Up From Bones/01 Over the Edge.m4a
-./Sarah McLachlan/Afterglow/01 Fallen 1.m4p
-./Sarah McLachlan/Afterglow/01 Fallen 2.m4p
-./Sarah McLachlan/Afterglow/01 Fallen 2.mp3
 ./Sarah McLachlan/Shine On (Deluxe Edition)/01 In Your Shoes.m4a
 ./Say Hi/Um, Uh Oh (Bonus Track Version)/01 Dots On Maps.m4a
 ./Shakey Graves/And the War Came/03 Dearly Departed (feat. Esmé Patterson).m4a
 ./Shakey Graves/Dearly Departed (feat. Esmé Patterson) - Single/01 Dearly Departed (feat. Esmé Patterson).m4a
-./Sharon Isbin/Journey to the New World/01 Mr. Drewry's Accords 2.mp3
-./Sharon Isbin/Journey to the New World/02 Lord Willoughby's Welcome Home 2.mp3
-./Sharon Isbin/Journey to the New World/03 La Rossignol 2.mp3
-./Sharon Isbin/Journey to the New World/04 Greensleeves 2.mp3
-./Sharon Isbin/Journey to the New World/05 The Drunken Sailor 2.mp3
-./Sharon Isbin/Journey to the New World/06 Wild Mountain Thyme 2.mp3
-./Sharon Isbin/Journey to the New World/07 Andecy 2.mp3
-./Sharon Isbin/Journey to the New World/08 Wayfaring Stranger 2.mp3
-./Sharon Isbin/Journey to the New World/09 Joan Baez Suite, Opus 144_I. Fantasia_ Once I had a Sweetheart; Rambler Gambler; Barbara Allen 2.mp3
-./Sharon Isbin/Journey to the New World/10 Joan Baez Suite, Opus 144_II. The House of the Rising Sun 2.mp3
-./Sharon Isbin/Journey to the New World/11 Joan Baez Suite, Opus 144_III. The Lily of the West 2.mp3
-./Sharon Isbin/Journey to the New World/12 Joan Baez Suite, Opus 144_IV. The Unquiet Grave 2.mp3
-./Sharon Isbin/Journey to the New World/13 Joan Baez Suite, Opus 144_V. Silkie 2.mp3
-./Sharon Isbin/Journey to the New World/14 Joan Baez Suite, Opus 144_VI. Where have all the Flowers Gone_ 2.mp3
-./Sharon Isbin/Journey to the New World/15 Joan Baez Suite, Opus 144_VII. Finale_ Rake and Rambling Boy; Wildwood Flower; The Trees they do Grow High 2.mp3
-./Sharon Isbin/Journey to the New World/16 Go 'Way From My Window 2.mp3
-./Sharon Isbin/Journey to the New World/17 Strings & Threads Suite_I. Fair Dancer Reel 2.mp3
-./Sharon Isbin/Journey to the New World/18 Strings & Threads Suite_II. Sailor's Jig 2.mp3
-./Sharon Isbin/Journey to the New World/19 Strings & Threads Suite_III. Captain's Jig 2.mp3
-./Sharon Isbin/Journey to the New World/20 Strings & Threads Suite_IV. Off to Sea 2.mp3
-./Sharon Isbin/Journey to the New World/21 Strings & Threads Suite_V. Pilgrim's Waltz 2.mp3
-./Sharon Isbin/Journey to the New World/22 Strings & Threads Suite_VI. Road to Appalachia 2.mp3
-./Sharon Isbin/Journey to the New World/23 Strings & Threads Suite_VII. Shine On 2.mp3
-./Sharon Isbin/Journey to the New World/24 Strings & Threads Suite_VIII. Cotton Pickin' Blues 2.mp3
-./Sharon Isbin/Journey to the New World/25 Strings & Threads Suite_IX. Pickin' Parlor Rag 2.mp3
-./Sharon Isbin/Journey to the New World/26 Strings & Threads Suite_X. Queen of the Cumberland 2.mp3
-./Sharon Isbin/Journey to the New World/27 Strings & Threads Suite_XI. Texas Dance Hall Blues 2.mp3
-./Sharon Isbin/Journey to the New World/28 Strings & Threads Suite_XII. Swing 2.mp3
-./Sharon Isbin/Journey to the New World/29 Strings & Threads Suite_XIII. Sweet Suzanne 2.mp3
 ./Sharon Jones & The Dap-Kings/Give the People What They Want (Deluxe Version)/02 Stranger to My Happiness.m4a
 ./She & Him/A Very She & Him Christmas/04 I'll Be Home for Christmas 1.m4a
 ./She & Him/A Very She & Him Christmas/04 I'll Be Home for Christmas.m4a
 ./She & Him/Classics/04 Stay Awhile.m4a
 ./She & Him/Volume 3/02 Never Wanted Your Love.m4a
-./Sheryl Crow/Feels Like Home/03 Give It To Me.m4a
 ./Slow Club/Wanderer Wandering - Single/01 Wanderer Wandering.m4a
 ./Steel Magnolia/Keep On Lovin' You - Single/01 Keep On Lovin' You 1.m4a
 ./Steel Magnolia/Keep On Lovin' You - Single/01 Keep On Lovin' You.m4a
@@ -320,38 +236,14 @@
 ./The Postal Service/Give Up (Deluxe 10th Anniversary Edition)/1-02 Such Great Heights.m4a
 ./The Tough Alliance/A New Chance/07 Neo Violence 2.m4p
 ./The Tragically Hip/We Are the Same (Bonus Track Version)/04 Coffee Girl.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/02 Summertime (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/03 Intro (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/03 Intro (Live) 2.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/06 Intro (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/06 Intro (Live) 2.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/08 Arlington (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/09 Bring Me Li'l Water Silvy (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/13 Intro (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/13 Intro (Live) 2.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/17 Intro (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/17 Intro (Live) 2.m4a
 ./The Watson Twins/Modern Man + Devil In You - Single/01 Modern Man.m4a
-./The Who/Who Are You/01 New Song 2.mp3
-./The Who/Who Are You/02 Had Enough 2.mp3
-./The Who/Who Are You/03 905 2.mp3
-./The Who/Who Are You/04 Sister Disco 2.mp3
 ./Thievery Corporation/Hare Krisna-Single/01 Hare Krisna 2.m4p
-./Tom Petty & The Heartbreakers/Southern Accents/01 Rebels 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/02 It Ain't Nothin' To Me 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/03 Don't Come Around Here No More 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/04 Southern Accents 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/05 Make It Better (Forget About Me) 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/06 Spike 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/08 Mary's New Car 2.mp3
 ./Travis/Ode to J. Smith/06 Last Words.m4a
 ./Triumph/Allied Forces/02 Magic Power.m4a
 ./Triumph/Allied Forces/06 Fight the Good Fight.m4a
 ./Triumph/Allied Forces/09 Say Goodbye.m4a
 ./Triumph/Just a Game/07 Hold On.m4a
 ./Twin Forks/Twin Forks/01 Can't Be Broken.m4a
-./U2/Songs of Innocence/08 Cedarwood Road.m4a
-./U2/Songs of Innocence/09 Sleep Like a Baby Tonight.m4a
 ./Unknown Artist/Unknown Album/02-08-2015_00-08_msg94215.mp3
 ./Unknown Artist/Unknown Album/20121226 161746 1.m4a
 ./Unknown Artist/Unknown Album/20121226 161746.m4a
