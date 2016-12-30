@@ -4,6 +4,7 @@ use strict;
 use FileHandle;
 use File::Slurp;
 use v5.10;
+use Data::Dumper;
 
 my @clib = read_file("cindy-itunes.txt");
 my @dlib = read_file("dan-itunes.txt");
@@ -41,4 +42,33 @@ foreach (@dlib3) {
 }
 say "A total of " . @worklist . " items not found";
 
-write_file( "output.txt", @worklist);
+my @badext = qw/png jpg mov plist css js html txt xml itlp DS_Store pdf aif/;
+foreach my $ext (@badext) {
+    @worklist = map {/\.$ext$/ ? '': $_} @worklist;  # remove bad extention files
+}
+
+# remove things that don't have an extension
+@worklist = map { /\.\w+$/ ? $_ : '' } @worklist;
+
+@worklist = map { /\/\._/ ? '' : $_ } @worklist; # remove mac resouce files
+
+@worklist = grep { /.+/ } @worklist; # only take lines with something
+
+say "A total of " . @worklist . " items not found after removing stuff";
+
+# now put them in buckets
+my %h;
+foreach my $i (@worklist) {
+    $i =~ /\.(\w+)$/;
+    push @{$h{$1}}, $i;
+}
+
+say "extensions are " . join( " ", sort keys(%h));
+# extensions are MP3 WAV m4a m4p mp3 wav
+
+# all files good now!
+
+write_file( "output.txt", sort @worklist);
+# now copy these into a folder to import into Cindy's iTunes
+@worklist = map { 'scp "dan@ubuntu:/mnt/user_data/dan_data/Music/iTunes/Music/$_" "import/$_"' . "\n"} @worklist;
+write_file("copy.sh", @worklist);

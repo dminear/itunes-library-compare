@@ -1,1968 +1,980 @@
-./Lady Antebellum
-./Lady Antebellum/Need You Now
-./Lady Antebellum/Need You Now/01 Need You Now.m4a
-./Adele
-./Adele/Rumour Has It - Single
 ./Adele/Rumour Has It - Single/01 Rumour Has It.m4a
-./The Barr Brothers
-./The Barr Brothers/The Barr Brothers
-./The Barr Brothers/The Barr Brothers/._01 Beggar In the Morning 1.m4a
-./The Barr Brothers/The Barr Brothers/01 Beggar In the Morning 1.m4a
-./The Barr Brothers/The Barr Brothers/01 Beggar In the Morning.m4a
-./Coldplay/Ghost Stories
-./Coldplay/Ghost Stories/._01 Always In My Head.m4a
-./Coldplay/Ghost Stories/01 Always In My Head.m4a
-./Michael Bublé
-./Michael Bublé/Cold December Night - Single
-./Michael Bublé/Cold December Night - Single/._01 Cold December Night.m4a
-./Michael Bublé/Cold December Night - Single/01 Cold December Night.m4a
-./Minor Alps
-./Minor Alps/Get There
-./Minor Alps/Get There/._02 I Don't Know What to Do With My Hands.m4a
-./Minor Alps/Get There/02 I Don't Know What to Do With My Hands.m4a
-./Iron & Wine
-./Iron & Wine/Grace for Saints and Ramblers - Single
-./Iron & Wine/Grace for Saints and Ramblers - Single/._01 Grace for Saints and Ramblers.m4a
-./Iron & Wine/Grace for Saints and Ramblers - Single/01 Grace for Saints and Ramblers.m4a
-./Iron & Wine/Grace for Saints and Ramblers - Single/._01 Grace for Saints and Ramblers 1.m4a
-./Iron & Wine/Grace for Saints and Ramblers - Single/01 Grace for Saints and Ramblers 1.m4a
-./Twin Forks
-./Twin Forks/Twin Forks
-./Twin Forks/Twin Forks/._01 Can't Be Broken.m4a
-./Twin Forks/Twin Forks/01 Can't Be Broken.m4a
-./Diego Garcia
-./Diego Garcia/You Were Never There - Single
-./Diego Garcia/You Were Never There - Single/01 You Were Never There.m4a
-./The Avett Brothers
-./The Avett Brothers/I and Love and You - Single
-./The Avett Brothers/I and Love and You - Single/01 I and Love and You.m4p
-./The Avett Brothers/Live and Die - Single
-./The Avett Brothers/Live and Die - Single/01 Live and Die.m4a
-./The Avett Brothers/Live and Die - Single/01 Live and Die 1.m4a
-./The Avett Brothers/Live and Die - Single/._01 Live and Die 1.m4a
-./Sara Watkins
-./Sara Watkins/Sara Watkins
-./Sara Watkins/Sara Watkins/06 Any Old Time.m4a
-./Sara Watkins/Sara Watkins/03 My Friend.m4a
-./Sara Watkins/Sara Watkins/01 All This TIme 1.m4a
-./Sara Watkins/Sara Watkins/07 Pony.m4a
-./Sara Watkins/Sara Watkins/05 Same Mistakes.m4a
-./Sara Watkins/Sara Watkins/10 Give Me Jesus.m4a
-./Sara Watkins/Sara Watkins/09 Jefferson.m4a
-./Sara Watkins/Sara Watkins/01 All This TIme.m4a
-./Sara Watkins/Sara Watkins/14 Where Will You Be.m4a
-./Sara Watkins/Sara Watkins/._01 All This TIme 1.m4a
-./Sara Watkins/Sara Watkins/02 Long Hot Summer Days.m4a
-./Sara Watkins/Sara Watkins/13 Will We Go.m4a
-./Sara Watkins/Sara Watkins/12 Too Much.m4a
-./Sara Watkins/Sara Watkins/11 Bygones.m4a
-./Sara Watkins/Sara Watkins/04 Freiderick.m4a
-./Sara Watkins/Sara Watkins/08 Lord Won't You Help Me.m4a
-./Gomez
-./Gomez/A New Tide
-./Gomez/A New Tide/11 Sunset Gates.m4p
-./Junip
-./Junip/Fields
-./Junip/Fields/01 In Every Direction.m4a
-./Brandi Carlile
-./Brandi Carlile/The Firewatcher's Daughter
-./Brandi Carlile/The Firewatcher's Daughter/01 Wherever Is Your Heart.m4a
-./Brandi Carlile/Give Up the Ghost
-./Brandi Carlile/Give Up the Ghost/02 Dying Day.m4a
-./James Taylor/Before This World
-./James Taylor/Before This World/01 Today Today Today.m4a
-./James Taylor/Before This World/._01 Today Today Today.m4a
-./Miguel
-./Miguel/Kaleidoscope Dream
-./Miguel/Kaleidoscope Dream/01 Adorn.m4a
-./Miguel/Kaleidoscope Dream/._01 Adorn 1.m4a
-./Miguel/Kaleidoscope Dream/01 Adorn 1.m4a
-./Macklemore & Ryan Lewis
-./Macklemore & Ryan Lewis/The Heist
-./Macklemore & Ryan Lewis/The Heist/05 Same Love (feat. Mary Lambert) 1.m4a
-./Macklemore & Ryan Lewis/The Heist/._05 Same Love (feat. Mary Lambert) 1.m4a
-./Macklemore & Ryan Lewis/The Heist/05 Same Love (feat. Mary Lambert).m4a
-./Macklemore & Ryan Lewis/The Heist/05 Same Love (feat. Mary Lambert) 2.m4a
-./Other Lives
-./Other Lives/Black Tables - Single
-./Other Lives/Black Tables - Single/01 Black Tables.m4a
-./The Black Keys
-./The Black Keys/Turn Blue
-./The Black Keys/Turn Blue/._03 Turn Blue.m4a
-./The Black Keys/Turn Blue/03 Turn Blue.m4a
-./The Black Keys/Run Right Back - Single
-./The Black Keys/Run Right Back - Single/._01 Run Right Back 1.m4a
-./The Black Keys/Run Right Back - Single/01 Run Right Back.m4a
-./The Black Keys/Run Right Back - Single/01 Run Right Back 1.m4a
-./The Civil Wars
-./The Civil Wars/The Civil Wars
-./The Civil Wars/The Civil Wars/._04 Dust to Dust.m4a
-./The Civil Wars/The Civil Wars/04 Dust to Dust.m4a
-./Jimmy Greene
-./Jimmy Greene/Beautiful Life
-./Jimmy Greene/Beautiful Life/04 Ana's Way (feat. Kurt Elling).m4a
-./Dum Dum Girls
-./Dum Dum Girls/Too True
-./Dum Dum Girls/Too True/04 Are You Okay_.m4a
-./Dum Dum Girls/Too True/._04 Are You Okay_.m4a
-./Alexander
-./Alexander/Truth - Single
-./Alexander/Truth - Single/01 Truth.m4a
-./Natalie Maines
-./Natalie Maines/Mother
-./Natalie Maines/Mother/._10 Take It On Faith.m4a
-./Natalie Maines/Mother/10 Take It On Faith.m4a
-./Shakey Graves
-./Shakey Graves/Dearly Departed (feat. Esmé Patterson) - Single
-./Shakey Graves/Dearly Departed (feat. Esmé Patterson) - Single/._01 Dearly Departed (feat. Esmé Patterson).m4a
-./Shakey Graves/Dearly Departed (feat. Esmé Patterson) - Single/01 Dearly Departed (feat. Esmé Patterson).m4a
-./Shakey Graves/And the War Came
-./Shakey Graves/And the War Came/03 Dearly Departed (feat. Esmé Patterson).m4a
-./City and Colour
-./City and Colour/Fragile Bird - Single
-./City and Colour/Fragile Bird - Single/01 Fragile Bird.m4a
-./City and Colour/Fragile Bird - Single/._01 Fragile Bird 1.m4a
-./City and Colour/Fragile Bird - Single/01 Fragile Bird 1.m4a
-./Gossip
-./Gossip/Music for Men (Deluxe Version)
-./Gossip/Music for Men (Deluxe Version)/02 Heavy Cross.m4a
-./Arcade Fire
-./Arcade Fire/Reflektor
-./Arcade Fire/Reflektor/1-01 Reflektor.m4a
-./Arcade Fire/Reflektor/._1-01 Reflektor.m4a
-./The Decemberists
-./The Decemberists/The Rake's Song - Single
-./The Decemberists/The Rake's Song - Single/01 The Rake's Song.m4a
-./Greg Laswell
-./Greg Laswell/Three Flights from Alto Nido
-./Greg Laswell/Three Flights from Alto Nido/05 How the Day Sounds.m4a
-./Steel Magnolia
-./Steel Magnolia/Keep On Lovin' You - Single
-./Steel Magnolia/Keep On Lovin' You - Single/._01 Keep On Lovin' You 1.m4a
-./Steel Magnolia/Keep On Lovin' You - Single/01 Keep On Lovin' You 1.m4a
-./Steel Magnolia/Keep On Lovin' You - Single/01 Keep On Lovin' You.m4a
-./The Postal Service
-./The Postal Service/Give Up (Deluxe 10th Anniversary Edition)
-./The Postal Service/Give Up (Deluxe 10th Anniversary Edition)/._1-02 Such Great Heights.m4a
-./The Postal Service/Give Up (Deluxe 10th Anniversary Edition)/1-02 Such Great Heights 1.m4a
-./The Postal Service/Give Up (Deluxe 10th Anniversary Edition)/._1-02 Such Great Heights 1.m4a
-./The Postal Service/Give Up (Deluxe 10th Anniversary Edition)/1-02 Such Great Heights.m4a
-./Kelis
-./Kelis/Food
-./Kelis/Food/._01 Jerk Ribs.m4a
-./Kelis/Food/01 Jerk Ribs.m4a
-./Mikal Cronin
-./Mikal Cronin/MCIII
-./Mikal Cronin/MCIII/._01 Turn Around.m4a
-./Mikal Cronin/MCIII/01 Turn Around.m4a
-./The Mumlers
-./The Mumlers/Don't Throw Me Away (Bonus Track Version)
-./The Mumlers/Don't Throw Me Away (Bonus Track Version)/03 Tangled Up With You.m4a
-./Marie & the redCat
-./Marie & the redCat/Home
-./Marie & the redCat/Home/08 Beautiful Day.m4a
-./Marie & the redCat/Home/._08 Beautiful Day.m4a
-./Ian Axel
-./Ian Axel/This Is the New Year
-./Ian Axel/This Is the New Year/06 This Is the New Year (feat. Chad Vaccarino).m4a
-./Thievery Corporation/Hare Krisna-Single/01 Hare Krisna 2.m4p
-./Carole King
-./Carole King/Everyday Will Be Like a Holiday - Single
-./Carole King/Everyday Will Be Like a Holiday - Single/._01 Everyday Will Be Like a Holiday 1.m4a
-./Carole King/Everyday Will Be Like a Holiday - Single/01 Everyday Will Be Like a Holiday.m4a
-./Carole King/Everyday Will Be Like a Holiday - Single/01 Everyday Will Be Like a Holiday 1.m4a
-./Slow Club
-./Slow Club/Wanderer Wandering - Single
-./Slow Club/Wanderer Wandering - Single/01 Wanderer Wandering.m4a
-./Slow Club/Wanderer Wandering - Single/._01 Wanderer Wandering.m4a
-./Jim James
-./Jim James/Regions of Light and Sound of God
-./Jim James/Regions of Light and Sound of God/._04 A New Life 1.m4a
-./Jim James/Regions of Light and Sound of God/04 A New Life.m4a
-./Jim James/Regions of Light and Sound of God/._04 A New Life.m4a
-./Jim James/Regions of Light and Sound of God/04 A New Life 2.m4a
-./Jim James/Regions of Light and Sound of God/04 A New Life 1.m4a
-./Holly Miranda
-./Holly Miranda/The Magician's Private Library (Bonus Track Version)
-./Holly Miranda/The Magician's Private Library (Bonus Track Version)/03 Waves.m4a
-./Sturgill Simpson
-./Sturgill Simpson/Metamodern Sounds in Country Music
-./Sturgill Simpson/Metamodern Sounds in Country Music/08 Just Let Go.m4a
-./Pink Martini
-./Pink Martini/Joy to the World
-./Pink Martini/Joy to the World/10 We Three Kings.m4a
-./The Tragically Hip
-./The Tragically Hip/We Are the Same (Bonus Track Version)
-./The Tragically Hip/We Are the Same (Bonus Track Version)/04 Coffee Girl.m4a
-./Great Lake Swimmers
-./Great Lake Swimmers/Lost Channels
-./Great Lake Swimmers/Lost Channels/09 Still.m4a
-./Ben Harper & Charlie Musselwhite
-./Ben Harper & Charlie Musselwhite/Get Up! (Deluxe Version)
-./Ben Harper & Charlie Musselwhite/Get Up! (Deluxe Version)/._05 You Found Another Lover (I Lost Another Friend) 1.m4a
-./Ben Harper & Charlie Musselwhite/Get Up! (Deluxe Version)/05 You Found Another Lover (I Lost Another Friend).m4a
-./Ben Harper & Charlie Musselwhite/Get Up! (Deluxe Version)/05 You Found Another Lover (I Lost Another Friend) 1.m4a
-./Ron Block/Walking Song
-./Ron Block/Walking Song/13 Sunshine Billy.mp3
-./Ron Block/Walking Song/09 The Fields Of Aidlewinn.mp3
-./Ron Block/Walking Song/06 Nickel Tree Line.mp3
-./Ron Block/Walking Song/01 Walking Song.mp3
-./Ron Block/Walking Song/12 Colors.mp3
-./Ron Block/Walking Song/08 What Wondrous Love Is This_.mp3
-./Ron Block/Walking Song/05 Summer's Lullaby.mp3
-./Ron Block/Walking Song/14 Rest, My Soul.mp3
-./Ron Block/Walking Song/07 Let There Be Beauty.mp3
-./Ron Block/Walking Song/10 Chase Me To The Ocean.mp3
-./Ron Block/Walking Song/04 Ivy.mp3
-./Ron Block/Walking Song/02 Devil In The Strawstack.mp3
-./Ron Block/Walking Song/11 Shortnin' Bread.mp3
-./Ron Block/Walking Song/03 Jordan, Carry Me.mp3
-./Ron Block/Hogan's House of Music
-./Ron Block/Hogan's House of Music/13 '65 Mustang Blues  (featuring_ Sam Bush, Jerry Douglas).mp3
-./Ron Block/Hogan's House of Music/06 Gentle Annie  (featuring Tim Crouch).mp3
-./Ron Block/Hogan's House of Music/01 Smartville.mp3
-./Ron Block/Hogan's House of Music/03 Wolves A-Howling.mp3
-./Ron Block/Hogan's House of Music/05 Clinch Mountain Backstep.mp3
-./Ron Block/Hogan's House of Music/12 Lonesome Road Blues.mp3
-./Ron Block/Hogan's House of Music/10 Calico.mp3
-./Ron Block/Hogan's House of Music/16 Home Sweet Home.mp3
-./Ron Block/Hogan's House of Music/11 You Are My Sunshine.mp3
-./Ron Block/Hogan's House of Music/04 The Spotted Pony  (featuring_ Stuart Duncan, Alison Krauss, Adam Steffey).mp3
-./Ron Block/Hogan's House of Music/14 Brushy Fork of John's Creek.mp3
-./Ron Block/Hogan's House of Music/15 Carter's Creek Pike.mp3
-./Ron Block/Hogan's House of Music/09 Seneca Square Dance  (featuring_  Sierra Hull).mp3
-./Ron Block/Hogan's House of Music/08 Mollie Catherine Carter.mp3
-./Ron Block/Hogan's House of Music/07 Mooney Flat Road (featuring_ Stuart Duncan, Alison Krauss).mp3
-./Ron Block/Hogan's House of Music/02 Hogan's House of Boogie.mp3
-./Gregory Porter
-./Gregory Porter/Liquid Spirit
-./Gregory Porter/Liquid Spirit/._05 Hey Laura.m4a
-./Gregory Porter/Liquid Spirit/05 Hey Laura.m4a
-./The Hot Sardines
-./The Hot Sardines/The Hot Sardines
-./The Hot Sardines/The Hot Sardines/._03 Wake Up In Paris.m4a
-./The Hot Sardines/The Hot Sardines/03 Wake Up In Paris.m4a
-./Frazey Ford
-./Frazey Ford/Indian Ocean
-./Frazey Ford/Indian Ocean/._01 September Fields.m4a
-./Frazey Ford/Indian Ocean/01 September Fields.m4a
-./Genesis/We Can't Dance/09 Hold On My Heart 2.mp3
-./Genesis/We Can't Dance/07 Tell Me Why 2.mp3
-./Genesis/We Can't Dance/03 Driving The Last Spike 2.mp3
-./Genesis/We Can't Dance/08 Living Forever 2.mp3
-./Genesis/We Can't Dance/05 Never A Time 2.mp3
-./Genesis/We Can't Dance/12 Fading Lights 2.mp3
-./Genesis/We Can't Dance/10 Way Of The World 2.mp3
-./Genesis/We Can't Dance/06 Dreaming While You Sleep 2.mp3
-./Genesis/We Can't Dance/02 Jesus He Knows Me 2.mp3
-./Genesis/We Can't Dance/11 Since I Lost You 2.mp3
-./Genesis/We Can't Dance/01 No Son Of Mine 2.mp3
-./Genesis/We Can't Dance/04 I Can't Dance 2.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/16 The Night Inside Me.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/07 In The Shape Of A Heart.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/08 Lawless Avenues.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/15 The Naked Ride Home.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/01 Running On Empty.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/11 Sky Blue And Black.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/12 I'm Alive.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/03 Boulevard.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/13 The Barricades Of Heaven.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/09 Lives In The Balance.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/05 Tender Is The Night.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/06 Lawyers In Love.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/14 Looking East.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/02 You Love The Thunder.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/10 I Am A Patriot.mp3
-./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/04 Somebody's Baby.mp3
-./Jackson Browne/Standing In the Breach
-./Jackson Browne/Standing In the Breach/._01 The Birds of St. Marks.m4a
-./Jackson Browne/Standing In the Breach/01 The Birds of St. Marks.m4a
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/13 The Pretender.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/16 Stay.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/08 For A Dancer.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/14 Here Come Those Tears Again.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/06 Redneck Friend.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/01 Doctor My Eyes.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/12 Your Bright Baby Blues.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/15 The Load-Out.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/05 These Days.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/11 Before The Deluge.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/09 Fountain Of Sorrow.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/07 For Everyman.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/10 Late For The Sky.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/03 Rock Me On The Water.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/02 Jamaica Say You Will.mp3
-./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/04 Take It Easy.mp3
-./Phantogram
-./Phantogram/Mouthful of Diamonds
-./Phantogram/Mouthful of Diamonds/01 Mouthful Of Diamonds.m4a
-./Hunter Hunted
-./Hunter Hunted/Hunter Hunted - EP
-./Hunter Hunted/Hunter Hunted - EP/._03 End of the World.m4a
-./Hunter Hunted/Hunter Hunted - EP/03 End of the World.m4a
-./Jack Johnson
-./Jack Johnson/From Here to Now to You
-./Jack Johnson/From Here to Now to You/._07 As I Was Saying.m4a
-./Jack Johnson/From Here to Now to You/07 As I Was Saying.m4a
-./Jack Johnson/Jack Johnson & Friends - Best of Kokua Festival (A Benefit for the Kokua Hawaii Foundation)
-./Jack Johnson/Jack Johnson & Friends - Best of Kokua Festival (A Benefit for the Kokua Hawaii Foundation)/._01 Better Together (Live) 1.m4a
-./Jack Johnson/Jack Johnson & Friends - Best of Kokua Festival (A Benefit for the Kokua Hawaii Foundation)/01 Better Together (Live).m4a
-./Jack Johnson/Jack Johnson & Friends - Best of Kokua Festival (A Benefit for the Kokua Hawaii Foundation)/01 Better Together (Live) 1.m4a
-./Jack Johnson/At or With Me - Single
-./Jack Johnson/At or With Me - Single/01 At or With Me.m4a
-./Yeah Yeah Yeahs
-./Yeah Yeah Yeahs/Mosquito
-./Yeah Yeah Yeahs/Mosquito/10 Despair.m4a
-./Yeah Yeah Yeahs/Mosquito/._10 Despair.m4a
-./Young the Giant
-./Young the Giant/Mind Over Matter
-./Young the Giant/Mind Over Matter/04 Crystallized.m4a
-./Young the Giant/Mind Over Matter/._04 Crystallized.m4a
-./P!nk
-./P!nk/Raise Your Glass - Single
-./P!nk/Raise Your Glass - Single/01 Raise Your Glass.m4a
-./P!nk/The Truth About Love
-./P!nk/The Truth About Love/04 Just Give Me a Reason (feat. Nate Ruess).m4a
-./P!nk/The Truth About Love/._04 Just Give Me a Reason (feat. Nate Ruess).m4a
-./P!nk/The Truth About Love/._14 Chaos & Piss.m4a
-./P!nk/The Truth About Love/07 Slut Like You.m4a
-./P!nk/The Truth About Love/11 Here Comes the Weekend (feat. Eminem).m4a
-./P!nk/The Truth About Love/._01 Are We All We Are.m4a
-./P!nk/The Truth About Love/._12 Where Did the Beat Go_.m4a
-./P!nk/The Truth About Love/._13 The Great Escape.m4a
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/audio
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/audio/Pink_TheTruthAboutLove_backgroundaudio.m4a
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/TuneKit
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/TuneKit/sounds
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/TuneKit/sounds/Selection.aif
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/TuneKit/sounds/SelectionChange.aif
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/TuneKit/sounds/Exit.aif
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/TuneKit/sounds/Limit.aif
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/TuneKit/src
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/TuneKit/src/TuneKit.js
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/index.html
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/controllers
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/controllers/home.js
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/controllers/songs.js
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/controllers/photos.js
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/controllers/linernotes.js
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/controllers/data.js
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/controllers/credits.js
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/views
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/views/songs.html
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/views/photos.html
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/views/credits.html
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/views/linernotes.html
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/views/home.html
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/manifest.xml
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/The Truth About Love - iTunes LP.itlp
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/css
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/css/scrollbar-reset.css
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/css/home.css
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/css/shared.css
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/css/credits.css
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/css/songs.css
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/css/linernotes.css
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/css/photos.css
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/iTunesMetadata.plist
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/linernotes_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/linernotes_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/play_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/url_01_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/photos_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/bg_home.mov
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/photos_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/credits_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/play_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/url_01_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/songs_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/songs_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/bg_home_intro.mov
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/credits_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/home/bg_home.jpg
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_09_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_14_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_04_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/home_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_13_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_08_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_09_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_05_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_01_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_15_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_05_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_06_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_05_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_12_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_14_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_13_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/bg_songs.jpg
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_15_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_12_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_07_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_03_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_11_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_12_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_03_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_11_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_11_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/home_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_10_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_01_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_06_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_07_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_02_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_09_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_02_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_01_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_04_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_13_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_02_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_06_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_03_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_07_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_08_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_10_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_14_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_04_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_08_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_10_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/songs/track_15_x.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/interface
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/interface/bleed.jpg
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/home_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_08.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/left_arrow_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_01.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/bg_photos.jpg
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_09.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_04.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_06.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_03.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/left_arrow_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/home_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_10.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_07.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_02.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/photo_05.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/right_arrow_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/photos/right_arrow_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/credits
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/credits/home_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/credits/scroll_bar.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/credits/home_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/credits/scroll_thumb.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/credits/bg_credits.jpg
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/credits/credits_content.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/linernotes
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/linernotes/home_a.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/linernotes/home_i.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/linernotes/linernotes_content.png
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/images/linernotes/bg_linernotes.jpg
-./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/iTunesArtwork
-./P!nk/The Truth About Love/14 Chaos & Piss.m4a
-./P!nk/The Truth About Love/._09 Beam Me Up.m4a
-./P!nk/The Truth About Love/13 The Great Escape.m4a
-./P!nk/The Truth About Love/01 Are We All We Are.m4a
-./P!nk/The Truth About Love/05 True Love (feat. Lily Allen).m4a
-./P!nk/The Truth About Love/._07 Slut Like You.m4a
-./P!nk/The Truth About Love/._10 Walk of Shame.m4a
-./P!nk/The Truth About Love/12 Where Did the Beat Go_.m4a
-./P!nk/The Truth About Love/._11 Here Comes the Weekend (feat. Eminem).m4a
-./P!nk/The Truth About Love/._03 Try.m4a
-./P!nk/The Truth About Love/03 Try.m4a
-./P!nk/The Truth About Love/09 Beam Me Up.m4a
-./P!nk/The Truth About Love/._02 Blow Me (One Last Kiss).m4a
-./P!nk/The Truth About Love/._08 The Truth About Love.m4a
-./P!nk/The Truth About Love/10 Walk of Shame.m4a
-./P!nk/The Truth About Love/06 How Come You're Not Here.m4a
-./P!nk/The Truth About Love/._15 Timebomb.m4a
-./P!nk/The Truth About Love/15 Timebomb.m4a
-./P!nk/The Truth About Love/02 Blow Me (One Last Kiss).m4a
-./P!nk/The Truth About Love/._06 How Come You're Not Here.m4a
-./P!nk/The Truth About Love/08 The Truth About Love.m4a
-./P!nk/The Truth About Love/._05 True Love (feat. Lily Allen).m4a
-./Ha-Ash/Habitacion Doble/06 Already Home (With Brandi Carlile) 2.m4p
-./Janelle Monáe
-./Janelle Monáe/The Electric Lady
-./Janelle Monáe/The Electric Lady/._09 Dance Apocalyptic.m4a
-./Janelle Monáe/The Electric Lady/09 Dance Apocalyptic.m4a
-./Washed Out
-./Washed Out/Paracosm (Bonus Track Version)
-./Washed Out/Paracosm (Bonus Track Version)/02 It All Feels Right 1.m4a
-./Washed Out/Paracosm (Bonus Track Version)/._02 It All Feels Right.m4a
-./Washed Out/Paracosm (Bonus Track Version)/02 It All Feels Right.m4a
-./Washed Out/Paracosm (Bonus Track Version)/._02 It All Feels Right 1.m4a
-./Zee Avi
-./Zee Avi/Zee Avi
-./Zee Avi/Zee Avi/10 Darling.m4a
-./Peter Bjorn and John
-./Peter Bjorn and John/Eyes - Single
-./Peter Bjorn and John/Eyes - Single/01 Eyes.m4p
-./Gregg Allman
-./Gregg Allman/Just Another Rider
-./Gregg Allman/Just Another Rider/01 Just Another Rider.m4a
-./Brett Dennen
-./Brett Dennen/Hope for the Hopeless
-./Brett Dennen/Hope for the Hopeless/01 San Francisco.m4a
-./Triumph/Just a Game
-./Triumph/Just a Game/07 Hold On.m4a
-./Triumph/Allied Forces
-./Triumph/Allied Forces/09 Say Goodbye.m4a
-./Triumph/Allied Forces/02 Magic Power.m4a
-./Triumph/Allied Forces/06 Fight the Good Fight.m4a
-./BOY
-./BOY/Mutual Friends
-./BOY/Mutual Friends/04 Little Numbers 2.m4a
-./BOY/Mutual Friends/04 Little Numbers.m4a
-./BOY/Mutual Friends/._04 Little Numbers 1.m4a
-./BOY/Mutual Friends/04 Little Numbers 1.m4a
-./BOY/Mutual Friends/._04 Little Numbers.m4a
-./Clay Aiken/This Is the Night - Single
-./Clay Aiken/This Is the Night - Single/._01 Bridge over Troubled Water 2.m4p
-./Clay Aiken/This Is the Night - Single/._01 Bridge over Troubled Water 1.m4p
-./Clay Aiken/This Is the Night - Single/01 Bridge over Troubled Water.m4p
-./Clay Aiken/This Is the Night - Single/01 Bridge over Troubled Water 2.m4p
-./Clay Aiken/This Is the Night - Single/01 Bridge over Troubled Water 1.m4p
-./Jason Isbell
-./Jason Isbell/Something More Than Free
-./Jason Isbell/Something More Than Free/._03 Flagship.m4a
-./Jason Isbell/Something More Than Free/03 Flagship.m4a
-./Steve Morse
-./Steve Morse/Prime Cuts
-./Steve Morse/Prime Cuts/03 La Villa Strangiato.m4a
-./Raphael Saadiq/100 Yard Dash - Single/01 100 Yard Dash 2.m4p
-./Death Cab for Cutie
-./Death Cab for Cutie/Underneath the Sycamore - Single
-./Death Cab for Cutie/Underneath the Sycamore - Single/01 Underneath the Sycamore.m4p
-./Madeleine Peyroux
-./Madeleine Peyroux/Standing On the Rooftop
-./Madeleine Peyroux/Standing On the Rooftop/02 The Kind You Can't Afford.m4a
-./Madeleine Peyroux/Standing On the Rooftop/._02 The Kind You Can't Afford 1.m4a
-./Madeleine Peyroux/Standing On the Rooftop/02 The Kind You Can't Afford 1.m4a
-./Madeleine Peyroux/The Blue Room
-./Madeleine Peyroux/The Blue Room/._02 Bye Bye Love 1.m4a
-./Madeleine Peyroux/The Blue Room/02 Bye Bye Love.m4a
-./Madeleine Peyroux/The Blue Room/._02 Bye Bye Love.m4a
-./Madeleine Peyroux/The Blue Room/02 Bye Bye Love 1.m4a
-./Madeleine Peyroux/Bare Bones (Bonus Track Version)
-./Madeleine Peyroux/Bare Bones (Bonus Track Version)/01 Instead.m4a
-./The Belle Brigade
-./The Belle Brigade/Where Not to Look for Freedom - Single
-./The Belle Brigade/Where Not to Look for Freedom - Single/01 Where Not to Look for Freedom.m4a
-./Mary J. Blige
-./Mary J. Blige/A Mary Christmas
-./Mary J. Blige/A Mary Christmas/12 Noche De Paz (Silent Night) [feat. Marc Anthony].m4a
-./Mary J. Blige/A Mary Christmas/._12 Noche De Paz (Silent Night) [feat. Marc Anthony].m4a
-./Mary J. Blige/The London Sessions
-./Mary J. Blige/The London Sessions/._02 Doubt.m4a
-./Mary J. Blige/The London Sessions/02 Doubt.m4a
-./Bruno Mars
-./Bruno Mars/If I Knew - Single
-./Bruno Mars/If I Knew - Single/01 If I Knew.m4p
-./Bruno Mars/If I Knew - Single/._01 If I Knew.m4a
-./Bruno Mars/If I Knew - Single/01 If I Knew.m4a
-./Asleep At the Wheel
-./Asleep At the Wheel/Still the King_ Celebrating the Music of Bob Wills and His Texas Playboys
-./Asleep At the Wheel/Still the King_ Celebrating the Music of Bob Wills and His Texas Playboys/._03 The Girl I Left Behind Me (with The Avett Brothers).m4a
-./Asleep At the Wheel/Still the King_ Celebrating the Music of Bob Wills and His Texas Playboys/03 The Girl I Left Behind Me (with The Avett Brothers).m4a
-./HAIM
-./HAIM/Days Are Gone
-./HAIM/Days Are Gone/._05 Honey & I.m4a
-./HAIM/Days Are Gone/05 Honey & I.m4a
-./Jenny O_
-./Jenny O_/Automechanic
-./Jenny O_/Automechanic/._05 Learned My Lessons 1.m4a
-./Jenny O_/Automechanic/05 Learned My Lessons.m4a
-./Jenny O_/Automechanic/05 Learned My Lessons 1.m4a
-./Jenny O_/Automechanic/._05 Learned My Lessons.m4a
-./The Tough Alliance/A New Chance/07 Neo Violence 2.m4p
-./Charlotte Gainsbourg
-./Charlotte Gainsbourg/IRM
-./Charlotte Gainsbourg/IRM/05 Heaven Çan Wait 1.m4a
-./Charlotte Gainsbourg/IRM/._05 Heaven Çan Wait 1.m4a
-./Charlotte Gainsbourg/IRM/05 Heaven Çan Wait.m4a
-./Hamilton Leithauser
-./Hamilton Leithauser/Black Hours (Deluxe Edition)
-./Hamilton Leithauser/Black Hours (Deluxe Edition)/._08 I Don't Need Anyone.m4a
-./Hamilton Leithauser/Black Hours (Deluxe Edition)/08 I Don't Need Anyone.m4a
-./Cold Specks
-./Cold Specks/I Predict a Graceful Expulsion
-./Cold Specks/I Predict a Graceful Expulsion/04 When the City Lights Dim 2.m4a
-./Cold Specks/I Predict a Graceful Expulsion/04 When the City Lights Dim.m4a
-./Cold Specks/I Predict a Graceful Expulsion/._04 When the City Lights Dim 1.m4a
-./Cold Specks/I Predict a Graceful Expulsion/04 When the City Lights Dim 1.m4a
-./Bryan Adams/Waking Up The Neighbours/01 Is Your Mama Gonna Miss Ya_ 2.mp3
-./Bryan Adams/Waking Up The Neighbours/12 (Everything I Do) I Do It For You 2.mp3
-./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 4.m4p
-./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 2.m4p
-./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 3.m4p
-./Sarah Jarosz
-./Sarah Jarosz/Build Me Up From Bones
-./Sarah Jarosz/Build Me Up From Bones/._01 Over the Edge.m4a
-./Sarah Jarosz/Build Me Up From Bones/01 Over the Edge.m4a
-./Tom Petty & The Heartbreakers/Southern Accents/01 Rebels 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/05 Make It Better (Forget About Me) 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/02 It Ain't Nothin' To Me 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/04 Southern Accents 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/03 Don't Come Around Here No More 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/06 Spike 2.mp3
-./Tom Petty & The Heartbreakers/Southern Accents/08 Mary's New Car 2.mp3
-./Feist
-./Feist/Bittersweet Melodies - Single
-./Feist/Bittersweet Melodies - Single/01 Bittersweet Melodies.m4a
-./Feist/Bittersweet Melodies - Single/._01 Bittersweet Melodies 1.m4a
-./Feist/Bittersweet Melodies - Single/01 Bittersweet Melodies 1.m4a
-./Demo
-./Demo/Unknown Album
-./Demo/Unknown Album/._Metal.mp3
-./Demo/Unknown Album/Metal.mp3
-./Alabama Shakes
-./Alabama Shakes/Sound & Color
-./Alabama Shakes/Sound & Color/._02 Don't Wanna Fight.m4a
 ./Alabama Shakes/Sound & Color/02 Don't Wanna Fight.m4a
-./Van Halen
-./Van Halen/Van Halen
-./Van Halen/Van Halen/1-03 You Really Got Me.mp3
-./Van Halen/Van Halen/1-06 Jamie's Cryin'.mp3
-./Van Halen/Van Halen/1-02 Eruption.mp3
-./Van Halen/Van Halen/1-10 Ice Cream Man.mp3
-./Van Halen/Van Halen/1-04 Ain't Talkin' 'Bout Love.mp3
-./Van Halen/Van Halen/1-09 Little Dreamer.mp3
-./Van Halen/Van Halen/1-08 Feel Your Love Tonight.mp3
-./Van Halen/Van Halen/1-01 Runnin' With The Devil.mp3
-./Van Halen/Van Halen/1-07 Atomic Punk.mp3
-./Van Halen/Van Halen/1-11 On Fire.mp3
-./Van Halen/Van Halen/1-05 I'm The One.mp3
-./Van Halen/Women and Children First
-./Van Halen/Women and Children First/1-07 Take Your Whiskey Home.mp3
-./Van Halen/Women and Children First/1-03 Fools.mp3
-./Van Halen/Women and Children First/1-04 Romeo Delight.mp3
-./Van Halen/Women and Children First/1-08 Could This Be Magic_.mp3
-./Van Halen/Women and Children First/1-01 And The Cradle Will Rock....mp3
-./Van Halen/Women and Children First/1-05 Tora! Tora!.mp3
-./Van Halen/Women and Children First/1-06 Loss Of Control.mp3
-./Van Halen/Women and Children First/1-02 Everybody Wants Some!!.mp3
-./Van Halen/Women and Children First/1-09 In A Simple Rhyme.mp3
-./Van Halen/Fair Warning
-./Van Halen/Fair Warning/01 Mean Street.mp3
-./Van Halen/Fair Warning/07 So This Is Love_.mp3
-./Van Halen/Fair Warning/02 _Dirty Movies_.mp3
-./Van Halen/Fair Warning/06 Push Comes to Shove.mp3
-./Van Halen/Fair Warning/09 One Foot out the Door.mp3
-./Van Halen/Fair Warning/08 Sunday Afternoon in the Park.mp3
-./Van Halen/Fair Warning/04 Hear About It Later.mp3
-./Van Halen/Fair Warning/03 Sinner's Swing!.mp3
-./Van Halen/Fair Warning/05 Unchained.mp3
-./Van Halen/The Very Best of Van Halen
-./Van Halen/The Very Best of Van Halen/2-10 Not Enough (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/1-09 Hot For Teacher (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-19 Unchained (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/2-02 Best Of Both Worlds (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/1-17 Beautiful Girls (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/2-14 Dance The Night Away (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-10 Poundcake (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/1-07 You Really Got Me (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-05 Ain't Talkin' 'Bout Love (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/2-17 Jump (Remastered Live Version).mp3
-./Van Halen/The Very Best of Van Halen/2-13 Everybody Wants Some!! (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/2-04 Runaround (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/2-07 Runnin' With The Devil (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/2-16 Panama (Remastered Live Version).mp3
-./Van Halen/The Very Best of Van Halen/2-09 Dancing In The Street (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-18 Can't Stop Lovin' You (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/2-01 Panama (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-06 Finish What Ya Started (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/1-08 Dreams (Remastered Version).mp3
-./Van Halen/The Very Best of Van Halen/2-11 Feels So Good (Remastered Single Version).mp3
-./Van Halen/The Very Best of Van Halen/1-11 And The Cradle Will Rock...(2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-15 (Oh) Pretty Woman (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/2-06 Why Can't This Be Love (Remastered Version).mp3
-./Van Halen/The Very Best of Van Halen/2-08 When It's Love (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/2-12 Right Now (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/2-05 I'll Wait (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-13 Jump (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-14 Top Of The World (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/1-16 Love Walks In (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/1-12 Black And Blue (Remastered Album Version).mp3
-./Van Halen/The Very Best of Van Halen/1-02 It's About Time.mp3
-./Van Halen/The Very Best of Van Halen/1-01 Eruption (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/2-15 Ain't Talkin' 'Bout Love (Remastered Live Version).mp3
-./Van Halen/The Very Best of Van Halen/1-03 Up For Breakfast.mp3
-./Van Halen/The Very Best of Van Halen/2-03 Jamie's Cryin' (2015 Remastered).mp3
-./Van Halen/The Very Best of Van Halen/1-04 Learning To See.mp3
-./Amos Lee
-./Amos Lee/Windows Are Rolled Down - Single
-./Amos Lee/Windows Are Rolled Down - Single/01 Windows Are Rolled Down.m4a
-./Diana Krall
-./Diana Krall/The Boy from Ipanema - Single
-./Diana Krall/The Boy from Ipanema - Single/01 The Boy from Ipanema.m4p
-./Justin Timberlake
-./Justin Timberlake/The 20_20 Experience
-./Justin Timberlake/The 20_20 Experience/._04 Strawberry Bubblegum 1.m4a
-./Justin Timberlake/The 20_20 Experience/04 Strawberry Bubblegum 1.m4a
-./Justin Timberlake/The 20_20 Experience/04 Strawberry Bubblegum.m4a
-./Broken Bells
-./Broken Bells/After the Disco
-./Broken Bells/After the Disco/._02 After the Disco.m4a
-./Broken Bells/After the Disco/02 After the Disco.m4a
-./Parts & Labor
-./Parts & Labor/Constant Future
-./Parts & Labor/Constant Future/05 Rest.m4a
-./Jenny Lewis
-./Jenny Lewis/The Voyager
-./Jenny Lewis/The Voyager/03 Just One of the Guys.m4a
-./Jenny Lewis/The Voyager/._03 Just One of the Guys.m4a
-./Ricky Skaggs
-./Ricky Skaggs/Live At The Charleston Music Hall
-./Ricky Skaggs/Live At The Charleston Music Hall/20 PIG IN A PEN.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/13 song intro-.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/21 song intro.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/25 untitled track.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/02 Black Eyed Suzie.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/01 introduction.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/17 song intro-.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/10 Band intro.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/24 Get Up John.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/15 song intro.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/03 How Mountian Girls Can Love.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/16 Crossville.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/22 Cat's In The Cradle.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/18 Somewhere Nice Forever.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/23 song intro.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/05 song intro.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/12 The Old Home Place.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/19 Uncle Pen.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/08 song intro.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/07 Why Did You Wander.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/11 Goin' To The Ceili.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/06 Amanda Jewell.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/04 On A Lonesome Night.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/14 I Heard My Mother Call My Name In Prayer.mp3
-./Ricky Skaggs/Live At The Charleston Music Hall/09 A Simple Life.mp3
-./Kate Earl
-./Kate Earl/Stronger
-./Kate Earl/Stronger/02 One Woman Army.m4a
-./Kate Earl/Stronger/._02 One Woman Army 1.m4a
-./Kate Earl/Stronger/02 One Woman Army 1.m4a
-./Gary Go
-./Gary Go/Wonderful (Radio Edit) - Single
-./Gary Go/Wonderful (Radio Edit) - Single/01 Wonderful (Radio Edit).m4a
-./Daniel Isaiah
-./Daniel Isaiah/High Twilight
-./Daniel Isaiah/High Twilight/02 High Twilight 1.m4a
-./Daniel Isaiah/High Twilight/._02 High Twilight 1.m4a
-./Daniel Isaiah/High Twilight/02 High Twilight.m4a
-./The Watson Twins
-./The Watson Twins/Modern Man + Devil In You - Single
-./The Watson Twins/Modern Man + Devil In You - Single/01 Modern Man.m4a
-./Nickle Creek-Chris Thile/Stealing Second/07 Leaves Fall 2.mp3
-./Booker T. Jones
-./Booker T. Jones/Just a Friend [feat. Biz Markie, Matt Berninger, and Sharon Jones] - Single
-./Booker T. Jones/Just a Friend [feat. Biz Markie, Matt Berninger, and Sharon Jones] - Single/01 Just a Friend (feat. Biz Markie, Matt Berninger, and Sharon Jones)(Bonus track).m4p
-./Lake Street Dive
-./Lake Street Dive/Bad Self Portraits
-./Lake Street Dive/Bad Self Portraits/._05 You Go Down Smooth.m4a
-./Lake Street Dive/Bad Self Portraits/05 You Go Down Smooth.m4a
-./Mariachi El Bronx
-./Mariachi El Bronx/Mariachi El Bronx (III)
-./Mariachi El Bronx/Mariachi El Bronx (III)/._02 Wildfires.m4a
-./Mariachi El Bronx/Mariachi El Bronx (III)/02 Wildfires.m4a
-./Edward Sharpe & The Magnetic Zeros
-./Edward Sharpe & The Magnetic Zeros/Man On Fire - Single
-./Edward Sharpe & The Magnetic Zeros/Man On Fire - Single/01 Man On Fire 1.m4a
-./Edward Sharpe & The Magnetic Zeros/Man On Fire - Single/01 Man On Fire.m4a
-./Edward Sharpe & The Magnetic Zeros/Man On Fire - Single/._01 Man On Fire 1.m4a
-./Yuna
-./Yuna/Nocturnal (Deluxe Edition)
-./Yuna/Nocturnal (Deluxe Edition)/03 Rescue.m4a
-./Yuna/Nocturnal (Deluxe Edition)/._03 Rescue.m4a
-./Depeche Mode/Delta Machine (Deluxe Version)
-./Depeche Mode/Delta Machine (Deluxe Version)/03 Heaven 1.m4a
-./Depeche Mode/Delta Machine (Deluxe Version)/03 Heaven.m4a
-./Depeche Mode/Delta Machine (Deluxe Version)/._03 Heaven 1.m4a
-./Depeche Mode/Delta Machine (Deluxe Version)/._03 Heaven.m4a
-./Lanu
-./Lanu/Beautiful Trash (feat. Megan Washington) - EP
-./Lanu/Beautiful Trash (feat. Megan Washington) - EP/01 Beautiful Trash (feat. Megan Washington).m4a
-./Sharon Isbin/Journey to the New World/08 Wayfaring Stranger 2.mp3
-./Sharon Isbin/Journey to the New World/18 Strings & Threads Suite_II. Sailor's Jig 2.mp3
-./Sharon Isbin/Journey to the New World/03 La Rossignol 2.mp3
-./Sharon Isbin/Journey to the New World/06 Wild Mountain Thyme 2.mp3
-./Sharon Isbin/Journey to the New World/05 The Drunken Sailor 2.mp3
-./Sharon Isbin/Journey to the New World/04 Greensleeves 2.mp3
-./Sharon Isbin/Journey to the New World/26 Strings & Threads Suite_X. Queen of the Cumberland 2.mp3
-./Sharon Isbin/Journey to the New World/14 Joan Baez Suite, Opus 144_VI. Where have all the Flowers Gone_ 2.mp3
-./Sharon Isbin/Journey to the New World/28 Strings & Threads Suite_XII. Swing 2.mp3
-./Sharon Isbin/Journey to the New World/22 Strings & Threads Suite_VI. Road to Appalachia 2.mp3
-./Sharon Isbin/Journey to the New World/02 Lord Willoughby's Welcome Home 2.mp3
-./Sharon Isbin/Journey to the New World/12 Joan Baez Suite, Opus 144_IV. The Unquiet Grave 2.mp3
-./Sharon Isbin/Journey to the New World/10 Joan Baez Suite, Opus 144_II. The House of the Rising Sun 2.mp3
-./Sharon Isbin/Journey to the New World/15 Joan Baez Suite, Opus 144_VII. Finale_ Rake and Rambling Boy; Wildwood Flower; The Trees they do Grow High 2.mp3
-./Sharon Isbin/Journey to the New World/17 Strings & Threads Suite_I. Fair Dancer Reel 2.mp3
-./Sharon Isbin/Journey to the New World/09 Joan Baez Suite, Opus 144_I. Fantasia_ Once I had a Sweetheart; Rambler Gambler; Barbara Allen 2.mp3
-./Sharon Isbin/Journey to the New World/01 Mr. Drewry's Accords 2.mp3
-./Sharon Isbin/Journey to the New World/16 Go 'Way From My Window 2.mp3
-./Sharon Isbin/Journey to the New World/24 Strings & Threads Suite_VIII. Cotton Pickin' Blues 2.mp3
-./Sharon Isbin/Journey to the New World/21 Strings & Threads Suite_V. Pilgrim's Waltz 2.mp3
-./Sharon Isbin/Journey to the New World/27 Strings & Threads Suite_XI. Texas Dance Hall Blues 2.mp3
-./Sharon Isbin/Journey to the New World/13 Joan Baez Suite, Opus 144_V. Silkie 2.mp3
-./Sharon Isbin/Journey to the New World/07 Andecy 2.mp3
-./Sharon Isbin/Journey to the New World/25 Strings & Threads Suite_IX. Pickin' Parlor Rag 2.mp3
-./Sharon Isbin/Journey to the New World/23 Strings & Threads Suite_VII. Shine On 2.mp3
-./Sharon Isbin/Journey to the New World/29 Strings & Threads Suite_XIII. Sweet Suzanne 2.mp3
-./Sharon Isbin/Journey to the New World/20 Strings & Threads Suite_IV. Off to Sea 2.mp3
-./Sharon Isbin/Journey to the New World/11 Joan Baez Suite, Opus 144_III. The Lily of the West 2.mp3
-./Sharon Isbin/Journey to the New World/19 Strings & Threads Suite_III. Captain's Jig 2.mp3
-./Sharon Jones & The Dap-Kings
-./Sharon Jones & The Dap-Kings/Give the People What They Want (Deluxe Version)
-./Sharon Jones & The Dap-Kings/Give the People What They Want (Deluxe Version)/._02 Stranger to My Happiness.m4a
-./Sharon Jones & The Dap-Kings/Give the People What They Want (Deluxe Version)/02 Stranger to My Happiness.m4a
-./Tattletale Saints
-./Tattletale Saints/Masters
-./Tattletale Saints/Masters/02 Track 02.m4a
-./Tattletale Saints/How Red Is the Blood
-./Tattletale Saints/How Red Is the Blood/09 Molly.m4a
-./Tattletale Saints/How Red Is the Blood/10 Hank.m4a
-./Tattletale Saints/How Red Is the Blood/._09 Molly.m4a
-./Tattletale Saints/How Red Is the Blood/07 Complicated Man.m4a
-./Tattletale Saints/How Red Is the Blood/._04 Doctor Doctor.m4a
-./Tattletale Saints/How Red Is the Blood/04 Doctor Doctor.m4a
-./Tattletale Saints/How Red Is the Blood/12 At Last.m4a
-./Tattletale Saints/How Red Is the Blood/._02 Traces of You.m4a
-./Tattletale Saints/How Red Is the Blood/._05 How Red Is the Blood from a Broken Heart.m4a
-./Tattletale Saints/How Red Is the Blood/._12 At Last.m4a
-./Tattletale Saints/How Red Is the Blood/._08 Jessica on Prairie Legs.m4a
-./Tattletale Saints/How Red Is the Blood/05 How Red Is the Blood from a Broken Heart.m4a
-./Tattletale Saints/How Red Is the Blood/06 Fell Upon the Fields.m4a
-./Tattletale Saints/How Red Is the Blood/01 Kathleen.m4a
-./Tattletale Saints/How Red Is the Blood/08 Jessica on Prairie Legs.m4a
-./Tattletale Saints/How Red Is the Blood/._10 Hank.m4a
-./Tattletale Saints/How Red Is the Blood/._11 We_ve Got Lakes.m4a
-./Tattletale Saints/How Red Is the Blood/02 Traces of You.m4a
-./Tattletale Saints/How Red Is the Blood/03 Emily.m4a
-./Tattletale Saints/How Red Is the Blood/._03 Emily.m4a
-./Tattletale Saints/How Red Is the Blood/11 We_ve Got Lakes.m4a
-./Tattletale Saints/How Red Is the Blood/._01 Kathleen.m4a
-./Tattletale Saints/How Red Is the Blood/._07 Complicated Man.m4a
-./Tattletale Saints/How Red Is the Blood/._06 Fell Upon the Fields.m4a
-./Tattletale Saints/Tattletale Saints
-./Tattletale Saints/Tattletale Saints/06 Kathleen.m4a
-./Tattletale Saints/Tattletale Saints/02 Sonoma County Wine.m4a
-./Tattletale Saints/Tattletale Saints/08 Scarf Of Light.m4a
-./Tattletale Saints/Tattletale Saints/01 Big City Women.m4a
-./Tattletale Saints/Tattletale Saints/07 If I Had A Dollar.m4a
-./Tattletale Saints/Tattletale Saints/09 Seabird.m4a
-./Tattletale Saints/Tattletale Saints/04 Down the Road and Back Again.m4a
-./Tattletale Saints/Tattletale Saints/03 I Did This to Myself.m4a
-./Tattletale Saints/Tattletale Saints/05 I Don't Sing So Much Anymore.m4a
-./Tattletale Saints/Tattletale Saints/10 Little Richard.m4a
-./Tattletale Saints/Unknown Album
-./Tattletale Saints/Unknown Album/I Did This To Myself.m4a
-./Dawes
-./Dawes/All Your Favorite Bands
-./Dawes/All Your Favorite Bands/01 Things Happen.m4a
-./Dawes/All Your Favorite Bands/._01 Things Happen.m4a
-./U2/Songs of Innocence
-./U2/Songs of Innocence/09 Sleep Like a Baby Tonight.m4a
-./U2/Songs of Innocence/._01 The Miracle (Of Joey Ramone).m4a
-./U2/Songs of Innocence/Digital Booklet - Songs of Innocence 1.pdf
-./U2/Songs of Innocence/06 Volcano.m4a
-./U2/Songs of Innocence/11 The Troubles.m4a
-./U2/Songs of Innocence/._07 Raised By Wolves.m4a
-./U2/Songs of Innocence/._11 The Troubles.m4a
-./U2/Songs of Innocence/._05 Iris (Hold Me Close).m4a
-./U2/Songs of Innocence/._02 Every Breaking Wave.m4a
-./U2/Songs of Innocence/._03 California (There Is No End to Love).m4a
-./U2/Songs of Innocence/08 Cedarwood Road.m4a
-./U2/Songs of Innocence/03 California (There Is No End to Love).m4a
-./U2/Songs of Innocence/05 Iris (Hold Me Close).m4a
-./U2/Songs of Innocence/10 This Is Where You Can Reach Me Now.m4a
-./U2/Songs of Innocence/._08 Cedarwood Road.m4a
-./U2/Songs of Innocence/._06 Volcano.m4a
-./U2/Songs of Innocence/Digital Booklet - Songs of Innocence.pdf
-./U2/Songs of Innocence/._10 This Is Where You Can Reach Me Now.m4a
-./U2/Songs of Innocence/07 Raised By Wolves.m4a
-./U2/Songs of Innocence/02 Every Breaking Wave.m4a
-./U2/Songs of Innocence/._09 Sleep Like a Baby Tonight.m4a
-./U2/Songs of Innocence/04 Song for Someone.m4a
-./U2/Songs of Innocence/._04 Song for Someone.m4a
-./U2/Songs of Innocence/01 The Miracle (Of Joey Ramone).m4a
-./Andrea Bocelli
-./Andrea Bocelli/Silent Night - Single
-./Andrea Bocelli/Silent Night - Single/01 Silent Night.m4a
-./Bahamas
-./Bahamas/Bahamas is Afie
-./Bahamas/Bahamas is Afie/04 All the Time.m4a
-./Bahamas/Bahamas is Afie/._04 All the Time.m4a
-./Alison Krauss & Union Station/Paper Airplane
+./Alexander/Truth - Single/01 Truth.m4a
+./Algebra Blessett/Recovery/03 Right Next To You.m4a
+./Alison Krauss & Union Station/Paper Airplane/01 Paper Airplane.m4a
+./Alison Krauss & Union Station/Paper Airplane/02 Dust Bowl Children.m4a
+./Alison Krauss & Union Station/Paper Airplane/03 Lie Awake.m4a
+./Alison Krauss & Union Station/Paper Airplane/04 Lay My Burden Down.m4a
+./Alison Krauss & Union Station/Paper Airplane/05 My Love Follows You Where You Go.m4a
+./Alison Krauss & Union Station/Paper Airplane/06 Dimming Of The Day.m4a
+./Alison Krauss & Union Station/Paper Airplane/07 On The Outside Looking In.m4a
 ./Alison Krauss & Union Station/Paper Airplane/08 Miles To Go.m4a
 ./Alison Krauss & Union Station/Paper Airplane/09 Sinking Stone.m4a
-./Alison Krauss & Union Station/Paper Airplane/07 On The Outside Looking In.m4a
-./Alison Krauss & Union Station/Paper Airplane/04 Lay My Burden Down.m4a
-./Alison Krauss & Union Station/Paper Airplane/03 Lie Awake.m4a
-./Alison Krauss & Union Station/Paper Airplane/02 Dust Bowl Children.m4a
-./Alison Krauss & Union Station/Paper Airplane/05 My Love Follows You Where You Go.m4a
 ./Alison Krauss & Union Station/Paper Airplane/10 Bonita And Bill Butler.m4a
 ./Alison Krauss & Union Station/Paper Airplane/11 My Opening Farewell.m4a
-./Alison Krauss & Union Station/Paper Airplane/06 Dimming Of The Day.m4a
-./Alison Krauss & Union Station/Paper Airplane/01 Paper Airplane.m4a
-./Emma Louise
-./Emma Louise/Boy - Single
-./Emma Louise/Boy - Single/01 Boy.m4a
-./Emma Louise/Boy - Single/._01 Boy.m4a
-./Joey Alexander
-./Joey Alexander/My Favorite Things (Deluxe Edition)
-./Joey Alexander/My Favorite Things (Deluxe Edition)/05 Ma Blues.m4a
-./Joey Alexander/My Favorite Things (Deluxe Edition)/._05 Ma Blues.m4a
-./Rush/Caravan - Single
-./Rush/Caravan - Single/01 Caravan (Single Version).m4a
-./Rush/Caravan - Single/02 BU2B (Single Version).m4a
-./Rush/Moving Pictures
-./Rush/Moving Pictures/07 Vital Signs.mp3
-./Rush/Moving Pictures/06 Witch Hunt.mp3
-./Rush/Moving Pictures/02 Red Barchetta.mp3
-./Rush/Moving Pictures/01 Tom Sawyer.mp3
-./Rush/Moving Pictures/03 Yyz.mp3
-./Rush/Moving Pictures/05 Camera Eye.mp3
-./Rush/Moving Pictures/04 Limelight.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-08 Bravado.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-03 Force Ten.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-01 Subdivisions.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-04 Grand Designs.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-02 The Big Money.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-07 The Analog Kid.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-05 The Body Electric.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-09 Where's My Thing__Here It Is! (Drum Solo).mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-10 Far Cry.mp3
-./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-06 Territories.mp3
-./Rush/Grace Under Pressure/03 Red Sector A 1.m4p
-./Rush/Grace Under Pressure/07 Red Lenses 1.m4p
-./Rush/Grace Under Pressure/01 Distant Early Warning 2.m4p
-./Rush/Grace Under Pressure/02 Afterimage 1.m4p
-./Rush/Grace Under Pressure/06 Kid Gloves 1.m4p
-./Rush/Grace Under Pressure/04 The Enemy Within, Pt. 1 of _Fear_ 1.m4p
-./Rush/Grace Under Pressure/04 The Enemy Within, Pt. 1 of _Fear_ 2.m4p
-./Rush/Grace Under Pressure/07 Red Lenses 2.m4p
-./Rush/Grace Under Pressure/03 Red Sector A 2.m4p
-./Rush/Grace Under Pressure/08 Between the Wheels 2.m4p
-./Rush/Grace Under Pressure/02 Afterimage 2.m4p
-./Rush/Grace Under Pressure/06 Kid Gloves 2.m4p
-./Rush/Grace Under Pressure/05 The Body Electric 2.m4p
-./Rush/Vapor Trails Remixed
-./Rush/Vapor Trails Remixed/02 Ceiling Unlimited.mp3
-./Rush/Vapor Trails Remixed/05 The Stars Look Down.mp3
-./Rush/Vapor Trails Remixed/06 How It Is.mp3
-./Rush/Vapor Trails Remixed/10 Sweet Miracle.mp3
-./Rush/Vapor Trails Remixed/12 Freeze (Part IV Of _Fear_).mp3
-./Rush/Vapor Trails Remixed/08 Secret Touch.mp3
-./Rush/Vapor Trails Remixed/07 Vapor Trail.mp3
-./Rush/Vapor Trails Remixed/13 Out Of The Cradle.mp3
-./Rush/Vapor Trails Remixed/09 Earthshine.mp3
-./Rush/Vapor Trails Remixed/04 Peaceable Kingdom.mp3
-./Rush/Vapor Trails Remixed/01 One Little Victory.mp3
-./Rush/Vapor Trails Remixed/03 Ghost Rider.mp3
-./Rush/Vapor Trails Remixed/11 Nocturne.mp3
-./Rush/Clockwork Angels
-./Rush/Clockwork Angels/01 Caravan.mp3
-./Rush/Clockwork Angels/02 BU2B.mp3
-./Rush/Clockwork Angels/05 Carnies.mp3
-./Rush/Clockwork Angels/12 The Garden.mp3
-./Rush/Clockwork Angels/07 Seven Cities Of Gold.mp3
-./Rush/Clockwork Angels/10 BU2B2.mp3
-./Rush/Clockwork Angels/04 The Anarchist.mp3
-./Rush/Clockwork Angels/08 The Wreckers.mp3
-./Rush/Clockwork Angels/06 Halo Effect.mp3
-./Rush/Clockwork Angels/11 Wish Them Well.mp3
-./Rush/Clockwork Angels/09 Headlong Flight.mp3
-./Rush/Clockwork Angels/03 Clockwork Angels.mp3
-./Benjamin Booker
-./Benjamin Booker/Benjamin Booker
-./Benjamin Booker/Benjamin Booker/01 Violent Shiver.m4a
-./Benjamin Booker/Benjamin Booker/._01 Violent Shiver.m4a
-./Eddie Vedder
-./Eddie Vedder/Better Days (From _Eat Pray Love_) - Single
-./Eddie Vedder/Better Days (From _Eat Pray Love_) - Single/01 Better Days.m4a
-./Eddie Vedder/Longing to Belong - Single
-./Eddie Vedder/Longing to Belong - Single/01 Longing to Belong.m4a
-./Basia Bulat
-./Basia Bulat/Heart of My Own (Bonus Track Version)
+./Amos Lee/Windows Are Rolled Down - Single/01 Windows Are Rolled Down.m4a
+./Andrea Bocelli/Silent Night - Single/01 Silent Night.m4a
+./Angus & Julia Stone/A Book Like This/01 Mango Tree.m4a
+./Anjulie/Boom - EP/01 Boom.m4a
+./Arcade Fire/Reflektor/1-01 Reflektor.m4a
+./Asleep At the Wheel/Still the King_ Celebrating the Music of Bob Wills and His Texas Playboys/03 The Girl I Left Behind Me (with The Avett Brothers).m4a
+./BOY/Mutual Friends/04 Little Numbers 1.m4a
+./BOY/Mutual Friends/04 Little Numbers 2.m4a
+./BOY/Mutual Friends/04 Little Numbers.m4a
+./Bahamas/Bahamas is Afie/04 All the Time.m4a
 ./Basia Bulat/Heart of My Own (Bonus Track Version)/05 Heart of My Own.m4a
-./Generationals
-./Generationals/Trust - EP
-./Generationals/Trust - EP/04 Trust.m4a
-./The Cookers
-./The Cookers/Time and Time Again
-./The Cookers/Time and Time Again/._05 Farewell Mulgrew.m4a
-./The Cookers/Time and Time Again/05 Farewell Mulgrew.m4a
-./Rufus Wainwright
-./Rufus Wainwright/Sometimes You Need - Single
-./Rufus Wainwright/Sometimes You Need - Single/._01 Sometimes You Need 1.m4a
-./Rufus Wainwright/Sometimes You Need - Single/01 Sometimes You Need 1.m4a
-./Rufus Wainwright/Sometimes You Need - Single/01 Sometimes You Need.m4a
-./The Who/Who Are You/04 Sister Disco 2.mp3
-./The Who/Who Are You/03 905 2.mp3
-./The Who/Who Are You/01 New Song 2.mp3
-./The Who/Who Are You/02 Had Enough 2.mp3
-./Algebra Blessett
-./Algebra Blessett/Recovery
-./Algebra Blessett/Recovery/._03 Right Next To You.m4a
-./Algebra Blessett/Recovery/03 Right Next To You.m4a
-./Dave Matthews Band
-./Dave Matthews Band/Write a Song - Single
-./Dave Matthews Band/Write a Song - Single/01 Write a Song.m4p
-./Dave Matthews Band/If Only - Single
-./Dave Matthews Band/If Only - Single/01 If Only 3.m4a
-./Dave Matthews Band/If Only - Single/01 If Only 1.m4a
-./Dave Matthews Band/If Only - Single/01 If Only.m4a
-./Dave Matthews Band/If Only - Single/01 If Only 4.m4a
-./Monsters of Folk
-./Monsters of Folk/Monsters of Folk
-./Monsters of Folk/Monsters of Folk/06 Baby Boomer.m4a
-./Beady Eye
-./Beady Eye/The Beat Goes On - Single
 ./Beady Eye/The Beat Goes On - Single/01 The Beat Goes On.m4a
-./Phosphorescent
-./Phosphorescent/Muchacho
-./Phosphorescent/Muchacho/._03 Ride On _ Right On.m4a
-./Phosphorescent/Muchacho/._03 Ride On _ Right On 1.m4a
-./Phosphorescent/Muchacho/03 Ride On _ Right On 1.m4a
-./Phosphorescent/Muchacho/03 Ride On _ Right On.m4a
-./Playing for Change
-./Playing for Change/Playing For Change 3_ Songs Around the World
-./Playing for Change/Playing For Change 3_ Songs Around the World/04 Down By the Riverside (feat. Keb' Mo', Preservation Hall Jazz Band & Grandpa Elliott).m4a
-./Playing for Change/Playing For Change 3_ Songs Around the World/._04 Down By the Riverside (feat. Keb' Mo', Preservation Hall Jazz Band & Grandpa Elliott).m4a
-./Eric Clapton/Rush/10 Tears In Heaven 2.mp3
-./Eric Clapton/Run Back to Your Side - Single
-./Eric Clapton/Run Back to Your Side - Single/01 Run Back to Your Side.m4a
-./Eric Clapton/The Breeze_ An Appreciation of JJ Cale
-./Eric Clapton/The Breeze_ An Appreciation of JJ Cale/._01 Call Me the Breeze.m4a
-./Eric Clapton/The Breeze_ An Appreciation of JJ Cale/01 Call Me the Breeze.m4a
-./Eric Clapton/Old Sock
-./Eric Clapton/Old Sock/._02 Angel 1.m4a
-./Eric Clapton/Old Sock/02 Angel.m4a
-./Eric Clapton/Old Sock/02 Angel 1.m4a
-./Eric Clapton/Old Sock/._02 Angel.m4a
-./Tegan and Sara
-./Tegan and Sara/Heartthrob (Deluxe Version)
-./Tegan and Sara/Heartthrob (Deluxe Version)/01 Closer 2.m4a
-./Tegan and Sara/Heartthrob (Deluxe Version)/01 Closer.m4a
-./Tegan and Sara/Heartthrob (Deluxe Version)/01 Closer 1.m4a
-./Tegan and Sara/Heartthrob (Deluxe Version)/._01 Closer 1.m4a
-./Bonnie Raitt
-./Bonnie Raitt/Down to You - Single
-./Bonnie Raitt/Down to You - Single/01 Down to You.m4a
+./Beck/Morning Phase/05 Blue Moon.m4a
+./Belle and Sebastian/Girls in Peacetime Want to Dance/07 The Everlasting Muse.m4a
+./Ben Harper & Charlie Musselwhite/Get Up! (Deluxe Version)/05 You Found Another Lover (I Lost Another Friend) 1.m4a
+./Ben Harper & Charlie Musselwhite/Get Up! (Deluxe Version)/05 You Found Another Lover (I Lost Another Friend).m4a
+./Ben Harper & Relentless7/White Lies for Dark Times (Deluxe Version)/1-07 Fly One Time.m4a
+./Ben Harper/Rock 'N' Roll Is Free - Single/01 Rock 'N' Roll Is Free.m4a
+./Benjamin Booker/Benjamin Booker/01 Violent Shiver.m4a
+./Benjamin Gibbard/Former Lives/03 Teardrop Windows 1.m4a
+./Benjamin Gibbard/Former Lives/03 Teardrop Windows.m4a
+./Bobby Womack/The Bravest Man in the Universe/01 The Bravest Man in the Universe 1.m4a
+./Bobby Womack/The Bravest Man in the Universe/01 The Bravest Man in the Universe.m4a
 ./Bonnie Raitt/Down to You - Single/01 Down to You 1.m4a
-./Bonnie Raitt/Down to You - Single/._01 Down to You 1.m4a
-./She & Him
-./She & Him/Volume 3
-./She & Him/Volume 3/._02 Never Wanted Your Love.m4a
-./She & Him/Volume 3/02 Never Wanted Your Love.m4a
-./She & Him/Classics
-./She & Him/Classics/04 Stay Awhile.m4a
-./She & Him/A Very She & Him Christmas
-./She & Him/A Very She & Him Christmas/._04 I'll Be Home for Christmas 1.m4a
-./She & Him/A Very She & Him Christmas/04 I'll Be Home for Christmas.m4a
-./She & Him/A Very She & Him Christmas/04 I'll Be Home for Christmas 1.m4a
-./Chris Thile, Edgar Meyer, Stuart Duncan & Yo-Yo Ma
-./Chris Thile, Edgar Meyer, Stuart Duncan & Yo-Yo Ma/Attaboy - Single
+./Bonnie Raitt/Down to You - Single/01 Down to You.m4a
+./Booker T. Jones/Just a Friend [feat. Biz Markie, Matt Berninger, and Sharon Jones] - Single/01 Just a Friend (feat. Biz Markie, Matt Berninger, and Sharon Jones)(Bonus track).m4p
+./Brandi Carlile/Give Up the Ghost/02 Dying Day.m4a
+./Brandi Carlile/The Firewatcher's Daughter/01 Wherever Is Your Heart.m4a
+./Brazos/Saltwater/03 How the Ranks Was Won 1.m4a
+./Brazos/Saltwater/03 How the Ranks Was Won.m4a
+./Brett Dennen/Hope for the Hopeless/01 San Francisco.m4a
+./Broken Bells/After the Disco/02 After the Disco.m4a
+./Bruno Mars/If I Knew - Single/01 If I Knew.m4a
+./Bruno Mars/If I Knew - Single/01 If I Knew.m4p
+./Bryan Adams/Waking Up The Neighbours/01 Is Your Mama Gonna Miss Ya_ 2.mp3
+./Bryan Adams/Waking Up The Neighbours/12 (Everything I Do) I Do It For You 2.mp3
+./Carole King/Everyday Will Be Like a Holiday - Single/01 Everyday Will Be Like a Holiday 1.m4a
+./Carole King/Everyday Will Be Like a Holiday - Single/01 Everyday Will Be Like a Holiday.m4a
+./Cayucas/Bigfoot/01 Cayucos 1.m4a
+./Cayucas/Bigfoot/01 Cayucos.m4a
+./Charlotte Gainsbourg/IRM/05 Heaven Çan Wait 1.m4a
+./Charlotte Gainsbourg/IRM/05 Heaven Çan Wait.m4a
 ./Chris Thile, Edgar Meyer, Stuart Duncan & Yo-Yo Ma/Attaboy - Single/01 Attaboy 1.m4a
-./Chris Thile, Edgar Meyer, Stuart Duncan & Yo-Yo Ma/Attaboy - Single/._01 Attaboy 1.m4a
 ./Chris Thile, Edgar Meyer, Stuart Duncan & Yo-Yo Ma/Attaboy - Single/01 Attaboy.m4a
-./R.E.M_/ÜBerlin - Single
-./R.E.M_/ÜBerlin - Single/01 ÜBerlin.m4a
-./R.E.M_/ÜBerlin - Single/._01 ÜBerlin.m4a
-./Mavis Staples
-./Mavis Staples/One True Vine
-./Mavis Staples/One True Vine/._05 Far Celestial Shore 1.m4a
-./Mavis Staples/One True Vine/._05 Far Celestial Shore.m4a
+./City and Colour/Fragile Bird - Single/01 Fragile Bird 1.m4a
+./City and Colour/Fragile Bird - Single/01 Fragile Bird.m4a
+./Clay Aiken/This Is the Night - Single/01 Bridge over Troubled Water 1.m4p
+./Clay Aiken/This Is the Night - Single/01 Bridge over Troubled Water 2.m4p
+./Clay Aiken/This Is the Night - Single/01 Bridge over Troubled Water.m4p
+./Cold Specks/I Predict a Graceful Expulsion/04 When the City Lights Dim 1.m4a
+./Cold Specks/I Predict a Graceful Expulsion/04 When the City Lights Dim 2.m4a
+./Cold Specks/I Predict a Graceful Expulsion/04 When the City Lights Dim.m4a
+./Cold War Kids/Mine Is Yours (Deluxe Version)/06 Skip the Charades.m4a
+./Coldplay/Ghost Stories/01 Always In My Head.m4a
+./Compilations/4_ John Paul George Ringo - EP/01 Love.m4a
+./Compilations/4_ John Paul George Ringo - EP/02 Call Me Back Again.m4a
+./Compilations/4_ John Paul George Ringo - EP/03 Let It Down.m4a
+./Compilations/4_ John Paul George Ringo - EP/04 Walk With You.m4a
+./Compilations/Clockwork Angels Tour [Disc 2]/01 Caravan (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/02 Clockwork Angels (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/03 The Anarchist (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/04 Carnies (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/05 The Wreckers (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/06 Headlong Flight_Drumbastica (Drum Solo) (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/07 Peke's Repose (Guitar solo)_Halo Effect (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/08 Seven Cities Of Gold (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/09 Wish Them Well (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Disc 2]/10 The Garden (Live On Clockwork Angels Tour).mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-01 Dreamline.mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-02 The Percussor (I) Binary Love Theme (II) Steambanger's Ball (Drum Solo).mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-03 Red Sector A.mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-04 YYZ.mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-05 The Spirit Of Radio.mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-06 Tom Sawyer.mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-07 2112_ Overture_The Temples Of Syrinx_Grand Finale.mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-08 Limelight (Soundcheck Recording).mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-09 Middletown Dreams.mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-10 The Pass.mp3
+./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-11 Manhattan Project.mp3
+./Compilations/Dance (RED) Save Lives, Vol. 2/20 Slow Motion (feat. HAERTS).m4a
+./Compilations/iTunes Holiday Sampler/03 Silent Night 1.m4a
+./Compilations/iTunes Holiday Sampler/03 Silent Night 2.m4a
+./Compilations/iTunes Holiday Sampler/09 God Rest Ye Merry Gentlemen 1.m4a
+./Cory Morrow/Second Chance - Single/01 Second Chance.m4a
+./Cristina/De los Pies Hasta la Frente/03 Mucha Mujer para Ti.m4a
+./Daniel Isaiah/High Twilight/02 High Twilight 1.m4a
+./Daniel Isaiah/High Twilight/02 High Twilight.m4a
+./Dave Matthews Band/If Only - Single/01 If Only 1.m4a
+./Dave Matthews Band/If Only - Single/01 If Only 3.m4a
+./Dave Matthews Band/If Only - Single/01 If Only 4.m4a
+./Dave Matthews Band/If Only - Single/01 If Only.m4a
+./Dave Matthews Band/Write a Song - Single/01 Write a Song.m4p
+./Dawes/All Your Favorite Bands/01 Things Happen.m4a
+./Death Cab for Cutie/Underneath the Sycamore - Single/01 Underneath the Sycamore.m4p
+./Demo/Unknown Album/Metal.mp3
+./Depeche Mode/Delta Machine (Deluxe Version)/03 Heaven 1.m4a
+./Depeche Mode/Delta Machine (Deluxe Version)/03 Heaven.m4a
+./Diana Krall/The Boy from Ipanema - Single/01 The Boy from Ipanema.m4p
+./Diego Garcia/You Were Never There - Single/01 You Were Never There.m4a
+./Dum Dum Girls/Too True/04 Are You Okay_.m4a
+./Eddie Vedder/Better Days (From _Eat Pray Love_) - Single/01 Better Days.m4a
+./Eddie Vedder/Longing to Belong - Single/01 Longing to Belong.m4a
+./Edward Sharpe & The Magnetic Zeros/Man On Fire - Single/01 Man On Fire 1.m4a
+./Edward Sharpe & The Magnetic Zeros/Man On Fire - Single/01 Man On Fire.m4a
+./Emma Louise/Boy - Single/01 Boy.m4a
+./Eric Clapton/Old Sock/02 Angel 1.m4a
+./Eric Clapton/Old Sock/02 Angel.m4a
+./Eric Clapton/Run Back to Your Side - Single/01 Run Back to Your Side.m4a
+./Eric Clapton/Rush/10 Tears In Heaven 2.mp3
+./Eric Clapton/The Breeze_ An Appreciation of JJ Cale/01 Call Me the Breeze.m4a
+./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 2.m4p
+./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 3.m4p
+./Eric Uglum/Shenandoah Wind/02 Shenandoah Wind 4.m4p
+./Feist/Bittersweet Melodies - Single/01 Bittersweet Melodies 1.m4a
+./Feist/Bittersweet Melodies - Single/01 Bittersweet Melodies.m4a
+./Fleet Foxes/Helplessness Blues/04 Battery Kinzie.m4a
+./Frazey Ford/Indian Ocean/01 September Fields.m4a
+./Gary Go/Wonderful (Radio Edit) - Single/01 Wonderful (Radio Edit).m4a
+./Generationals/Trust - EP/04 Trust.m4a
+./Genesis/We Can't Dance/01 No Son Of Mine 2.mp3
+./Genesis/We Can't Dance/02 Jesus He Knows Me 2.mp3
+./Genesis/We Can't Dance/03 Driving The Last Spike 2.mp3
+./Genesis/We Can't Dance/04 I Can't Dance 2.mp3
+./Genesis/We Can't Dance/05 Never A Time 2.mp3
+./Genesis/We Can't Dance/06 Dreaming While You Sleep 2.mp3
+./Genesis/We Can't Dance/07 Tell Me Why 2.mp3
+./Genesis/We Can't Dance/08 Living Forever 2.mp3
+./Genesis/We Can't Dance/09 Hold On My Heart 2.mp3
+./Genesis/We Can't Dance/10 Way Of The World 2.mp3
+./Genesis/We Can't Dance/11 Since I Lost You 2.mp3
+./Genesis/We Can't Dance/12 Fading Lights 2.mp3
+./Geoffrey Gurrumul Yunupingu/Wiyathul - Single/01 Wiyathul.m4a
+./Gomez/A New Tide/11 Sunset Gates.m4p
+./Gossip/Music for Men (Deluxe Version)/02 Heavy Cross.m4a
+./Great Lake Swimmers/Lost Channels/09 Still.m4a
+./Greg Laswell/Three Flights from Alto Nido/05 How the Day Sounds.m4a
+./Gregg Allman/Just Another Rider/01 Just Another Rider.m4a
+./Gregory Alan Isakov/The Weatherman/04 Living Proof 1.m4a
+./Gregory Alan Isakov/The Weatherman/04 Living Proof.m4a
+./Gregory Porter/Liquid Spirit/05 Hey Laura.m4a
+./HAIM/Days Are Gone/05 Honey & I.m4a
+./Ha-Ash/Habitacion Doble/06 Already Home (With Brandi Carlile) 2.m4p
+./Hamilton Leithauser/Black Hours (Deluxe Edition)/08 I Don't Need Anyone.m4a
+./Heart/The Essential 3.0/3-01 Sylvan Song.m4a
+./Heart/The Essential 3.0/3-02 Dream Of The Archer.m4a
+./Heart/The Essential 3.0/3-03 Bebe Le Strange.m4a
+./Heart/The Essential 3.0/3-04 Mistral Wind (Live).m4a
+./Heart/The Essential 3.0/3-05 Hit Single.m4a
+./Heart/The Essential 3.0/3-06 Strange Euphoria.m4a
+./Heart/The Essential 3.0/3-07 City's Burning.m4a
+./Heart/The Essential 3.0/3-08 Strong, Strong Wind.m4a
+./Hiss Golden Messenger/Lateness of Dancers/02 Saturday's Song.m4a
+./Holcombe Waller/Into the Dark Unknown/05 Hardliners 1.m4a
+./Holcombe Waller/Into the Dark Unknown/05 Hardliners.m4a
+./Holly Miranda/The Magician's Private Library (Bonus Track Version)/03 Waves.m4a
+./Hunter Hunted/Hunter Hunted - EP/03 End of the World.m4a
+./Ian Axel/This Is the New Year/06 This Is the New Year (feat. Chad Vaccarino).m4a
+./Iron & Wine/Grace for Saints and Ramblers - Single/01 Grace for Saints and Ramblers 1.m4a
+./Iron & Wine/Grace for Saints and Ramblers - Single/01 Grace for Saints and Ramblers.m4a
+./Ivan & Alyosha/Easy to Love - Single/01 Easy To Love 1.m4a
+./Ivan & Alyosha/Easy to Love - Single/01 Easy To Love 2.m4a
+./Ivan & Alyosha/Easy to Love - Single/01 Easy To Love.m4a
+./JD McPherson/Twinkle (Little Christmas Lights) - Single/01 Twinkle (Little Christmas Lights).m4a
+./Jack Johnson/At or With Me - Single/01 At or With Me.m4a
+./Jack Johnson/From Here to Now to You/07 As I Was Saying.m4a
+./Jack Johnson/Jack Johnson & Friends - Best of Kokua Festival (A Benefit for the Kokua Hawaii Foundation)/01 Better Together (Live) 1.m4a
+./Jack Johnson/Jack Johnson & Friends - Best of Kokua Festival (A Benefit for the Kokua Hawaii Foundation)/01 Better Together (Live).m4a
+./Jackson Browne/Standing In the Breach/01 The Birds of St. Marks.m4a
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/01 Running On Empty.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/02 You Love The Thunder.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/03 Boulevard.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/04 Somebody's Baby.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/05 Tender Is The Night.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/06 Lawyers In Love.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/07 In The Shape Of A Heart.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/08 Lawless Avenues.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/09 Lives In The Balance.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/10 I Am A Patriot.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/11 Sky Blue And Black.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/12 I'm Alive.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/13 The Barricades Of Heaven.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/14 Looking East.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/15 The Naked Ride Home.mp3
+./Jackson Browne/The Very Best Of Jackson Browne (Disc 2)/16 The Night Inside Me.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/01 Doctor My Eyes.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/02 Jamaica Say You Will.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/03 Rock Me On The Water.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/04 Take It Easy.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/05 These Days.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/06 Redneck Friend.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/07 For Everyman.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/08 For A Dancer.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/09 Fountain Of Sorrow.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/10 Late For The Sky.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/11 Before The Deluge.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/12 Your Bright Baby Blues.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/13 The Pretender.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/14 Here Come Those Tears Again.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/15 The Load-Out.mp3
+./Jackson Browne/The Very Best Of Jackson Browne - Disc 1 of 2/16 Stay.mp3
+./James Taylor/Before This World/01 Today Today Today.m4a
+./Janelle Monáe/The Electric Lady/09 Dance Apocalyptic.m4a
+./Jason Isbell/Something More Than Free/03 Flagship.m4a
+./Jenny Lewis/The Voyager/03 Just One of the Guys.m4a
+./Jenny O_/Automechanic/05 Learned My Lessons 1.m4a
+./Jenny O_/Automechanic/05 Learned My Lessons.m4a
+./Jim James/Regions of Light and Sound of God/04 A New Life 1.m4a
+./Jim James/Regions of Light and Sound of God/04 A New Life 2.m4a
+./Jim James/Regions of Light and Sound of God/04 A New Life.m4a
+./Jimmy Greene/Beautiful Life/04 Ana's Way (feat. Kurt Elling).m4a
+./Joey Alexander/My Favorite Things (Deluxe Edition)/05 Ma Blues.m4a
+./John Cougar/American Fool (Remastered)/03 Hand to Hold On to.m4p
+./John Mellencamp/Words & Music - John Mellencamp's Greatest Hits/2-13 Jack & Diane 2.m4p
+./Josh Groban/Hidden Away - Single/01 Hidden Away.m4a
+./Junior Boys/Begone Dull Care/04 Dull to Pause.m4a
+./Junip/Fields/01 In Every Direction.m4a
+./Justin Timberlake/The 20_20 Experience/04 Strawberry Bubblegum 1.m4a
+./Justin Timberlake/The 20_20 Experience/04 Strawberry Bubblegum.m4a
+./Kacey Musgraves/Same Trailer Different Park/11 Follow Your Arrow.m4a
+./Kate Earl/Stronger/02 One Woman Army 1.m4a
+./Kate Earl/Stronger/02 One Woman Army.m4a
+./Kelis/Food/01 Jerk Ribs.m4a
+./Kings of Leon/Birthday - Single/01 Birthday.m4a
+./Lady Antebellum/Need You Now/01 Need You Now.m4a
+./Lake Street Dive/Bad Self Portraits/05 You Go Down Smooth.m4a
+./Lanu/Beautiful Trash (feat. Megan Washington) - EP/01 Beautiful Trash (feat. Megan Washington).m4a
+./Laurent Korcia/Laurent Korcia_ Cinema/01 Cinema Paradiso.m4a
+./Leela James/Tell Me You Love Me - Single/01 Tell Me You Love Me.m4a
+./Leonard Cohen/Banjo - Single/01 Banjo 1.m4a
+./Leonard Cohen/Banjo - Single/01 Banjo.m4a
+./Lia Ices/Love Is Won - Single/01 Love Is Won.m4a
+./London Philharmonic Orchestra, Renée Fleming & Sir Charles Mackerras/Renée Fleming/07 La Wally, Drama Lirica in Quattro Atti_ Ebben_ Ne Andrò Lontana.m4p
+./Macklemore & Ryan Lewis/The Heist/05 Same Love (feat. Mary Lambert) 1.m4a
+./Macklemore & Ryan Lewis/The Heist/05 Same Love (feat. Mary Lambert) 2.m4a
+./Macklemore & Ryan Lewis/The Heist/05 Same Love (feat. Mary Lambert).m4a
+./Madeleine Peyroux/Bare Bones (Bonus Track Version)/01 Instead.m4a
+./Madeleine Peyroux/Standing On the Rooftop/02 The Kind You Can't Afford 1.m4a
+./Madeleine Peyroux/Standing On the Rooftop/02 The Kind You Can't Afford.m4a
+./Madeleine Peyroux/The Blue Room/02 Bye Bye Love 1.m4a
+./Madeleine Peyroux/The Blue Room/02 Bye Bye Love.m4a
+./Mariachi El Bronx/Mariachi El Bronx (III)/02 Wildfires.m4a
+./Marie & the redCat/Home/08 Beautiful Day.m4a
+./Mary J. Blige/A Mary Christmas/12 Noche De Paz (Silent Night) [feat. Marc Anthony].m4a
+./Mary J. Blige/The London Sessions/02 Doubt.m4a
+./Matt Nathanson/Faster - Single/01 Faster.m4p
 ./Mavis Staples/One True Vine/05 Far Celestial Shore 1.m4a
 ./Mavis Staples/One True Vine/05 Far Celestial Shore.m4a
-./Yo-Yo Ma, Stuart Duncan, Chris Thile, Edgar Meyer & Aoife O'Donovan
-./Yo-Yo Ma, Stuart Duncan, Chris Thile, Edgar Meyer & Aoife O'Donovan/Here and Heaven - Single
-./Yo-Yo Ma, Stuart Duncan, Chris Thile, Edgar Meyer & Aoife O'Donovan/Here and Heaven - Single/01 Here and Heaven 1.m4a
-./Yo-Yo Ma, Stuart Duncan, Chris Thile, Edgar Meyer & Aoife O'Donovan/Here and Heaven - Single/._01 Here and Heaven 1.m4a
-./Yo-Yo Ma, Stuart Duncan, Chris Thile, Edgar Meyer & Aoife O'Donovan/Here and Heaven - Single/01 Here and Heaven.m4a
-./Sarah McLachlan/Solace
-./Sarah McLachlan/Solace/07 Shelter.mp3
-./Sarah McLachlan/Solace/09 Home.mp3
-./Sarah McLachlan/Solace/04 I Will Not Forget You.mp3
-./Sarah McLachlan/Solace/08 Black.mp3
-./Sarah McLachlan/Solace/03 The Path Of Thorns (Terms).mp3
-./Sarah McLachlan/Solace/11 Wear Your Love Like Heaven.mp3
-./Sarah McLachlan/Solace/05 Lost.mp3
-./Sarah McLachlan/Solace/06 Back Door Man.mp3
-./Sarah McLachlan/Solace/02 Into The Fire.mp3
-./Sarah McLachlan/Solace/10 Mercy.mp3
-./Sarah McLachlan/Solace/01 Drawn To The Rhythm.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/04 Gloomy Sunday (Live).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/05 Full Of Grace.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/08 Drawn To The Rhythm (Live).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/07 Blue.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/10 As The End Draws Near (Extended Remix).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/02 I Will Remember You.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/12 Into The Fire (Extended Remix).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/13 Possession (Rabbit In The Moon Remix).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/06 Song For A Winter's Night.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/01 Dear God.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/09 Shelter (Violin Mix).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/11 Vox (Extended Remix).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/03 Fear (LunaSol Remix).mp3
-./Sarah McLachlan/Afterglow/02 World On Fire.mp3
+./Meshell Ndegeocello/Devil's Halo/02 Tie One On.m4a
+./Michael Bublé/Cold December Night - Single/01 Cold December Night.m4a
+./Miguel/Kaleidoscope Dream/01 Adorn 1.m4a
+./Miguel/Kaleidoscope Dream/01 Adorn.m4a
+./Mikal Cronin/MCIII/01 Turn Around.m4a
+./Miles Davis Quintet/Workin' (RVG Remaster)/02 Four.m4a
+./Miles Davis Quintet/Workin' With the Miles Davis Quintet (Remastered)/02 Four.m4a
+./Minor Alps/Get There/02 I Don't Know What to Do With My Hands.m4a
+./Monsters of Folk/Monsters of Folk/06 Baby Boomer.m4a
+./Motopony/Motopony (Bonus Track Version)/02 King of Diamonds 1.m4a
+./Motopony/Motopony (Bonus Track Version)/02 King of Diamonds.m4a
+./Natalie Maines/Mother/10 Take It On Faith.m4a
+./Nataly Dawn/Please Don't Scream - Single/03 Please Don't Scream 1.m4a
+./Nataly Dawn/Please Don't Scream - Single/03 Please Don't Scream 2.m4a
+./Nataly Dawn/Please Don't Scream - Single/03 Please Don't Scream.m4a
+./Neko Case/People Got a Lotta Nerve - Single/01 People Got a Lotta Nerve.m4a
+./Nickle Creek-Chris Thile/Stealing Second/07 Leaves Fall 2.mp3
+./Norah Jones/Feels Like Home/01 Sunrise 2.mp3
+./Norah Jones/Feels Like Home/02 What Am I To You_ 2.mp3
+./Norah Jones/Feels Like Home/03 Those Sweet Words 2.mp3
+./Norah Jones/Feels Like Home/05 In The Morning 2.mp3
+./Norah Jones/Feels Like Home/08 Toes 2.mp3
+./Norah Jones/Feels Like Home/09 Humble Me 2.mp3
+./Norah Jones/Feels Like Home/11 The Long Way Home 2.mp3
+./Norah Jones/Feels Like Home/12 The Prettiest Thing 2.mp3
+./Norah Jones/Feels Like Home/13 Don't Miss You At All 2.mp3
+./Norah Jones/It Came Upon a Midnight Clear - Single/01 It Came Upon a Midnight Clear 1.m4a
+./Norah Jones/It Came Upon a Midnight Clear - Single/01 It Came Upon a Midnight Clear.m4a
+./Orchestra Baobab/Made In Dakar/01 Pape Ndiaye 2.m4p
+./Other Lives/Black Tables - Single/01 Black Tables.m4a
+./P!nk/Raise Your Glass - Single/01 Raise Your Glass.m4a
+./P!nk/The Truth About Love/01 Are We All We Are.m4a
+./P!nk/The Truth About Love/02 Blow Me (One Last Kiss).m4a
+./P!nk/The Truth About Love/03 Try.m4a
+./P!nk/The Truth About Love/04 Just Give Me a Reason (feat. Nate Ruess).m4a
+./P!nk/The Truth About Love/05 True Love (feat. Lily Allen).m4a
+./P!nk/The Truth About Love/06 How Come You're Not Here.m4a
+./P!nk/The Truth About Love/07 Slut Like You.m4a
+./P!nk/The Truth About Love/08 The Truth About Love.m4a
+./P!nk/The Truth About Love/09 Beam Me Up.m4a
+./P!nk/The Truth About Love/10 Walk of Shame.m4a
+./P!nk/The Truth About Love/11 Here Comes the Weekend (feat. Eminem).m4a
+./P!nk/The Truth About Love/12 Where Did the Beat Go_.m4a
+./P!nk/The Truth About Love/13 The Great Escape.m4a
+./P!nk/The Truth About Love/14 Chaos & Piss.m4a
+./P!nk/The Truth About Love/15 Timebomb.m4a
+./P!nk/The Truth About Love/The Truth About Love - iTunes LP (v2.0).itlp/audio/Pink_TheTruthAboutLove_backgroundaudio.m4a
+./PHOX/PHOX/03 Slow Motion.m4a
+./Parts & Labor/Constant Future/05 Rest.m4a
+./Patty Griffin/Downtown Church/03 Little Fire (feat. Emmylou Harris).m4a
+./Peter Bjorn and John/Eyes - Single/01 Eyes.m4p
+./Peter Gabriel/So/09 In Your Eyes 1.m4p
+./Phantogram/Mouthful of Diamonds/01 Mouthful Of Diamonds.m4a
+./Phosphorescent/Muchacho/03 Ride On _ Right On 1.m4a
+./Phosphorescent/Muchacho/03 Ride On _ Right On.m4a
+./Pink Martini/Joy to the World/10 We Three Kings.m4a
+./Playing for Change/Playing For Change 3_ Songs Around the World/04 Down By the Riverside (feat. Keb' Mo', Preservation Hall Jazz Band & Grandpa Elliott).m4a
+./Punch Brothers/The Phosphorescent Blues/04 I Blew It Off.m4a
+./Queen/Queen_ Greatest Hits/01 We Will Rock You 1.m4p
+./Queen/Queen_ Greatest Hits/01 We Will Rock You 2.m4p
+./Queen/Queen_ Greatest Hits/02 We Are the Champions 1.m4p
+./Queen/Queen_ Greatest Hits/02 We Are the Champions 2.m4p
+./R.E.M_/ÜBerlin - Single/01 ÜBerlin.m4a
+./Raphael Saadiq/100 Yard Dash - Single/01 100 Yard Dash 2.m4p
+./Ray Charles/Genius Loves Company (10th Anniversary Edition)/01 Here We Go Again.m4a
+./Ricky Skaggs/Live At The Charleston Music Hall/01 introduction.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/02 Black Eyed Suzie.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/03 How Mountian Girls Can Love.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/04 On A Lonesome Night.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/05 song intro.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/06 Amanda Jewell.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/07 Why Did You Wander.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/08 song intro.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/09 A Simple Life.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/10 Band intro.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/11 Goin' To The Ceili.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/12 The Old Home Place.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/13 song intro-.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/14 I Heard My Mother Call My Name In Prayer.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/15 song intro.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/16 Crossville.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/17 song intro-.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/18 Somewhere Nice Forever.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/19 Uncle Pen.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/20 PIG IN A PEN.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/21 song intro.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/22 Cat's In The Cradle.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/23 song intro.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/24 Get Up John.mp3
+./Ricky Skaggs/Live At The Charleston Music Hall/25 untitled track.mp3
+./Robert Earl Keen/The Rose Hotel/09 On and On.m4a
+./Robert Plant/Angel Dance - Single/01 Angel Dance.m4a
+./Ron Block/Hogan's House of Music/01 Smartville.mp3
+./Ron Block/Hogan's House of Music/02 Hogan's House of Boogie.mp3
+./Ron Block/Hogan's House of Music/03 Wolves A-Howling.mp3
+./Ron Block/Hogan's House of Music/04 The Spotted Pony  (featuring_ Stuart Duncan, Alison Krauss, Adam Steffey).mp3
+./Ron Block/Hogan's House of Music/05 Clinch Mountain Backstep.mp3
+./Ron Block/Hogan's House of Music/06 Gentle Annie  (featuring Tim Crouch).mp3
+./Ron Block/Hogan's House of Music/07 Mooney Flat Road (featuring_ Stuart Duncan, Alison Krauss).mp3
+./Ron Block/Hogan's House of Music/08 Mollie Catherine Carter.mp3
+./Ron Block/Hogan's House of Music/09 Seneca Square Dance  (featuring_  Sierra Hull).mp3
+./Ron Block/Hogan's House of Music/10 Calico.mp3
+./Ron Block/Hogan's House of Music/11 You Are My Sunshine.mp3
+./Ron Block/Hogan's House of Music/12 Lonesome Road Blues.mp3
+./Ron Block/Hogan's House of Music/13 '65 Mustang Blues  (featuring_ Sam Bush, Jerry Douglas).mp3
+./Ron Block/Hogan's House of Music/14 Brushy Fork of John's Creek.mp3
+./Ron Block/Hogan's House of Music/15 Carter's Creek Pike.mp3
+./Ron Block/Hogan's House of Music/16 Home Sweet Home.mp3
+./Ron Block/Walking Song/01 Walking Song.mp3
+./Ron Block/Walking Song/02 Devil In The Strawstack.mp3
+./Ron Block/Walking Song/03 Jordan, Carry Me.mp3
+./Ron Block/Walking Song/04 Ivy.mp3
+./Ron Block/Walking Song/05 Summer's Lullaby.mp3
+./Ron Block/Walking Song/06 Nickel Tree Line.mp3
+./Ron Block/Walking Song/07 Let There Be Beauty.mp3
+./Ron Block/Walking Song/08 What Wondrous Love Is This_.mp3
+./Ron Block/Walking Song/09 The Fields Of Aidlewinn.mp3
+./Ron Block/Walking Song/10 Chase Me To The Ocean.mp3
+./Ron Block/Walking Song/11 Shortnin' Bread.mp3
+./Ron Block/Walking Song/12 Colors.mp3
+./Ron Block/Walking Song/13 Sunshine Billy.mp3
+./Ron Block/Walking Song/14 Rest, My Soul.mp3
+./Rufus Wainwright/Sometimes You Need - Single/01 Sometimes You Need 1.m4a
+./Rufus Wainwright/Sometimes You Need - Single/01 Sometimes You Need.m4a
+./Rush/Caravan - Single/01 Caravan (Single Version).m4a
+./Rush/Caravan - Single/02 BU2B (Single Version).m4a
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-01 Subdivisions.mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-02 The Big Money.mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-03 Force Ten.mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-04 Grand Designs.mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-05 The Body Electric.mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-06 Territories.mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-07 The Analog Kid.mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-08 Bravado.mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-09 Where's My Thing__Here It Is! (Drum Solo).mp3
+./Rush/Clockwork Angels Tour [Live] [Disc 1]/1-10 Far Cry.mp3
+./Rush/Clockwork Angels/01 Caravan.mp3
+./Rush/Clockwork Angels/02 BU2B.mp3
+./Rush/Clockwork Angels/03 Clockwork Angels.mp3
+./Rush/Clockwork Angels/04 The Anarchist.mp3
+./Rush/Clockwork Angels/05 Carnies.mp3
+./Rush/Clockwork Angels/06 Halo Effect.mp3
+./Rush/Clockwork Angels/07 Seven Cities Of Gold.mp3
+./Rush/Clockwork Angels/08 The Wreckers.mp3
+./Rush/Clockwork Angels/09 Headlong Flight.mp3
+./Rush/Clockwork Angels/10 BU2B2.mp3
+./Rush/Clockwork Angels/11 Wish Them Well.mp3
+./Rush/Clockwork Angels/12 The Garden.mp3
+./Rush/Grace Under Pressure/01 Distant Early Warning 2.m4p
+./Rush/Grace Under Pressure/02 Afterimage 1.m4p
+./Rush/Grace Under Pressure/02 Afterimage 2.m4p
+./Rush/Grace Under Pressure/03 Red Sector A 1.m4p
+./Rush/Grace Under Pressure/03 Red Sector A 2.m4p
+./Rush/Grace Under Pressure/04 The Enemy Within, Pt. 1 of _Fear_ 1.m4p
+./Rush/Grace Under Pressure/04 The Enemy Within, Pt. 1 of _Fear_ 2.m4p
+./Rush/Grace Under Pressure/05 The Body Electric 2.m4p
+./Rush/Grace Under Pressure/06 Kid Gloves 1.m4p
+./Rush/Grace Under Pressure/06 Kid Gloves 2.m4p
+./Rush/Grace Under Pressure/07 Red Lenses 1.m4p
+./Rush/Grace Under Pressure/07 Red Lenses 2.m4p
+./Rush/Grace Under Pressure/08 Between the Wheels 2.m4p
+./Rush/Moving Pictures/01 Tom Sawyer.mp3
+./Rush/Moving Pictures/02 Red Barchetta.mp3
+./Rush/Moving Pictures/03 Yyz.mp3
+./Rush/Moving Pictures/04 Limelight.mp3
+./Rush/Moving Pictures/05 Camera Eye.mp3
+./Rush/Moving Pictures/06 Witch Hunt.mp3
+./Rush/Moving Pictures/07 Vital Signs.mp3
+./Rush/Vapor Trails Remixed/01 One Little Victory.mp3
+./Rush/Vapor Trails Remixed/02 Ceiling Unlimited.mp3
+./Rush/Vapor Trails Remixed/03 Ghost Rider.mp3
+./Rush/Vapor Trails Remixed/04 Peaceable Kingdom.mp3
+./Rush/Vapor Trails Remixed/05 The Stars Look Down.mp3
+./Rush/Vapor Trails Remixed/06 How It Is.mp3
+./Rush/Vapor Trails Remixed/07 Vapor Trail.mp3
+./Rush/Vapor Trails Remixed/08 Secret Touch.mp3
+./Rush/Vapor Trails Remixed/09 Earthshine.mp3
+./Rush/Vapor Trails Remixed/10 Sweet Miracle.mp3
+./Rush/Vapor Trails Remixed/11 Nocturne.mp3
+./Rush/Vapor Trails Remixed/12 Freeze (Part IV Of _Fear_).mp3
+./Rush/Vapor Trails Remixed/13 Out Of The Cradle.mp3
+./Sara Watkins/Sara Watkins/01 All This TIme 1.m4a
+./Sara Watkins/Sara Watkins/01 All This TIme.m4a
+./Sara Watkins/Sara Watkins/02 Long Hot Summer Days.m4a
+./Sara Watkins/Sara Watkins/03 My Friend.m4a
+./Sara Watkins/Sara Watkins/04 Freiderick.m4a
+./Sara Watkins/Sara Watkins/05 Same Mistakes.m4a
+./Sara Watkins/Sara Watkins/06 Any Old Time.m4a
+./Sara Watkins/Sara Watkins/07 Pony.m4a
+./Sara Watkins/Sara Watkins/08 Lord Won't You Help Me.m4a
+./Sara Watkins/Sara Watkins/09 Jefferson.m4a
+./Sara Watkins/Sara Watkins/10 Give Me Jesus.m4a
+./Sara Watkins/Sara Watkins/11 Bygones.m4a
+./Sara Watkins/Sara Watkins/12 Too Much.m4a
+./Sara Watkins/Sara Watkins/13 Will We Go.m4a
+./Sara Watkins/Sara Watkins/14 Where Will You Be.m4a
+./Sarah Jarosz/Build Me Up From Bones/01 Over the Edge.m4a
 ./Sarah McLachlan/Afterglow/01 Fallen 1.m4p
 ./Sarah McLachlan/Afterglow/01 Fallen 2.m4p
-./Sarah McLachlan/Afterglow/05 Trainwreck.mp3
 ./Sarah McLachlan/Afterglow/01 Fallen 2.mp3
-./Sarah McLachlan/Remixed
+./Sarah McLachlan/Afterglow/02 World On Fire.mp3
+./Sarah McLachlan/Afterglow/05 Trainwreck.mp3
+./Sarah McLachlan/Bloom Remix Album/01 World on Fire (Junkie XL Club Mix).mp3
+./Sarah McLachlan/Bloom Remix Album/02 Ice (Dusted Mix).mp3
+./Sarah McLachlan/Bloom Remix Album/03 Vox (Tom Middleton Mix).mp3
+./Sarah McLachlan/Bloom Remix Album/04 Dirty Little Secret (Thievery Corporation Mix).mp3
+./Sarah McLachlan/Bloom Remix Album/05 Stupid (Hyper Remix).mp3
+./Sarah McLachlan/Bloom Remix Album/06 Train Wreck (Sly & Robbie Mix).mp3
+./Sarah McLachlan/Bloom Remix Album/07 Just Like Me (Ft. DMC).mp3
+./Sarah McLachlan/Bloom Remix Album/08 Answer (Talvin Singh Mix).mp3
+./Sarah McLachlan/Bloom Remix Album/09 Fallen (Gabriel & Dresden Anti-Gravity Mix).mp3
+./Sarah McLachlan/Bloom Remix Album/10 Fumbling Towards Ecstacy (Junior Boys Mix).mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/01 Possession.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/02 Wait.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/03 Plenty.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/04 Good Enough.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/05 Mary.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/06 Elsewhere.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/07 Circle.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/08 Ice.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/09 Hold On.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/10 Ice Cream.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/11 Fear.mp3
+./Sarah McLachlan/Fumbling Towards Ecstasy/12 Fumbling Towards Ecstasy.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/01 Ordinary Miracle.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/02 Blackbird.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/03 Time After Time.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/04 River.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/05 When She Loved Me.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/06 Don't Let Go.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/07 Just Like Me.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/08 Angel (Live, With Emmylou Harris).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/09 Pills (Live, With The Perishers).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/10 Homeless.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/11 The Rainbow Connection.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/12 Prayer Of St. Francis.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/13 Unchained Melody.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/14 Silence (DJ Tiesto Remix).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/01 Dear God.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/02 I Will Remember You.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/03 Fear (LunaSol Remix).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/04 Gloomy Sunday (Live).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/05 Full Of Grace.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/06 Song For A Winter's Night.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/07 Blue.mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/08 Drawn To The Rhythm (Live).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/09 Shelter (Violin Mix).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/10 As The End Draws Near (Extended Remix).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/11 Vox (Extended Remix).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/12 Into The Fire (Extended Remix).mp3
+./Sarah McLachlan/Rarities, B-Sides, and Other Stuff/13 Possession (Rabbit In The Moon Remix).mp3
+./Sarah McLachlan/Remixed/01 Fear (Hybrid Mix).mp3
 ./Sarah McLachlan/Remixed/02 Sweet Surrender (DJ Tiesto Mix).mp3
-./Sarah McLachlan/Remixed/08 Hold On (BT Mix - Edit).mp3
 ./Sarah McLachlan/Remixed/03 Angel (Rollo Mix).mp3
+./Sarah McLachlan/Remixed/04 I Love You (BT Mix).mp3
 ./Sarah McLachlan/Remixed/05 Silence (Michael Woods Mix).mp3
 ./Sarah McLachlan/Remixed/06 Possession (Rabbit In The Moon Mix).mp3
 ./Sarah McLachlan/Remixed/07 Black (William Orbit Mix).mp3
-./Sarah McLachlan/Remixed/01 Fear (Hybrid Mix).mp3
+./Sarah McLachlan/Remixed/08 Hold On (BT Mix - Edit).mp3
 ./Sarah McLachlan/Remixed/09 Plenty (Fade Mix).mp3
-./Sarah McLachlan/Remixed/04 I Love You (BT Mix).mp3
+./Sarah McLachlan/Shine On (Deluxe Edition)/01 In Your Shoes.m4a
+./Sarah McLachlan/Solace/01 Drawn To The Rhythm.mp3
+./Sarah McLachlan/Solace/02 Into The Fire.mp3
+./Sarah McLachlan/Solace/03 The Path Of Thorns (Terms).mp3
+./Sarah McLachlan/Solace/04 I Will Not Forget You.mp3
+./Sarah McLachlan/Solace/05 Lost.mp3
+./Sarah McLachlan/Solace/06 Back Door Man.mp3
+./Sarah McLachlan/Solace/07 Shelter.mp3
+./Sarah McLachlan/Solace/08 Black.mp3
+./Sarah McLachlan/Solace/09 Home.mp3
+./Sarah McLachlan/Solace/10 Mercy.mp3
+./Sarah McLachlan/Solace/11 Wear Your Love Like Heaven.mp3
+./Sarah McLachlan/Surfacing/01 Building A Mystery.mp3
+./Sarah McLachlan/Surfacing/02 I Love You.mp3
+./Sarah McLachlan/Surfacing/03 Sweet Surrender.mp3
+./Sarah McLachlan/Surfacing/04 Adia.mp3
+./Sarah McLachlan/Surfacing/05 Do What You Have To Do.mp3
+./Sarah McLachlan/Surfacing/06 Witness.mp3
+./Sarah McLachlan/Surfacing/07 Angel.mp3
+./Sarah McLachlan/Surfacing/08 Black & White.mp3
+./Sarah McLachlan/Surfacing/09 Full Of Grace.mp3
+./Sarah McLachlan/Surfacing/10 Last Dance.mp3
+./Sarah McLachlan/The Freedom Sessions/01 Elsewhere.mp3
+./Sarah McLachlan/The Freedom Sessions/02 Plenty.mp3
 ./Sarah McLachlan/The Freedom Sessions/03 Mary.mp3
 ./Sarah McLachlan/The Freedom Sessions/04 Good Enough.mp3
-./Sarah McLachlan/The Freedom Sessions/08 Ol '55.mp3
-./Sarah McLachlan/The Freedom Sessions/07 Ice.mp3
-./Sarah McLachlan/The Freedom Sessions/01 Elsewhere.mp3
-./Sarah McLachlan/The Freedom Sessions/06 Ice Cream.mp3
-./Sarah McLachlan/The Freedom Sessions/02 Plenty.mp3
 ./Sarah McLachlan/The Freedom Sessions/05 Hold On.mp3
-./Sarah McLachlan/Shine On (Deluxe Edition)
-./Sarah McLachlan/Shine On (Deluxe Edition)/01 In Your Shoes.m4a
-./Sarah McLachlan/Shine On (Deluxe Edition)/._01 In Your Shoes.m4a
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/11 The Rainbow Connection.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/07 Just Like Me.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/08 Angel (Live, With Emmylou Harris).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/01 Ordinary Miracle.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/04 River.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/10 Homeless.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/05 When She Loved Me.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/14 Silence (DJ Tiesto Remix).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/03 Time After Time.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/13 Unchained Melody.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/09 Pills (Live, With The Perishers).mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/06 Don't Let Go.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/02 Blackbird.mp3
-./Sarah McLachlan/Rarities, B-Sides, and Other Stuff Vol. 2/12 Prayer Of St. Francis.mp3
-./Sarah McLachlan/Touch
-./Sarah McLachlan/Touch/10 Vox [Extended Version].mp3
-./Sarah McLachlan/Touch/05 Tough.mp3
-./Sarah McLachlan/Touch/08 Uphill Battle.mp3
-./Sarah McLachlan/Touch/07 Sad Clown.mp3
-./Sarah McLachlan/Touch/09 Ben's Song.mp3
-./Sarah McLachlan/Touch/04 Trust.mp3
-./Sarah McLachlan/Touch/03 Strange World.mp3
-./Sarah McLachlan/Touch/02 Vox.mp3
-./Sarah McLachlan/Touch/06 Steaming.mp3
+./Sarah McLachlan/The Freedom Sessions/06 Ice Cream.mp3
+./Sarah McLachlan/The Freedom Sessions/07 Ice.mp3
+./Sarah McLachlan/The Freedom Sessions/08 Ol '55.mp3
 ./Sarah McLachlan/Touch/01 Out of the Shadows.mp3
-./Sarah McLachlan/Bloom Remix Album
-./Sarah McLachlan/Bloom Remix Album/01 World on Fire (Junkie XL Club Mix).mp3
-./Sarah McLachlan/Bloom Remix Album/07 Just Like Me (Ft. DMC).mp3
-./Sarah McLachlan/Bloom Remix Album/06 Train Wreck (Sly & Robbie Mix).mp3
-./Sarah McLachlan/Bloom Remix Album/04 Dirty Little Secret (Thievery Corporation Mix).mp3
-./Sarah McLachlan/Bloom Remix Album/05 Stupid (Hyper Remix).mp3
-./Sarah McLachlan/Bloom Remix Album/02 Ice (Dusted Mix).mp3
-./Sarah McLachlan/Bloom Remix Album/09 Fallen (Gabriel & Dresden Anti-Gravity Mix).mp3
-./Sarah McLachlan/Bloom Remix Album/10 Fumbling Towards Ecstacy (Junior Boys Mix).mp3
-./Sarah McLachlan/Bloom Remix Album/08 Answer (Talvin Singh Mix).mp3
-./Sarah McLachlan/Bloom Remix Album/03 Vox (Tom Middleton Mix).mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy
-./Sarah McLachlan/Fumbling Towards Ecstasy/01 Possession.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/03 Plenty.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/09 Hold On.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/04 Good Enough.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/06 Elsewhere.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/05 Mary.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/11 Fear.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/07 Circle.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/02 Wait.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/08 Ice.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/12 Fumbling Towards Ecstasy.mp3
-./Sarah McLachlan/Fumbling Towards Ecstasy/10 Ice Cream.mp3
-./Sarah McLachlan/.DS_Store
-./Sarah McLachlan/Surfacing
-./Sarah McLachlan/Surfacing/06 Witness.mp3
-./Sarah McLachlan/Surfacing/08 Black & White.mp3
-./Sarah McLachlan/Surfacing/10 Last Dance.mp3
-./Sarah McLachlan/Surfacing/02 I Love You.mp3
-./Sarah McLachlan/Surfacing/07 Angel.mp3
-./Sarah McLachlan/Surfacing/05 Do What You Have To Do.mp3
-./Sarah McLachlan/Surfacing/04 Adia.mp3
-./Sarah McLachlan/Surfacing/01 Building A Mystery.mp3
-./Sarah McLachlan/Surfacing/09 Full Of Grace.mp3
-./Sarah McLachlan/Surfacing/03 Sweet Surrender.mp3
-./Sarah McLachlan/Wintersong
-./Sarah McLachlan/Wintersong/11 In the Bleak Mid-Winter.mp3
-./Sarah McLachlan/Wintersong/07 The First Noel Mary Mary.mp3
+./Sarah McLachlan/Touch/02 Vox.mp3
+./Sarah McLachlan/Touch/03 Strange World.mp3
+./Sarah McLachlan/Touch/04 Trust.mp3
+./Sarah McLachlan/Touch/05 Tough.mp3
+./Sarah McLachlan/Touch/06 Steaming.mp3
+./Sarah McLachlan/Touch/07 Sad Clown.mp3
+./Sarah McLachlan/Touch/08 Uphill Battle.mp3
+./Sarah McLachlan/Touch/09 Ben's Song.mp3
+./Sarah McLachlan/Touch/10 Vox [Extended Version].mp3
 ./Sarah McLachlan/Wintersong/01 Happy Xmas (War Is Over).mp3
-./Sarah McLachlan/Wintersong/05 I'll Be Home For Christmas.mp3
-./Sarah McLachlan/Wintersong/08 Silent Night.mp3
-./Sarah McLachlan/Wintersong/06 O Little Town of Bethlehem.mp3
 ./Sarah McLachlan/Wintersong/02 What Child Is This (Greensleeves).mp3
 ./Sarah McLachlan/Wintersong/03 River.mp3
 ./Sarah McLachlan/Wintersong/04 Wintersong.mp3
-./Sarah McLachlan/Wintersong/12 Christmas Time Is Here.mp3
-./Sarah McLachlan/Wintersong/10 Have Yourself a Merry Little Christmas.mp3
+./Sarah McLachlan/Wintersong/05 I'll Be Home For Christmas.mp3
+./Sarah McLachlan/Wintersong/06 O Little Town of Bethlehem.mp3
+./Sarah McLachlan/Wintersong/07 The First Noel Mary Mary.mp3
+./Sarah McLachlan/Wintersong/08 Silent Night.mp3
 ./Sarah McLachlan/Wintersong/09 Song For a Winter's Night.mp3
-./Van Morrison
-./Van Morrison/Born to Sing_ No Plan B
-./Van Morrison/Born to Sing_ No Plan B/04 End of the Rainbow 1.m4a
-./Van Morrison/Born to Sing_ No Plan B/04 End of the Rainbow.m4a
-./Van Morrison/Born to Sing_ No Plan B/._04 End of the Rainbow 1.m4a
-./Brazos
-./Brazos/Saltwater
-./Brazos/Saltwater/._03 How the Ranks Was Won 1.m4a
-./Brazos/Saltwater/03 How the Ranks Was Won 1.m4a
-./Brazos/Saltwater/._03 How the Ranks Was Won.m4a
-./Brazos/Saltwater/03 How the Ranks Was Won.m4a
-./Cayucas
-./Cayucas/Bigfoot
-./Cayucas/Bigfoot/01 Cayucos 1.m4a
-./Cayucas/Bigfoot/._01 Cayucos 1.m4a
-./Cayucas/Bigfoot/._01 Cayucos.m4a
-./Cayucas/Bigfoot/01 Cayucos.m4a
-./Punch Brothers
-./Punch Brothers/The Phosphorescent Blues
-./Punch Brothers/The Phosphorescent Blues/04 I Blew It Off.m4a
-./Punch Brothers/The Phosphorescent Blues/._04 I Blew It Off.m4a
-./We Are Augustines
-./We Are Augustines/Chapel Song - Single
-./We Are Augustines/Chapel Song - Single/01 Chapel Song.m4p
-./Leela James
-./Leela James/Tell Me You Love Me - Single
-./Leela James/Tell Me You Love Me - Single/01 Tell Me You Love Me.m4a
-./PHOX
-./PHOX/PHOX
-./PHOX/PHOX/03 Slow Motion.m4a
-./PHOX/PHOX/._03 Slow Motion.m4a
-./Kings of Leon
-./Kings of Leon/Birthday - Single
-./Kings of Leon/Birthday - Single/01 Birthday.m4a
-./Cold War Kids
-./Cold War Kids/Mine Is Yours (Deluxe Version)
-./Cold War Kids/Mine Is Yours (Deluxe Version)/06 Skip the Charades.m4a
-./Miles Davis Quintet
-./Miles Davis Quintet/Workin' With the Miles Davis Quintet (Remastered)
-./Miles Davis Quintet/Workin' With the Miles Davis Quintet (Remastered)/._02 Four.m4a
-./Miles Davis Quintet/Workin' With the Miles Davis Quintet (Remastered)/02 Four.m4a
-./Miles Davis Quintet/Workin' (RVG Remaster)
-./Miles Davis Quintet/Workin' (RVG Remaster)/02 Four.m4a
-./The Wailin' Jennys
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/06 Intro (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/17 Intro (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/09 Bring Me Li'l Water Silvy (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/._02 Summertime (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/13 Intro (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/07 Glory Bound (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/05 Bold Riley (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/11 Racing With the Sun (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/01 Deeper Well (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/15 Motherless Child (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/03 Intro (Live) 2.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/08 Arlington (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/12 Paint a Picture (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/13 Intro (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/06 Intro (Live) 2.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/._09 Bring Me Li'l Water Silvy (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/17 Intro (Live) 2.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/04 Driving (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/02 Summertime (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/03 Intro (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/14 Begin (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/18 One Voice (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/02 Summertime (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/13 Intro (Live) 2.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/06 Intro (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/16 Calling All Angels (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/10 One More Dollar (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/09 Bring Me Li'l Water Silvy (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/17 Intro (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/03 Intro (Live) 1.m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/08 Arlington (Live).m4a
-./The Wailin' Jennys/Live at The Mauch Chunk Opera House/._08 Arlington (Live) 1.m4a
-./The Cave Singers
-./The Cave Singers/Naomi
+./Sarah McLachlan/Wintersong/10 Have Yourself a Merry Little Christmas.mp3
+./Sarah McLachlan/Wintersong/11 In the Bleak Mid-Winter.mp3
+./Sarah McLachlan/Wintersong/12 Christmas Time Is Here.mp3
+./Say Hi/Um, Uh Oh (Bonus Track Version)/01 Dots On Maps.m4a
+./Shakey Graves/And the War Came/03 Dearly Departed (feat. Esmé Patterson).m4a
+./Shakey Graves/Dearly Departed (feat. Esmé Patterson) - Single/01 Dearly Departed (feat. Esmé Patterson).m4a
+./Sharon Isbin/Journey to the New World/01 Mr. Drewry's Accords 2.mp3
+./Sharon Isbin/Journey to the New World/02 Lord Willoughby's Welcome Home 2.mp3
+./Sharon Isbin/Journey to the New World/03 La Rossignol 2.mp3
+./Sharon Isbin/Journey to the New World/04 Greensleeves 2.mp3
+./Sharon Isbin/Journey to the New World/05 The Drunken Sailor 2.mp3
+./Sharon Isbin/Journey to the New World/06 Wild Mountain Thyme 2.mp3
+./Sharon Isbin/Journey to the New World/07 Andecy 2.mp3
+./Sharon Isbin/Journey to the New World/08 Wayfaring Stranger 2.mp3
+./Sharon Isbin/Journey to the New World/09 Joan Baez Suite, Opus 144_I. Fantasia_ Once I had a Sweetheart; Rambler Gambler; Barbara Allen 2.mp3
+./Sharon Isbin/Journey to the New World/10 Joan Baez Suite, Opus 144_II. The House of the Rising Sun 2.mp3
+./Sharon Isbin/Journey to the New World/11 Joan Baez Suite, Opus 144_III. The Lily of the West 2.mp3
+./Sharon Isbin/Journey to the New World/12 Joan Baez Suite, Opus 144_IV. The Unquiet Grave 2.mp3
+./Sharon Isbin/Journey to the New World/13 Joan Baez Suite, Opus 144_V. Silkie 2.mp3
+./Sharon Isbin/Journey to the New World/14 Joan Baez Suite, Opus 144_VI. Where have all the Flowers Gone_ 2.mp3
+./Sharon Isbin/Journey to the New World/15 Joan Baez Suite, Opus 144_VII. Finale_ Rake and Rambling Boy; Wildwood Flower; The Trees they do Grow High 2.mp3
+./Sharon Isbin/Journey to the New World/16 Go 'Way From My Window 2.mp3
+./Sharon Isbin/Journey to the New World/17 Strings & Threads Suite_I. Fair Dancer Reel 2.mp3
+./Sharon Isbin/Journey to the New World/18 Strings & Threads Suite_II. Sailor's Jig 2.mp3
+./Sharon Isbin/Journey to the New World/19 Strings & Threads Suite_III. Captain's Jig 2.mp3
+./Sharon Isbin/Journey to the New World/20 Strings & Threads Suite_IV. Off to Sea 2.mp3
+./Sharon Isbin/Journey to the New World/21 Strings & Threads Suite_V. Pilgrim's Waltz 2.mp3
+./Sharon Isbin/Journey to the New World/22 Strings & Threads Suite_VI. Road to Appalachia 2.mp3
+./Sharon Isbin/Journey to the New World/23 Strings & Threads Suite_VII. Shine On 2.mp3
+./Sharon Isbin/Journey to the New World/24 Strings & Threads Suite_VIII. Cotton Pickin' Blues 2.mp3
+./Sharon Isbin/Journey to the New World/25 Strings & Threads Suite_IX. Pickin' Parlor Rag 2.mp3
+./Sharon Isbin/Journey to the New World/26 Strings & Threads Suite_X. Queen of the Cumberland 2.mp3
+./Sharon Isbin/Journey to the New World/27 Strings & Threads Suite_XI. Texas Dance Hall Blues 2.mp3
+./Sharon Isbin/Journey to the New World/28 Strings & Threads Suite_XII. Swing 2.mp3
+./Sharon Isbin/Journey to the New World/29 Strings & Threads Suite_XIII. Sweet Suzanne 2.mp3
+./Sharon Jones & The Dap-Kings/Give the People What They Want (Deluxe Version)/02 Stranger to My Happiness.m4a
+./She & Him/A Very She & Him Christmas/04 I'll Be Home for Christmas 1.m4a
+./She & Him/A Very She & Him Christmas/04 I'll Be Home for Christmas.m4a
+./She & Him/Classics/04 Stay Awhile.m4a
+./She & Him/Volume 3/02 Never Wanted Your Love.m4a
+./Sheryl Crow/Feels Like Home/03 Give It To Me.m4a
+./Slow Club/Wanderer Wandering - Single/01 Wanderer Wandering.m4a
+./Steel Magnolia/Keep On Lovin' You - Single/01 Keep On Lovin' You 1.m4a
+./Steel Magnolia/Keep On Lovin' You - Single/01 Keep On Lovin' You.m4a
+./Steve Morse/Prime Cuts/03 La Villa Strangiato.m4a
+./Sturgill Simpson/Metamodern Sounds in Country Music/08 Just Let Go.m4a
+./Tattletale Saints/How Red Is the Blood/01 Kathleen.m4a
+./Tattletale Saints/How Red Is the Blood/02 Traces of You.m4a
+./Tattletale Saints/How Red Is the Blood/03 Emily.m4a
+./Tattletale Saints/How Red Is the Blood/04 Doctor Doctor.m4a
+./Tattletale Saints/How Red Is the Blood/05 How Red Is the Blood from a Broken Heart.m4a
+./Tattletale Saints/How Red Is the Blood/06 Fell Upon the Fields.m4a
+./Tattletale Saints/How Red Is the Blood/07 Complicated Man.m4a
+./Tattletale Saints/How Red Is the Blood/08 Jessica on Prairie Legs.m4a
+./Tattletale Saints/How Red Is the Blood/09 Molly.m4a
+./Tattletale Saints/How Red Is the Blood/10 Hank.m4a
+./Tattletale Saints/How Red Is the Blood/11 We_ve Got Lakes.m4a
+./Tattletale Saints/How Red Is the Blood/12 At Last.m4a
+./Tattletale Saints/Masters/02 Track 02.m4a
+./Tattletale Saints/Tattletale Saints/01 Big City Women.m4a
+./Tattletale Saints/Tattletale Saints/02 Sonoma County Wine.m4a
+./Tattletale Saints/Tattletale Saints/03 I Did This to Myself.m4a
+./Tattletale Saints/Tattletale Saints/04 Down the Road and Back Again.m4a
+./Tattletale Saints/Tattletale Saints/05 I Don't Sing So Much Anymore.m4a
+./Tattletale Saints/Tattletale Saints/06 Kathleen.m4a
+./Tattletale Saints/Tattletale Saints/07 If I Had A Dollar.m4a
+./Tattletale Saints/Tattletale Saints/08 Scarf Of Light.m4a
+./Tattletale Saints/Tattletale Saints/09 Seabird.m4a
+./Tattletale Saints/Tattletale Saints/10 Little Richard.m4a
+./Tattletale Saints/Unknown Album/I Did This To Myself.m4a
+./Taylor Swift/This Love - Single/01 This Love.m4a
+./Tegan and Sara/Heartthrob (Deluxe Version)/01 Closer 1.m4a
+./Tegan and Sara/Heartthrob (Deluxe Version)/01 Closer 2.m4a
+./Tegan and Sara/Heartthrob (Deluxe Version)/01 Closer.m4a
+./Telekinesis/12 Desperate Straight Lines/10 Country Lane.m4a
+./The Airborne Toxic Event/Half Of Something Else - Single/01 Half Of Something Else.m4p
+./The Airborne Toxic Event/Sometime Around Midnight (Acoustic Version) - Single/01 Sometime Around Midnight (Acoustic Version).m4p
+./The Avett Brothers/I and Love and You - Single/01 I and Love and You.m4p
+./The Avett Brothers/Live and Die - Single/01 Live and Die 1.m4a
+./The Avett Brothers/Live and Die - Single/01 Live and Die.m4a
+./The Barr Brothers/The Barr Brothers/01 Beggar In the Morning 1.m4a
+./The Barr Brothers/The Barr Brothers/01 Beggar In the Morning.m4a
+./The Belle Brigade/Where Not to Look for Freedom - Single/01 Where Not to Look for Freedom.m4a
+./The Black Keys/Run Right Back - Single/01 Run Right Back 1.m4a
+./The Black Keys/Run Right Back - Single/01 Run Right Back.m4a
+./The Black Keys/Turn Blue/03 Turn Blue.m4a
 ./The Cave Singers/Naomi/12 When the World 1.m4a
 ./The Cave Singers/Naomi/12 When the World 2.m4a
-./The Cave Singers/Naomi/._12 When the World 2.m4a
-./The Cave Singers/Naomi/._12 When the World 1.m4a
 ./The Cave Singers/Naomi/12 When the World.m4a
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/audio
+./The Civil Wars/The Civil Wars/04 Dust to Dust.m4a
+./The Cookers/Time and Time Again/05 Farewell Mulgrew.m4a
+./The Decemberists/The Rake's Song - Single/01 The Rake's Song.m4a
+./The Hot Sardines/The Hot Sardines/03 Wake Up In Paris.m4a
+./The Mumlers/Don't Throw Me Away (Bonus Track Version)/03 Tangled Up With You.m4a
+./The Olms/The Olms/04 Wanna Feel It 1.m4a
+./The Olms/The Olms/04 Wanna Feel It.m4a
+./The Postal Service/Give Up (Deluxe 10th Anniversary Edition)/1-02 Such Great Heights 1.m4a
+./The Postal Service/Give Up (Deluxe 10th Anniversary Edition)/1-02 Such Great Heights.m4a
+./The Tough Alliance/A New Chance/07 Neo Violence 2.m4p
+./The Tragically Hip/We Are the Same (Bonus Track Version)/04 Coffee Girl.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/01 Deeper Well (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/02 Summertime (Live) 1.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/02 Summertime (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/03 Intro (Live) 1.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/03 Intro (Live) 2.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/03 Intro (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/04 Driving (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/05 Bold Riley (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/06 Intro (Live) 1.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/06 Intro (Live) 2.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/06 Intro (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/07 Glory Bound (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/08 Arlington (Live) 1.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/08 Arlington (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/09 Bring Me Li'l Water Silvy (Live) 1.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/09 Bring Me Li'l Water Silvy (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/10 One More Dollar (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/11 Racing With the Sun (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/12 Paint a Picture (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/13 Intro (Live) 1.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/13 Intro (Live) 2.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/13 Intro (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/14 Begin (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/15 Motherless Child (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/16 Calling All Angels (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/17 Intro (Live) 1.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/17 Intro (Live) 2.m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/17 Intro (Live).m4a
+./The Wailin' Jennys/Live at The Mauch Chunk Opera House/18 One Voice (Live).m4a
+./The Watson Twins/Modern Man + Devil In You - Single/01 Modern Man.m4a
+./The Who/Who Are You/01 New Song 2.mp3
+./The Who/Who Are You/02 Had Enough 2.mp3
+./The Who/Who Are You/03 905 2.mp3
+./The Who/Who Are You/04 Sister Disco 2.mp3
+./Thievery Corporation/Hare Krisna-Single/01 Hare Krisna 2.m4p
+./Tom Petty & The Heartbreakers/Southern Accents/01 Rebels 2.mp3
+./Tom Petty & The Heartbreakers/Southern Accents/02 It Ain't Nothin' To Me 2.mp3
+./Tom Petty & The Heartbreakers/Southern Accents/03 Don't Come Around Here No More 2.mp3
+./Tom Petty & The Heartbreakers/Southern Accents/04 Southern Accents 2.mp3
+./Tom Petty & The Heartbreakers/Southern Accents/05 Make It Better (Forget About Me) 2.mp3
+./Tom Petty & The Heartbreakers/Southern Accents/06 Spike 2.mp3
+./Tom Petty & The Heartbreakers/Southern Accents/08 Mary's New Car 2.mp3
+./Travis/Ode to J. Smith/06 Last Words.m4a
+./Triumph/Allied Forces/02 Magic Power.m4a
+./Triumph/Allied Forces/06 Fight the Good Fight.m4a
+./Triumph/Allied Forces/09 Say Goodbye.m4a
+./Triumph/Just a Game/07 Hold On.m4a
+./Twin Forks/Twin Forks/01 Can't Be Broken.m4a
+./U2/Songs of Innocence/01 The Miracle (Of Joey Ramone).m4a
+./U2/Songs of Innocence/02 Every Breaking Wave.m4a
+./U2/Songs of Innocence/03 California (There Is No End to Love).m4a
+./U2/Songs of Innocence/04 Song for Someone.m4a
+./U2/Songs of Innocence/05 Iris (Hold Me Close).m4a
+./U2/Songs of Innocence/06 Volcano.m4a
+./U2/Songs of Innocence/07 Raised By Wolves.m4a
+./U2/Songs of Innocence/08 Cedarwood Road.m4a
+./U2/Songs of Innocence/09 Sleep Like a Baby Tonight.m4a
+./U2/Songs of Innocence/10 This Is Where You Can Reach Me Now.m4a
+./U2/Songs of Innocence/11 The Troubles.m4a
+./Unknown Artist/Unknown Album/02-08-2015_00-08_msg94215.mp3
+./Unknown Artist/Unknown Album/20121226 161746 1.m4a
+./Unknown Artist/Unknown Album/20121226 161746.m4a
+./Unknown Artist/Unknown Album/20130307 213945 1.m4a
+./Unknown Artist/Unknown Album/20130307 213945.m4a
+./Unknown Artist/Unknown Album/20130307 214022 1.m4a
+./Unknown Artist/Unknown Album/20130307 214022.m4a
+./Unknown Artist/Unknown Album/64.WAV
+./Unknown Artist/Unknown Album/65.WAV
+./Unknown Artist/Unknown Album/66.WAV
+./Unknown Artist/Unknown Album/67.WAV
+./Unknown Artist/Unknown Album/68.WAV
+./Unknown Artist/Unknown Album/69.WAV
+./Unknown Artist/Unknown Album/70.WAV
+./Unknown Artist/Unknown Album/71.WAV
+./Unknown Artist/Unknown Album/72.WAV
+./Unknown Artist/Unknown Album/73.WAV
+./Unknown Artist/Unknown Album/74.WAV
+./Unknown Artist/Unknown Album/75.WAV
+./Unknown Artist/Unknown Album/Agent Orange Intro 01 (mono)-1.mp3
+./Unknown Artist/Unknown Album/Asia_1.MP3
+./Unknown Artist/Unknown Album/Asia_2.MP3
+./Unknown Artist/Unknown Album/Backsliding.mp3
+./Unknown Artist/Unknown Album/Bass.mp3
+./Unknown Artist/Unknown Album/Bass1.mp3
+./Unknown Artist/Unknown Album/Bass2.mp3
+./Unknown Artist/Unknown Album/Bass3.mp3
+./Unknown Artist/Unknown Album/Bells-1.mp3
+./Unknown Artist/Unknown Album/Bridge Riff.mp3
+./Unknown Artist/Unknown Album/Clavichord.mp3
+./Unknown Artist/Unknown Album/Country Dist.mp3
+./Unknown Artist/Unknown Album/Country Pickin.mp3
+./Unknown Artist/Unknown Album/Crash & Ride 01-1.mp3
+./Unknown Artist/Unknown Album/Crash & Ride 01.mp3
+./Unknown Artist/Unknown Album/Crash & Ride 02-1.mp3
+./Unknown Artist/Unknown Album/Crash R.mp3
+./Unknown Artist/Unknown Album/Def_Lepard_1.MP3
+./Unknown Artist/Unknown Album/Def_Lepard_2.MP3
+./Unknown Artist/Unknown Album/Drums.mp3
+./Unknown Artist/Unknown Album/Drums2.mp3
+./Unknown Artist/Unknown Album/Duran_Duran_1.MP3
+./Unknown Artist/Unknown Album/Duran_Duran_2.MP3
+./Unknown Artist/Unknown Album/Funk1.mp3
+./Unknown Artist/Unknown Album/George.mp3
+./Unknown Artist/Unknown Album/Guit.Drone.mp3
+./Unknown Artist/Unknown Album/Horns 01.mp3
+./Unknown Artist/Unknown Album/Horns 02-1.mp3
+./Unknown Artist/Unknown Album/Huey_Lewis_1.MP3
+./Unknown Artist/Unknown Album/Huey_Lewis_2.MP3
+./Unknown Artist/Unknown Album/Jimi.mp3
+./Unknown Artist/Unknown Album/Live 6 Demo- Main Hook.mp3
+./Unknown Artist/Unknown Album/Loverboy_1.MP3
+./Unknown Artist/Unknown Album/Loverboy_2.MP3
+./Unknown Artist/Unknown Album/Madonna_1.MP3
+./Unknown Artist/Unknown Album/Madonna_2.MP3
+./Unknown Artist/Unknown Album/Madonna_3.MP3
+./Unknown Artist/Unknown Album/Madonna_4.MP3
+./Unknown Artist/Unknown Album/Meloflute.mp3
+./Unknown Artist/Unknown Album/Melostring.mp3
+./Unknown Artist/Unknown Album/Melotron.mp3
+./Unknown Artist/Unknown Album/Men_at_Work_1.MP3
+./Unknown Artist/Unknown Album/Men_at_Work_2.MP3
+./Unknown Artist/Unknown Album/Moog.mp3
+./Unknown Artist/Unknown Album/PHONO009.MP3
+./Unknown Artist/Unknown Album/PHONO010.MP3
+./Unknown Artist/Unknown Album/PHONO018.MP3
+./Unknown Artist/Unknown Album/PHONO019.MP3
+./Unknown Artist/Unknown Album/PHONO022.MP3
+./Unknown Artist/Unknown Album/PHONO023.MP3
+./Unknown Artist/Unknown Album/PHONO026.MP3
+./Unknown Artist/Unknown Album/PHONO027.MP3
+./Unknown Artist/Unknown Album/PHONO028.MP3
+./Unknown Artist/Unknown Album/PHONO029.MP3
+./Unknown Artist/Unknown Album/PHONO032.MP3
+./Unknown Artist/Unknown Album/PHONO033.MP3
+./Unknown Artist/Unknown Album/PHONO034.MP3
+./Unknown Artist/Unknown Album/PHONO035.MP3
+./Unknown Artist/Unknown Album/PHONO036.MP3
+./Unknown Artist/Unknown Album/PHONO037.MP3
+./Unknown Artist/Unknown Album/PHONO038.MP3
+./Unknown Artist/Unknown Album/PHONO039.MP3
+./Unknown Artist/Unknown Album/PHONO040.MP3
+./Unknown Artist/Unknown Album/PHONO041.MP3
+./Unknown Artist/Unknown Album/PHONO044.MP3
+./Unknown Artist/Unknown Album/PHONO045.MP3
+./Unknown Artist/Unknown Album/PHONO046.MP3
+./Unknown Artist/Unknown Album/PHONO047.MP3
+./Unknown Artist/Unknown Album/PHONO048.MP3
+./Unknown Artist/Unknown Album/PHONO049.MP3
+./Unknown Artist/Unknown Album/PHONO050.MP3
+./Unknown Artist/Unknown Album/PHONO051.MP3
+./Unknown Artist/Unknown Album/PHONO052.MP3
+./Unknown Artist/Unknown Album/PHONO053.MP3
+./Unknown Artist/Unknown Album/PHONO054.MP3
+./Unknown Artist/Unknown Album/PHONO055.MP3
+./Unknown Artist/Unknown Album/PHONO056.MP3
+./Unknown Artist/Unknown Album/PHONO057.MP3
+./Unknown Artist/Unknown Album/PHONO058.MP3
+./Unknown Artist/Unknown Album/PHONO060.MP3
+./Unknown Artist/Unknown Album/PHONO063.MP3
+./Unknown Artist/Unknown Album/PHONO064.MP3
+./Unknown Artist/Unknown Album/PHONO065.MP3
+./Unknown Artist/Unknown Album/PHONO066.MP3
+./Unknown Artist/Unknown Album/PHONO067.MP3
+./Unknown Artist/Unknown Album/PHONO068.MP3
+./Unknown Artist/Unknown Album/PHONO069.MP3
+./Unknown Artist/Unknown Album/PHONO070.MP3
+./Unknown Artist/Unknown Album/PHONO073.MP3
+./Unknown Artist/Unknown Album/PHONO074.MP3
+./Unknown Artist/Unknown Album/PHONO075.MP3
+./Unknown Artist/Unknown Album/PHONO076.MP3
+./Unknown Artist/Unknown Album/PHONO079.MP3
+./Unknown Artist/Unknown Album/PHONO080.MP3
+./Unknown Artist/Unknown Album/PHONO085.MP3
+./Unknown Artist/Unknown Album/PHONO086.MP3
+./Unknown Artist/Unknown Album/PHONO087.MP3
+./Unknown Artist/Unknown Album/PHONO088.MP3
+./Unknown Artist/Unknown Album/PHONO089.MP3
+./Unknown Artist/Unknown Album/PHONO090.MP3
+./Unknown Artist/Unknown Album/PHONO093.MP3
+./Unknown Artist/Unknown Album/PHONO094.MP3
+./Unknown Artist/Unknown Album/Pat_Benatar_1.MP3
+./Unknown Artist/Unknown Album/Pat_Benatar_2.MP3
+./Unknown Artist/Unknown Album/Paul.mp3
+./Unknown Artist/Unknown Album/Phil_Collins_1.MP3
+./Unknown Artist/Unknown Album/Phil_Collins_2.MP3
+./Unknown Artist/Unknown Album/REMINDER.WAV
+./Unknown Artist/Unknown Album/Ratt_1.MP3
+./Unknown Artist/Unknown Album/Ratt_2.MP3
+./Unknown Artist/Unknown Album/Rush - Vapor Trails Remixed.m4a
+./Unknown Artist/Unknown Album/Slide Hi-2.mp3
+./Unknown Artist/Unknown Album/Slide Lo.mp3
+./Unknown Artist/Unknown Album/Sth Rock.mp3
+./Unknown Artist/Unknown Album/Strings.mp3
+./Unknown Artist/Unknown Album/Styx_1.MP3
+./Unknown Artist/Unknown Album/Styx_2.MP3
+./Unknown Artist/Unknown Album/Styx_Roboto_1.MP3
+./Unknown Artist/Unknown Album/Styx_Roboto_2.MP3
+./Unknown Artist/Unknown Album/System Audio 20110407 2108.mp3
+./Unknown Artist/Unknown Album/Tron Bass 01 (mono)-1-1.mp3
+./Unknown Artist/Unknown Album/Tron Bass 01 (mono)-2 1.mp3
+./Unknown Artist/Unknown Album/Tron Bass 01 (mono)-2.mp3
+./Unknown Artist/Unknown Album/Tron Bass 01 (mono).mp3
+./Unknown Artist/Unknown Album/XDrum.mp3
+./Unknown Artist/Unknown Album/Yes_1.MP3
+./Unknown Artist/Unknown Album/Yes_2.MP3
+./Unknown Artist/Unknown Album/bbc-21MHz.wav
+./Unknown Artist/Unknown Album/busy.wav
+./Unknown Artist/Unknown Album/code.wav
+./Unknown Artist/Unknown Album/phonenop.wav
+./Unknown Artist/Unknown Album/reset3.wav
+./Unknown Artist/Unknown Album/reset5.wav
+./Unknown Artist/Unknown Album/reset7.wav
+./Unknown Artist/Unknown Album/ring_switch.wav
+./Unknown Artist/Unknown Album/ripples.wav
+./Unknown Artist/Unknown Album/sample.m4a
+./Unknown Artist/Unknown Album/sample2ch.m4a
+./Unknown Artist/Unknown Album/shaker_stereo4.mp3
+./Unknown Artist/Unknown Album/talkstop.wav
+./Unknown Artist/Unknown Album/tambo_weird.mp3
+./Unknown Artist/Unknown Album/testout 1.wav
+./Unknown Artist/Unknown Album/testout 2.wav
+./Unknown Artist/Unknown Album/testout 3.wav
+./Unknown Artist/Unknown Album/testout.wav
+./Van Halen/Fair Warning/01 Mean Street.mp3
+./Van Halen/Fair Warning/02 _Dirty Movies_.mp3
+./Van Halen/Fair Warning/03 Sinner's Swing!.mp3
+./Van Halen/Fair Warning/04 Hear About It Later.mp3
+./Van Halen/Fair Warning/05 Unchained.mp3
+./Van Halen/Fair Warning/06 Push Comes to Shove.mp3
+./Van Halen/Fair Warning/07 So This Is Love_.mp3
+./Van Halen/Fair Warning/08 Sunday Afternoon in the Park.mp3
+./Van Halen/Fair Warning/09 One Foot out the Door.mp3
+./Van Halen/The Very Best of Van Halen/1-01 Eruption (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/1-02 It's About Time.mp3
+./Van Halen/The Very Best of Van Halen/1-03 Up For Breakfast.mp3
+./Van Halen/The Very Best of Van Halen/1-04 Learning To See.mp3
+./Van Halen/The Very Best of Van Halen/1-05 Ain't Talkin' 'Bout Love (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/1-06 Finish What Ya Started (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/1-07 You Really Got Me (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/1-08 Dreams (Remastered Version).mp3
+./Van Halen/The Very Best of Van Halen/1-09 Hot For Teacher (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/1-10 Poundcake (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/1-11 And The Cradle Will Rock...(2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/1-12 Black And Blue (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/1-13 Jump (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/1-14 Top Of The World (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/1-15 (Oh) Pretty Woman (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/1-16 Love Walks In (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/1-17 Beautiful Girls (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/1-18 Can't Stop Lovin' You (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/1-19 Unchained (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/2-01 Panama (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/2-02 Best Of Both Worlds (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/2-03 Jamie's Cryin' (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/2-04 Runaround (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/2-05 I'll Wait (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/2-06 Why Can't This Be Love (Remastered Version).mp3
+./Van Halen/The Very Best of Van Halen/2-07 Runnin' With The Devil (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/2-08 When It's Love (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/2-09 Dancing In The Street (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/2-10 Not Enough (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/2-11 Feels So Good (Remastered Single Version).mp3
+./Van Halen/The Very Best of Van Halen/2-12 Right Now (Remastered Album Version).mp3
+./Van Halen/The Very Best of Van Halen/2-13 Everybody Wants Some!! (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/2-14 Dance The Night Away (2015 Remastered).mp3
+./Van Halen/The Very Best of Van Halen/2-15 Ain't Talkin' 'Bout Love (Remastered Live Version).mp3
+./Van Halen/The Very Best of Van Halen/2-16 Panama (Remastered Live Version).mp3
+./Van Halen/The Very Best of Van Halen/2-17 Jump (Remastered Live Version).mp3
+./Van Halen/Van Halen/1-01 Runnin' With The Devil.mp3
+./Van Halen/Van Halen/1-02 Eruption.mp3
+./Van Halen/Van Halen/1-03 You Really Got Me.mp3
+./Van Halen/Van Halen/1-04 Ain't Talkin' 'Bout Love.mp3
+./Van Halen/Van Halen/1-05 I'm The One.mp3
+./Van Halen/Van Halen/1-06 Jamie's Cryin'.mp3
+./Van Halen/Van Halen/1-07 Atomic Punk.mp3
+./Van Halen/Van Halen/1-08 Feel Your Love Tonight.mp3
+./Van Halen/Van Halen/1-09 Little Dreamer.mp3
+./Van Halen/Van Halen/1-10 Ice Cream Man.mp3
+./Van Halen/Van Halen/1-11 On Fire.mp3
+./Van Halen/Women and Children First/1-01 And The Cradle Will Rock....mp3
+./Van Halen/Women and Children First/1-02 Everybody Wants Some!!.mp3
+./Van Halen/Women and Children First/1-03 Fools.mp3
+./Van Halen/Women and Children First/1-04 Romeo Delight.mp3
+./Van Halen/Women and Children First/1-05 Tora! Tora!.mp3
+./Van Halen/Women and Children First/1-06 Loss Of Control.mp3
+./Van Halen/Women and Children First/1-07 Take Your Whiskey Home.mp3
+./Van Halen/Women and Children First/1-08 Could This Be Magic_.mp3
+./Van Halen/Women and Children First/1-09 In A Simple Rhyme.mp3
+./Van Morrison/Born to Sing_ No Plan B/04 End of the Rainbow 1.m4a
+./Van Morrison/Born to Sing_ No Plan B/04 End of the Rainbow.m4a
 ./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/audio/intro.m4a
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/index.html
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers/home.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers/songs.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers/data.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers/artists.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers/hover.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers/visualizer.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers/lyrics.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/controllers/snowflakes.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/views
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/views/songs.html
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/views/artists.html
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/views/lyrics.html
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/views/visualizer.html
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/views/home.html
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/iTunes Holiday Sampler - iTunes LP.itlp
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/manifest.xml
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/TabController.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Utils.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Controller.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/copyright.txt
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/SpatialNavigationManager.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/SlidingView.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Transition.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Object.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Element.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/PositioningView.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/SlideshowView.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/GridView.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/ComicView.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/PageControl.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Animator.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/NavigationController.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/SlideshowController.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/PositioningController.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/EventTriage.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Class.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Transaction.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/ComicController.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/Booklet.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/PageSliderController.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/LyricsController.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/src/ViewTransitions.js
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/css
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/css/lyrics.css
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/css/scrollbar-reset.css
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/css/home.css
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/css/artists.css
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/css/visualizer.css
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/css/shared.css
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/css/songs.css
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/iTunesMetadata.plist
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home/artists.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home/snow.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home/playSampler_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home/sign.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home/songs.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home/artists_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home/songs_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/home/playSampler.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/rightArrow.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_22.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_07_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_10.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_07.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_19.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_18.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_05.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_17.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_18_3.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_11.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_04.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_03_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_22_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_11.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_08.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_20.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_01.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/playsong.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_10.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_14.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_20.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_12_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_06.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_21.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_09.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_13.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_18_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_11_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_01.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_18_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_08.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/scroll_Background.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_09_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/scroll.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_04_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_14.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_19.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_03.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_18.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_12.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/rightArrow_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_02.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_12.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_07_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_22.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_16.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_08_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_05.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_12_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_06.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_08_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_02.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_15.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_22_3.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/play_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_17.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_21.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/leftArrowOver.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_07.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_02_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/play.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_04_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_17_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_13.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_18_4.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_02_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_04.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/album_03.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_03_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_17_2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/title_09.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/leftArrow.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/lyrics/lyrics_22_1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/wood.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/scroll_Bottom_Fade.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/arrowup.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/background.jpg
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/songList_02.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/scrollTop_BehindWood.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/scroll_Top.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/songList_01.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/songList_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/songs/arrowdown.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/home_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/home.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/back_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/back.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/snow.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/dustbackground.jpg
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/bleed.jpg
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/play_Over.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/play.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/interface/atv_dust.jpg
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-24.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-7.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-21.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-13.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-8.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-15.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-18.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-10.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-1.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-23.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-5.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-3.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-4.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-2.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-12.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-14.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-6.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-22.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-11.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-19.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-9.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-20.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-16.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/flakes/flakes-17.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_10.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_19.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_05.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_17.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_11.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_20.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_14.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/background.jpg
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_09.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_01.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_08.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_18.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_12.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_22.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_06.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_02.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_21.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_07.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_13.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_04.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/artists/album_03.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/visualizer
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/images/visualizer/large_Dust.png
-./Various Artists/iTunes Holiday Sampler/iTunes Holiday Sampler - iTunes LP (v3.0).itlp/iTunesArtwork
-./Josh Groban
-./Josh Groban/Hidden Away - Single
-./Josh Groban/Hidden Away - Single/01 Hidden Away.m4a
-./Sheryl Crow
-./Sheryl Crow/Feels Like Home
-./Sheryl Crow/Feels Like Home/03 Give It To Me.m4a
-./Sheryl Crow/Feels Like Home/._03 Give It To Me.m4a
-./Zac Brown Band
-./Zac Brown Band/The Wind - Single
+./Villagers/Becoming a Jackal/09 Twenty-Seven Strangers.m4a
+./Washed Out/Paracosm (Bonus Track Version)/02 It All Feels Right 1.m4a
+./Washed Out/Paracosm (Bonus Track Version)/02 It All Feels Right.m4a
+./We Are Augustines/Chapel Song - Single/01 Chapel Song.m4p
+./Wye Oak/We Were Wealth - Single/01 We Were Wealth.m4a
+./Wye Oak/We Were Wealth/01 We Were Wealth 1.m4a
+./Wye Oak/We Were Wealth/01 We Were Wealth 3.m4a
+./Wye Oak/We Were Wealth/01 We Were Wealth.m4a
+./Yeah Yeah Yeahs/Mosquito/10 Despair.m4a
+./Yo-Yo Ma, Stuart Duncan, Chris Thile, Edgar Meyer & Aoife O'Donovan/Here and Heaven - Single/01 Here and Heaven 1.m4a
+./Yo-Yo Ma, Stuart Duncan, Chris Thile, Edgar Meyer & Aoife O'Donovan/Here and Heaven - Single/01 Here and Heaven.m4a
+./Young the Giant/Mind Over Matter/04 Crystallized.m4a
+./Yuna/Nocturnal (Deluxe Edition)/03 Rescue.m4a
+./Zac Brown Band/Keep Me In Mind - Single/01 Keep Me In Mind.m4a
 ./Zac Brown Band/The Wind - Single/01 The Wind 1.m4a
 ./Zac Brown Band/The Wind - Single/01 The Wind.m4a
-./Zac Brown Band/The Wind - Single/._01 The Wind 1.m4a
-./Zac Brown Band/Keep Me In Mind - Single
-./Zac Brown Band/Keep Me In Mind - Single/01 Keep Me In Mind.m4a
-./Junior Boys
-./Junior Boys/Begone Dull Care
-./Junior Boys/Begone Dull Care/04 Dull to Pause.m4a
-./Queen/Queen_ Greatest Hits/02 We Are the Champions 2.m4p
-./Queen/Queen_ Greatest Hits/02 We Are the Champions 1.m4p
-./Queen/Queen_ Greatest Hits/01 We Will Rock You 2.m4p
-./Queen/Queen_ Greatest Hits/01 We Will Rock You 1.m4p
-./Meshell Ndegeocello
-./Meshell Ndegeocello/Devil's Halo
-./Meshell Ndegeocello/Devil's Halo/02 Tie One On.m4a
-./Norah Jones/It Came Upon a Midnight Clear - Single
-./Norah Jones/It Came Upon a Midnight Clear - Single/01 It Came Upon a Midnight Clear 1.m4a
-./Norah Jones/It Came Upon a Midnight Clear - Single/01 It Came Upon a Midnight Clear.m4a
-./Norah Jones/It Came Upon a Midnight Clear - Single/._01 It Came Upon a Midnight Clear 1.m4a
-./Norah Jones/Feels Like Home/02 What Am I To You_ 2.mp3
-./Norah Jones/Feels Like Home/08 Toes 2.mp3
-./Norah Jones/Feels Like Home/12 The Prettiest Thing 2.mp3
-./Norah Jones/Feels Like Home/01 Sunrise 2.mp3
-./Norah Jones/Feels Like Home/09 Humble Me 2.mp3
-./Norah Jones/Feels Like Home/05 In The Morning 2.mp3
-./Norah Jones/Feels Like Home/11 The Long Way Home 2.mp3
-./Norah Jones/Feels Like Home/03 Those Sweet Words 2.mp3
-./Norah Jones/Feels Like Home/13 Don't Miss You At All 2.mp3
-./Taylor Swift/This Love - Single
-./Taylor Swift/This Love - Single/01 This Love.m4a
-./Taylor Swift/This Love - Single/._01 This Love.m4a
-./Ivan & Alyosha
-./Ivan & Alyosha/Easy to Love - Single
-./Ivan & Alyosha/Easy to Love - Single/._01 Easy To Love 1.m4a
-./Ivan & Alyosha/Easy to Love - Single/._01 Easy To Love.m4a
-./Ivan & Alyosha/Easy to Love - Single/01 Easy To Love.m4a
-./Ivan & Alyosha/Easy to Love - Single/01 Easy To Love 2.m4a
-./Ivan & Alyosha/Easy to Love - Single/01 Easy To Love 1.m4a
-./Leonard Cohen
-./Leonard Cohen/Banjo - Single
-./Leonard Cohen/Banjo - Single/01 Banjo 1.m4a
-./Leonard Cohen/Banjo - Single/._01 Banjo 1.m4a
-./Leonard Cohen/Banjo - Single/01 Banjo.m4a
-./Beck
-./Beck/Morning Phase
-./Beck/Morning Phase/._05 Blue Moon.m4a
-./Beck/Morning Phase/05 Blue Moon.m4a
-./JD McPherson
-./JD McPherson/Twinkle (Little Christmas Lights) - Single
-./JD McPherson/Twinkle (Little Christmas Lights) - Single/01 Twinkle (Little Christmas Lights).m4a
-./JD McPherson/Twinkle (Little Christmas Lights) - Single/._01 Twinkle (Little Christmas Lights).m4a
-./Villagers
-./Villagers/Becoming a Jackal
-./Villagers/Becoming a Jackal/09 Twenty-Seven Strangers.m4a
-./Bobby Womack
-./Bobby Womack/The Bravest Man in the Universe
-./Bobby Womack/The Bravest Man in the Universe/01 The Bravest Man in the Universe 1.m4a
-./Bobby Womack/The Bravest Man in the Universe/._01 The Bravest Man in the Universe 1.m4a
-./Bobby Womack/The Bravest Man in the Universe/01 The Bravest Man in the Universe.m4a
-./Wye Oak
-./Wye Oak/We Were Wealth - Single
-./Wye Oak/We Were Wealth - Single/01 We Were Wealth.m4a
-./Wye Oak/We Were Wealth
-./Wye Oak/We Were Wealth/01 We Were Wealth 3.m4a
-./Wye Oak/We Were Wealth/01 We Were Wealth 1.m4a
-./Wye Oak/We Were Wealth/01 We Were Wealth.m4a
-./Laurent Korcia
-./Laurent Korcia/Laurent Korcia_ Cinema
-./Laurent Korcia/Laurent Korcia_ Cinema/01 Cinema Paradiso.m4a
-./Holcombe Waller
-./Holcombe Waller/Into the Dark Unknown
-./Holcombe Waller/Into the Dark Unknown/05 Hardliners 1.m4a
-./Holcombe Waller/Into the Dark Unknown/05 Hardliners.m4a
-./Holcombe Waller/Into the Dark Unknown/._05 Hardliners 1.m4a
-./Benjamin Gibbard
-./Benjamin Gibbard/Former Lives
-./Benjamin Gibbard/Former Lives/03 Teardrop Windows 1.m4a
-./Benjamin Gibbard/Former Lives/._03 Teardrop Windows 1.m4a
-./Benjamin Gibbard/Former Lives/03 Teardrop Windows.m4a
-./k.d. lang and the Siss Boom Bang
-./k.d. lang and the Siss Boom Bang/A Sleep With No Dreaming - Single
+./Zee Avi/Zee Avi/10 Darling.m4a
 ./k.d. lang and the Siss Boom Bang/A Sleep With No Dreaming - Single/01 A Sleep with No Dreaming.m4a
-./Geoffrey Gurrumul Yunupingu
-./Geoffrey Gurrumul Yunupingu/Wiyathul - Single
-./Geoffrey Gurrumul Yunupingu/Wiyathul - Single/01 Wiyathul.m4a
-./John Mellencamp/Words & Music - John Mellencamp's Greatest Hits/2-13 Jack & Diane 2.m4p
-./Telekinesis
-./Telekinesis/12 Desperate Straight Lines
-./Telekinesis/12 Desperate Straight Lines/10 Country Lane.m4a
-./Ray Charles
-./Ray Charles/Genius Loves Company (10th Anniversary Edition)
-./Ray Charles/Genius Loves Company (10th Anniversary Edition)/01 Here We Go Again.m4a
-./Ray Charles/Genius Loves Company (10th Anniversary Edition)/._01 Here We Go Again.m4a
-./Heart/The Essential 3.0/3-05 Hit Single.m4a
-./Heart/The Essential 3.0/3-02 Dream Of The Archer.m4a
-./Heart/The Essential 3.0/3-04 Mistral Wind (Live).m4a
-./Heart/The Essential 3.0/3-03 Bebe Le Strange.m4a
-./Heart/The Essential 3.0/3-08 Strong, Strong Wind.m4a
-./Heart/The Essential 3.0/3-01 Sylvan Song.m4a
-./Heart/The Essential 3.0/3-07 City's Burning.m4a
-./Heart/The Essential 3.0/3-06 Strange Euphoria.m4a
-./Patty Griffin
-./Patty Griffin/Downtown Church
-./Patty Griffin/Downtown Church/03 Little Fire (feat. Emmylou Harris).m4a
-./Kacey Musgraves
-./Kacey Musgraves/Same Trailer Different Park
-./Kacey Musgraves/Same Trailer Different Park/._11 Follow Your Arrow.m4a
-./Kacey Musgraves/Same Trailer Different Park/11 Follow Your Arrow.m4a
-./Robert Earl Keen
-./Robert Earl Keen/The Rose Hotel
-./Robert Earl Keen/The Rose Hotel/09 On and On.m4a
-./Fleet Foxes
-./Fleet Foxes/Helplessness Blues
-./Fleet Foxes/Helplessness Blues/04 Battery Kinzie.m4a
-./Robert Plant
-./Robert Plant/Angel Dance - Single
-./Robert Plant/Angel Dance - Single/01 Angel Dance.m4a
-./Belle and Sebastian
-./Belle and Sebastian/Girls in Peacetime Want to Dance
-./Belle and Sebastian/Girls in Peacetime Want to Dance/07 The Everlasting Muse.m4a
-./Anjulie
-./Anjulie/Boom - EP
-./Anjulie/Boom - EP/01 Boom.m4a
-./Ben Harper
-./Ben Harper/Rock 'N' Roll Is Free - Single
-./Ben Harper/Rock 'N' Roll Is Free - Single/01 Rock 'N' Roll Is Free.m4a
-./Ben Harper & Relentless7
-./Ben Harper & Relentless7/White Lies for Dark Times (Deluxe Version)
-./Ben Harper & Relentless7/White Lies for Dark Times (Deluxe Version)/1-07 Fly One Time.m4a
-./The Olms
-./The Olms/The Olms
-./The Olms/The Olms/04 Wanna Feel It.m4a
-./The Olms/The Olms/._04 Wanna Feel It.m4a
-./The Olms/The Olms/._04 Wanna Feel It 1.m4a
-./The Olms/The Olms/04 Wanna Feel It 1.m4a
-./Unknown Artist/Unknown Album/Styx_Roboto_2.MP3
-./Unknown Artist/Unknown Album/Backsliding.mp3
-./Unknown Artist/Unknown Album/Moog.mp3
-./Unknown Artist/Unknown Album/Bass1.mp3
-./Unknown Artist/Unknown Album/._XDrum.mp3
-./Unknown Artist/Unknown Album/testout.wav
-./Unknown Artist/Unknown Album/._Crash & Ride 01.mp3
-./Unknown Artist/Unknown Album/PHONO040.MP3
-./Unknown Artist/Unknown Album/Madonna_2.MP3
-./Unknown Artist/Unknown Album/PHONO080.MP3
-./Unknown Artist/Unknown Album/Bass.mp3
-./Unknown Artist/Unknown Album/PHONO056.MP3
-./Unknown Artist/Unknown Album/._Jimi.mp3
-./Unknown Artist/Unknown Album/73.WAV
-./Unknown Artist/Unknown Album/._Guit.Drone.mp3
-./Unknown Artist/Unknown Album/3a13wpm.aif
-./Unknown Artist/Unknown Album/George.mp3
-./Unknown Artist/Unknown Album/PHONO052.MP3
-./Unknown Artist/Unknown Album/Yes_1.MP3
-./Unknown Artist/Unknown Album/tambo_weird.mp3
-./Unknown Artist/Unknown Album/Phil_Collins_2.MP3
-./Unknown Artist/Unknown Album/PHONO051.MP3
-./Unknown Artist/Unknown Album/PHONO093.MP3
-./Unknown Artist/Unknown Album/PHONO010.MP3
-./Unknown Artist/Unknown Album/PHONO009.MP3
-./Unknown Artist/Unknown Album/bbc-21MHz.wav
-./Unknown Artist/Unknown Album/System Audio 20110407 2108.mp3
-./Unknown Artist/Unknown Album/reset5.wav
-./Unknown Artist/Unknown Album/Drums.mp3
-./Unknown Artist/Unknown Album/PHONO068.MP3
-./Unknown Artist/Unknown Album/._Live 6 Demo- Main Hook.mp3
-./Unknown Artist/Unknown Album/PHONO070.MP3
-./Unknown Artist/Unknown Album/._Slide Hi-2.mp3
-./Unknown Artist/Unknown Album/._Tron Bass 01 (mono).mp3
-./Unknown Artist/Unknown Album/20130307 213945.m4a
-./Unknown Artist/Unknown Album/Huey_Lewis_1.MP3
-./Unknown Artist/Unknown Album/Horns 02-1.mp3
-./Unknown Artist/Unknown Album/PHONO046.MP3
-./Unknown Artist/Unknown Album/Asia_1.MP3
-./Unknown Artist/Unknown Album/Tron Bass 01 (mono)-2 1.mp3
-./Unknown Artist/Unknown Album/._tambo_weird.mp3
-./Unknown Artist/Unknown Album/Slide Hi-2.mp3
-./Unknown Artist/Unknown Album/Tron Bass 01 (mono)-2.mp3
-./Unknown Artist/Unknown Album/PHONO044.MP3
-./Unknown Artist/Unknown Album/._Funk1.mp3
-./Unknown Artist/Unknown Album/Crash & Ride 01.mp3
-./Unknown Artist/Unknown Album/PHONO069.MP3
-./Unknown Artist/Unknown Album/PHONO073.MP3
-./Unknown Artist/Unknown Album/PHONO019.MP3
-./Unknown Artist/Unknown Album/PHONO074.MP3
-./Unknown Artist/Unknown Album/PHONO050.MP3
-./Unknown Artist/Unknown Album/Madonna_3.MP3
-./Unknown Artist/Unknown Album/Styx_Roboto_1.MP3
-./Unknown Artist/Unknown Album/Agent Orange Intro 01 (mono)-1.mp3
-./Unknown Artist/Unknown Album/shaker_stereo4.mp3
-./Unknown Artist/Unknown Album/PHONO087.MP3
-./Unknown Artist/Unknown Album/PHONO034.MP3
-./Unknown Artist/Unknown Album/._Slide Lo.mp3
-./Unknown Artist/Unknown Album/Country Pickin.mp3
-./Unknown Artist/Unknown Album/PHONO039.MP3
-./Unknown Artist/Unknown Album/PHONO026.MP3
-./Unknown Artist/Unknown Album/reset7.wav
-./Unknown Artist/Unknown Album/PHONO018.MP3
-./Unknown Artist/Unknown Album/69.WAV
-./Unknown Artist/Unknown Album/20121226 161746 1.m4a
-./Unknown Artist/Unknown Album/._shaker_stereo4.mp3
-./Unknown Artist/Unknown Album/3a13out.aif
-./Unknown Artist/Unknown Album/PHONO041.MP3
-./Unknown Artist/Unknown Album/PHONO079.MP3
-./Unknown Artist/Unknown Album/PHONO063.MP3
-./Unknown Artist/Unknown Album/Meloflute.mp3
-./Unknown Artist/Unknown Album/._Crash & Ride 02-1.mp3
-./Unknown Artist/Unknown Album/67.WAV
-./Unknown Artist/Unknown Album/._Drums2.mp3
-./Unknown Artist/Unknown Album/PHONO036.MP3
-./Unknown Artist/Unknown Album/._Bridge Riff.mp3
-./Unknown Artist/Unknown Album/ripples.aif
-./Unknown Artist/Unknown Album/Madonna_1.MP3
-./Unknown Artist/Unknown Album/PHONO089.MP3
-./Unknown Artist/Unknown Album/._Bass1.mp3
-./Unknown Artist/Unknown Album/Bass3.mp3
-./Unknown Artist/Unknown Album/XDrum.mp3
-./Unknown Artist/Unknown Album/Tron Bass 01 (mono)-1-1.mp3
-./Unknown Artist/Unknown Album/._Horns 01.mp3
-./Unknown Artist/Unknown Album/._Melotron.mp3
-./Unknown Artist/Unknown Album/talkstop.wav
-./Unknown Artist/Unknown Album/66.WAV
-./Unknown Artist/Unknown Album/Phil_Collins_1.MP3
-./Unknown Artist/Unknown Album/Styx_2.MP3
-./Unknown Artist/Unknown Album/71.WAV
-./Unknown Artist/Unknown Album/Def_Lepard_2.MP3
-./Unknown Artist/Unknown Album/64.WAV
-./Unknown Artist/Unknown Album/Clavichord.mp3
-./Unknown Artist/Unknown Album/._Crash & Ride 01-1.mp3
-./Unknown Artist/Unknown Album/Duran_Duran_1.MP3
-./Unknown Artist/Unknown Album/Slide Lo.mp3
-./Unknown Artist/Unknown Album/PHONO067.MP3
-./Unknown Artist/Unknown Album/PHONO049.MP3
-./Unknown Artist/Unknown Album/._Bass2.mp3
-./Unknown Artist/Unknown Album/PHONO065.MP3
-./Unknown Artist/Unknown Album/Drums2.mp3
-./Unknown Artist/Unknown Album/._George.mp3
-./Unknown Artist/Unknown Album/PHONO088.MP3
-./Unknown Artist/Unknown Album/20130307 213945 1.m4a
-./Unknown Artist/Unknown Album/code.wav
-./Unknown Artist/Unknown Album/Live 6 Demo- Main Hook.mp3
-./Unknown Artist/Unknown Album/PHONO085.MP3
-./Unknown Artist/Unknown Album/Melostring.mp3
-./Unknown Artist/Unknown Album/20130307 214022 1.m4a
-./Unknown Artist/Unknown Album/._Drums.mp3
-./Unknown Artist/Unknown Album/68.WAV
-./Unknown Artist/Unknown Album/._Clavichord.mp3
-./Unknown Artist/Unknown Album/._Rush - Vapor Trails Remixed.m4a
-./Unknown Artist/Unknown Album/PHONO035.MP3
-./Unknown Artist/Unknown Album/testout 2.wav
-./Unknown Artist/Unknown Album/Bass2.mp3
-./Unknown Artist/Unknown Album/reset3.wav
-./Unknown Artist/Unknown Album/PHONO075.MP3
-./Unknown Artist/Unknown Album/PHONO022.MP3
-./Unknown Artist/Unknown Album/._Country Pickin.mp3
-./Unknown Artist/Unknown Album/._Country Dist.mp3
-./Unknown Artist/Unknown Album/PHONO023.MP3
-./Unknown Artist/Unknown Album/Crash & Ride 01-1.mp3
-./Unknown Artist/Unknown Album/REMINDER.WAV
-./Unknown Artist/Unknown Album/._Sth Rock.mp3
-./Unknown Artist/Unknown Album/._Backsliding.mp3
-./Unknown Artist/Unknown Album/._Melostring.mp3
-./Unknown Artist/Unknown Album/Guit.Drone.mp3
-./Unknown Artist/Unknown Album/._Paul.mp3
-./Unknown Artist/Unknown Album/Rush - Vapor Trails Remixed.m4a
-./Unknown Artist/Unknown Album/Men_at_Work_2.MP3
-./Unknown Artist/Unknown Album/Pat_Benatar_2.MP3
-./Unknown Artist/Unknown Album/testout 3.wav
-./Unknown Artist/Unknown Album/PHONO057.MP3
-./Unknown Artist/Unknown Album/Pat_Benatar_1.MP3
-./Unknown Artist/Unknown Album/PHONO032.MP3
-./Unknown Artist/Unknown Album/Strings.mp3
-./Unknown Artist/Unknown Album/._Tron Bass 01 (mono)-2 1.mp3
-./Unknown Artist/Unknown Album/Tron Bass 01 (mono).mp3
-./Unknown Artist/Unknown Album/sample2ch.m4a
-./Unknown Artist/Unknown Album/PHONO086.MP3
-./Unknown Artist/Unknown Album/74.WAV
-./Unknown Artist/Unknown Album/65.WAV
-./Unknown Artist/Unknown Album/Country Dist.mp3
-./Unknown Artist/Unknown Album/PHONO033.MP3
-./Unknown Artist/Unknown Album/phonenop.wav
-./Unknown Artist/Unknown Album/PHONO029.MP3
-./Unknown Artist/Unknown Album/Huey_Lewis_2.MP3
-./Unknown Artist/Unknown Album/PHONO028.MP3
-./Unknown Artist/Unknown Album/Bridge Riff.mp3
-./Unknown Artist/Unknown Album/Melotron.mp3
-./Unknown Artist/Unknown Album/Horns 01.mp3
-./Unknown Artist/Unknown Album/testout 1.wav
-./Unknown Artist/Unknown Album/Loverboy_2.MP3
-./Unknown Artist/Unknown Album/Madonna_4.MP3
-./Unknown Artist/Unknown Album/Bells-1.mp3
-./Unknown Artist/Unknown Album/PHONO066.MP3
-./Unknown Artist/Unknown Album/PHONO054.MP3
-./Unknown Artist/Unknown Album/._Bells-1.mp3
-./Unknown Artist/Unknown Album/PHONO048.MP3
-./Unknown Artist/Unknown Album/70.WAV
-./Unknown Artist/Unknown Album/Asia_2.MP3
-./Unknown Artist/Unknown Album/Paul.mp3
-./Unknown Artist/Unknown Album/Men_at_Work_1.MP3
-./Unknown Artist/Unknown Album/PHONO045.MP3
-./Unknown Artist/Unknown Album/72.WAV
-./Unknown Artist/Unknown Album/busy.wav
-./Unknown Artist/Unknown Album/PHONO058.MP3
-./Unknown Artist/Unknown Album/Sth Rock.mp3
-./Unknown Artist/Unknown Album/PHONO055.MP3
-./Unknown Artist/Unknown Album/ring_switch.wav
-./Unknown Artist/Unknown Album/Styx_1.MP3
-./Unknown Artist/Unknown Album/Loverboy_1.MP3
-./Unknown Artist/Unknown Album/._Tron Bass 01 (mono)-1-1.mp3
-./Unknown Artist/Unknown Album/PHONO047.MP3
-./Unknown Artist/Unknown Album/20121226 161746.m4a
-./Unknown Artist/Unknown Album/._Moog.mp3
-./Unknown Artist/Unknown Album/ripples.wav
-./Unknown Artist/Unknown Album/Ratt_1.MP3
-./Unknown Artist/Unknown Album/PHONO038.MP3
-./Unknown Artist/Unknown Album/._Horns 02-1.mp3
-./Unknown Artist/Unknown Album/20130307 214022.m4a
-./Unknown Artist/Unknown Album/PHONO037.MP3
-./Unknown Artist/Unknown Album/._Crash R.mp3
-./Unknown Artist/Unknown Album/._Tron Bass 01 (mono)-2.mp3
-./Unknown Artist/Unknown Album/PHONO027.MP3
-./Unknown Artist/Unknown Album/Yes_2.MP3
-./Unknown Artist/Unknown Album/._Agent Orange Intro 01 (mono)-1.mp3
-./Unknown Artist/Unknown Album/Duran_Duran_2.MP3
-./Unknown Artist/Unknown Album/PHONO094.MP3
-./Unknown Artist/Unknown Album/Ratt_2.MP3
-./Unknown Artist/Unknown Album/PHONO060.MP3
-./Unknown Artist/Unknown Album/02-08-2015_00-08_msg94215.mp3
-./Unknown Artist/Unknown Album/._Bass.mp3
-./Unknown Artist/Unknown Album/PHONO064.MP3
-./Unknown Artist/Unknown Album/sample.m4a
-./Unknown Artist/Unknown Album/Jimi.mp3
-./Unknown Artist/Unknown Album/Crash & Ride 02-1.mp3
-./Unknown Artist/Unknown Album/._Meloflute.mp3
-./Unknown Artist/Unknown Album/Funk1.mp3
-./Unknown Artist/Unknown Album/Crash R.mp3
-./Unknown Artist/Unknown Album/._Strings.mp3
-./Unknown Artist/Unknown Album/._Bass3.mp3
-./Unknown Artist/Unknown Album/PHONO076.MP3
-./Unknown Artist/Unknown Album/PHONO090.MP3
-./Unknown Artist/Unknown Album/PHONO053.MP3
-./Unknown Artist/Unknown Album/Def_Lepard_1.MP3
-./Unknown Artist/Unknown Album/75.WAV
-./The Airborne Toxic Event
-./The Airborne Toxic Event/Sometime Around Midnight (Acoustic Version) - Single
-./The Airborne Toxic Event/Sometime Around Midnight (Acoustic Version) - Single/01 Sometime Around Midnight (Acoustic Version).m4p
-./The Airborne Toxic Event/Half Of Something Else - Single
-./The Airborne Toxic Event/Half Of Something Else - Single/01 Half Of Something Else.m4p
-./John Cougar/American Fool (Remastered)
-./John Cougar/American Fool (Remastered)/03 Hand to Hold On to.m4p
-./Orchestra Baobab/Made In Dakar/01 Pape Ndiaye 2.m4p
-./Hiss Golden Messenger
-./Hiss Golden Messenger/Lateness of Dancers
-./Hiss Golden Messenger/Lateness of Dancers/._02 Saturday's Song.m4a
-./Hiss Golden Messenger/Lateness of Dancers/02 Saturday's Song.m4a
-./Matt Nathanson
-./Matt Nathanson/Faster - Single
-./Matt Nathanson/Faster - Single/01 Faster.m4p
-./Nataly Dawn
-./Nataly Dawn/Please Don't Scream - Single
-./Nataly Dawn/Please Don't Scream - Single/03 Please Don't Scream.m4a
-./Nataly Dawn/Please Don't Scream - Single/._03 Please Don't Scream 1.m4a
-./Nataly Dawn/Please Don't Scream - Single/03 Please Don't Scream 2.m4a
-./Nataly Dawn/Please Don't Scream - Single/03 Please Don't Scream 1.m4a
-./Lia Ices
-./Lia Ices/Love Is Won - Single
-./Lia Ices/Love Is Won - Single/01 Love Is Won.m4a
-./Compilations/iTunes Holiday Sampler/._09 God Rest Ye Merry Gentlemen 1.m4a
-./Compilations/iTunes Holiday Sampler/03 Silent Night 2.m4a
-./Compilations/iTunes Holiday Sampler/03 Silent Night 1.m4a
-./Compilations/iTunes Holiday Sampler/09 God Rest Ye Merry Gentlemen 1.m4a
-./Compilations/4_ John Paul George Ringo - EP
-./Compilations/4_ John Paul George Ringo - EP/03 Let It Down.m4a
-./Compilations/4_ John Paul George Ringo - EP/._01 Love.m4a
-./Compilations/4_ John Paul George Ringo - EP/._02 Call Me Back Again.m4a
-./Compilations/4_ John Paul George Ringo - EP/._03 Let It Down.m4a
-./Compilations/4_ John Paul George Ringo - EP/02 Call Me Back Again.m4a
-./Compilations/4_ John Paul George Ringo - EP/01 Love.m4a
-./Compilations/4_ John Paul George Ringo - EP/._04 Walk With You.m4a
-./Compilations/4_ John Paul George Ringo - EP/04 Walk With You.m4a
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-10 The Pass.mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-07 2112_ Overture_The Temples Of Syrinx_Grand Finale.mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-04 YYZ.mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-06 Tom Sawyer.mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-02 The Percussor (I) Binary Love Theme (II) Steambanger's Ball (Drum Solo).mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-09 Middletown Dreams.mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-08 Limelight (Soundcheck Recording).mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-05 The Spirit Of Radio.mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-11 Manhattan Project.mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-01 Dreamline.mp3
-./Compilations/Clockwork Angels Tour [Live] [Disc 3]/3-03 Red Sector A.mp3
-./Compilations/Dance (RED) Save Lives, Vol. 2
-./Compilations/Dance (RED) Save Lives, Vol. 2/20 Slow Motion (feat. HAERTS).m4a
-./Compilations/Dance (RED) Save Lives, Vol. 2/._20 Slow Motion (feat. HAERTS).m4a
-./Compilations/Clockwork Angels Tour [Disc 2]
-./Compilations/Clockwork Angels Tour [Disc 2]/04 Carnies (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/06 Headlong Flight_Drumbastica (Drum Solo) (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/09 Wish Them Well (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/05 The Wreckers (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/02 Clockwork Angels (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/01 Caravan (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/08 Seven Cities Of Gold (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/03 The Anarchist (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/10 The Garden (Live On Clockwork Angels Tour).mp3
-./Compilations/Clockwork Angels Tour [Disc 2]/07 Peke's Repose (Guitar solo)_Halo Effect (Live On Clockwork Angels Tour).mp3
-./Motopony
-./Motopony/Motopony (Bonus Track Version)
-./Motopony/Motopony (Bonus Track Version)/02 King of Diamonds.m4a
-./Motopony/Motopony (Bonus Track Version)/02 King of Diamonds 1.m4a
-./Motopony/Motopony (Bonus Track Version)/._02 King of Diamonds 1.m4a
-./Peter Gabriel/So/09 In Your Eyes 1.m4p
-./Peter Gabriel/So/._09 In Your Eyes 1.m4p
-./Say Hi
-./Say Hi/Um, Uh Oh (Bonus Track Version)
-./Say Hi/Um, Uh Oh (Bonus Track Version)/01 Dots On Maps.m4a
-./Cristina
-./Cristina/De los Pies Hasta la Frente
-./Cristina/De los Pies Hasta la Frente/03 Mucha Mujer para Ti.m4a
-./Gregory Alan Isakov
-./Gregory Alan Isakov/The Weatherman
-./Gregory Alan Isakov/The Weatherman/._04 Living Proof.m4a
-./Gregory Alan Isakov/The Weatherman/._04 Living Proof 1.m4a
-./Gregory Alan Isakov/The Weatherman/04 Living Proof.m4a
-./Gregory Alan Isakov/The Weatherman/04 Living Proof 1.m4a
-./Cory Morrow
-./Cory Morrow/Second Chance - Single
-./Cory Morrow/Second Chance - Single/01 Second Chance.m4a
-./London Philharmonic Orchestra, Renée Fleming & Sir Charles Mackerras
-./London Philharmonic Orchestra, Renée Fleming & Sir Charles Mackerras/Renée Fleming
-./London Philharmonic Orchestra, Renée Fleming & Sir Charles Mackerras/Renée Fleming/07 La Wally, Drama Lirica in Quattro Atti_ Ebben_ Ne Andrò Lontana.m4p
-./London Philharmonic Orchestra, Renée Fleming & Sir Charles Mackerras/Renée Fleming/._07 La Wally, Drama Lirica in Quattro Atti_ Ebben_ Ne Andrò Lontana.m4p
-./Angus & Julia Stone
-./Angus & Julia Stone/A Book Like This
-./Angus & Julia Stone/A Book Like This/01 Mango Tree.m4a
-./Travis
-./Travis/Ode to J. Smith
-./Travis/Ode to J. Smith/06 Last Words.m4a
-./Neko Case
-./Neko Case/People Got a Lotta Nerve - Single
-./Neko Case/People Got a Lotta Nerve - Single/01 People Got a Lotta Nerve.m4a
