@@ -110,3 +110,6 @@ foreach (@worklist) {
         copy( $_, $path . "/" . $file) or die "Failed: $!";
     }
 }
+
+# now the import dir has the files to be imported into the master library
+
