@@ -15,6 +15,9 @@ chomp @dlib;
 say "There are " . @clib . " files in Cindy's library";
 say "There are " . @dlib . " files in Dan's library";
 
+# strip off ./iTunes Media/Music
+my @clib2 = map { s/^\.\/iTunes Media\/Music/\./; $_ } @clib;
+
 # only look at the Music
 my @dlib2 = grep { /^\.\/iTunes\/Music/ } @dlib;
 
@@ -26,7 +29,7 @@ my @dlib3 = map { s/^\.\/iTunes\/Music/\./; $_ } @dlib2;
 
 # shove all Cindy's entries into a hash
 my $chash = {};
-foreach (@clib) {
+foreach (@clib2) {
     $chash->{$_}++;
 }
 say "there are " . keys(%$chash) . " keys in chash";
@@ -42,7 +45,7 @@ foreach (@dlib3) {
 }
 say "A total of " . @worklist . " items not found";
 
-my @badext = qw/png jpg mov plist css js html txt xml itlp DS_Store pdf aif/;
+my @badext = qw/png jpg mov plist css js html txt xml itlp DS_Store pdf aif 0 5 King M_ S_/;
 foreach my $ext (@badext) {
     @worklist = map {/\.$ext$/ ? '': $_} @worklist;  # remove bad extention files
 }
