@@ -70,5 +70,6 @@ say "extensions are " . join( " ", sort keys(%h));
 
 write_file( "output.txt", sort @worklist);
 # now copy these into a folder to import into Cindy's iTunes
-@worklist = map { 'scp "dan@ubuntu:/mnt/user_data/dan_data/Music/iTunes/Music/$_" "import/$_"' . "\n"} @worklist;
+chomp @worklist;
+@worklist = map { "scp \"dan\@ubuntu:/mnt/user_data/dan_data/Music/iTunes/Music/$_\" \"import/$_\"\n"} @worklist;
 write_file("copy.sh", @worklist);
